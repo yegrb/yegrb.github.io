@@ -1,0 +1,10 @@
+---
+layout: default
+title: Next Meetup April 6th
+---
+
+The next Edmonton Ruby Meetup is happening on Tuesday April 6th, 2010.
+
+Sign up to attend or to talk at ...
+
+We'll post a list of speakers next week.
