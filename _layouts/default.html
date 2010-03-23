@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="/stylesheets/reset.css" type="text/css" media="screen" title="no title" charset="utf-8" />
     <link rel="stylesheet" href="/stylesheets/text.css" type="text/css" media="screen" title="no title" charset="utf-8" />
     <link rel="stylesheet" href="/stylesheets/960.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+    <link rel="stylesheet" href="/stylesheets/yegrb.css" type="text/css" media="screen" title="no title" charset="utf-8" />
   </head>
   <body>
     <div class="container_12">
@@ -17,71 +18,76 @@
         {{ content }}
       </div>
       <div id="sidebar" class="grid_4">
-        <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-        <script>
-        new TWTR.Widget({
-          version: 2,
-          type: 'profile',
-          rpp: 4,
-          interval: 6000,
-          width: 300,
-          height: 300,
-          theme: {
-            shell: {
-              background: '#333333',
-              color: '#ffffff'
+        <div class="block">
+          <!-- YEGRB Twitter Profile -->
+          <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+          <script>
+          new TWTR.Widget({
+            version: 2,
+            type: 'profile',
+            rpp: 4,
+            interval: 6000,
+            width: 300,
+            height: 300,
+            theme: {
+              shell: {
+                background: '#333333',
+                color: '#ffffff'
+              },
+              tweets: {
+                background: '#000000',
+                color: '#ffffff',
+                links: '#4aed05'
+              }
             },
-            tweets: {
-              background: '#000000',
-              color: '#ffffff',
-              links: '#4aed05'
+            features: {
+              scrollbar: false,
+              loop: false,
+              live: true,
+              hashtags: true,
+              timestamp: true,
+              avatars: false,
+              behavior: 'all'
             }
-          },
-          features: {
-            scrollbar: false,
-            loop: false,
-            live: true,
-            hashtags: true,
-            timestamp: true,
-            avatars: false,
-            behavior: 'all'
-          }
-        }).render().setUser('yegrb').start();
-        </script>
+          }).render().setUser('yegrb').start();
+          </script>
+        </div>
 
-        <!-- Edmonton Rubyists -->
-        <script>
-        new TWTR.Widget({
-          version: 2,
-          type: 'list',
-          rpp: 30,
-          interval: 6000,
-          title: 'Edmonton Rubyists',
-          subject: 'console',
-          width: 300,
-          height: 300,
-          theme: {
-            shell: {
-              background: '#d60d0d',
-              color: '#ffffff'
+        <div class="block">
+          <!-- Edmonton Rubyists -->
+          <script>
+          new TWTR.Widget({
+            version: 2,
+            type: 'list',
+            rpp: 30,
+            interval: 6000,
+            title: 'Edmonton Rubyists',
+            subject: 'console',
+            width: 300,
+            height: 300,
+            theme: {
+              shell: {
+                background: '#d60d0d',
+                color: '#ffffff'
+              },
+              tweets: {
+                background: '#ffffff',
+                color: '#444444',
+                links: '#d60d0d'
+              }
             },
-            tweets: {
-              background: '#ffffff',
-              color: '#444444',
-              links: '#d60d0d'
+            features: {
+              scrollbar: true,
+              loop: false,
+              live: true,
+              hashtags: true,
+              timestamp: true,
+              avatars: true,
+              behavior: 'all'
             }
-          },
-          features: {
-            scrollbar: true,
-            loop: false,
-            live: true,
-            hashtags: true,
-            timestamp: true,
-            avatars: true,
-            behavior: 'all'
-          }
-        }).render().setList('yegrb', 'edmonton-rubyists').start();
-        </script>
+          }).render().setList('yegrb', 'edmonton-rubyists').start();
+          </script>
+        </div>
       </div>
     </div>
   </body>
