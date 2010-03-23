@@ -6,4 +6,7 @@ title: '#yegrb'
 {% for post in site.posts %}
   <small>{{ post.date | date_to_string}}</small>
   <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  <div class="post-content">
+    {{ post.content }}
+  </div>
 {% endfor %}
