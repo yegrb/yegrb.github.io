@@ -22,7 +22,7 @@
     <link href="{{ site.homepage_url }}{{ post.url }}" />
     <id>{{ post.id | xml_escape }}</id>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <summary>{{ post.content }}</summary>
+    <summary>{{ post.content | xml_escape }}</summary>
   </entry>
 {% endfor %}
 
