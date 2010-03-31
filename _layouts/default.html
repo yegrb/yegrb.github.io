@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="/stylesheets/text.css" type="text/css" media="screen" title="no title" charset="utf-8" />
     <link rel="stylesheet" href="/stylesheets/960.css" type="text/css" media="screen" title="no title" charset="utf-8" />
     <link rel="stylesheet" href="/stylesheets/yegrb.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+    <link href="{{ site.atom_url }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
   </head>
   <body>
     <div class="container_12">
@@ -93,7 +94,15 @@
         <div class="block">
           <iframe src="https://www.google.com/calendar/hosted/yegrb.com/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=yegrb.com_4pmb3hc3jv4jc75jhodv6m2rkc%40group.calendar.google.com&amp;color=%23A32929&amp;ctz=America%2FEdmonton" style=" border-width:0 " width="300" height="320" frameborder="0" scrolling="no"></iframe>
         </div> <!-- end block -->
-      </div>
+        <div class="block">
+          <h2>Subscribe</h2>
+          <ul>
+            <li>
+              <a href="{{ site.atom_url }}">Atom</a>
+            </li>
+          </ul>
+        </div>
+      </div> <!-- end sidebar -->
     </div>
 
   <!-- Google Analytics -->
