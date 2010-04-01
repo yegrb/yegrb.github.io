@@ -1,0 +1,20 @@
+---
+layout: default
+title: MEETUP - April 6th
+---
+
+As we've already announced the next YEGRB Meetup is happening on <strong>Tuesday April 6th, 2010 at 6:30 PM</strong>.
+
+The meetup will be happening in the <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=10320+-+102+Ave,+Edmonton,+AB+(Nexopia+Offices)&sll=53.543006,-113.497776&sspn=0.007497,0.01929&ie=UTF8&hq=&hnear=10320+102+Ave+NW,+Edmonton,+Division+No.+11,+Alberta,+Canada&t=h&z=16"><strong>Nexopia offices at #408, 10320 - 102 Ave</strong></a>. This is the same location as last time.  You want to enter from the enterance on 102 AVE.  If the doors have already locked we'll leave a note with instructions for getting in.
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=10320+-+102+Ave,+Edmonton,+AB+(Nexopia+Offices)&amp;sll=53.543006,-113.497776&amp;sspn=0.007497,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=10320+102+Ave+NW,+Edmonton,+Division+No.+11,+Alberta,+Canada&amp;t=h&amp;z=16&amp;ll=53.543006,-113.497776&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=10320+-+102+Ave,+Edmonton,+AB+(Nexopia+Offices)&amp;sll=53.543006,-113.497776&amp;sspn=0.007497,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=10320+102+Ave+NW,+Edmonton,+Division+No.+11,+Alberta,+Canada&amp;t=h&amp;z=16&amp;ll=53.543006,-113.497776" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+We've got an exciting list of topics lined up for Tuesday, including:
+
+ * "Building www.elxn41.ca" with <a href="http://twitter.com/cbrulak">@cbrulak</a>
+ * "Sinatra or CouchDB" with <a href="http://twitter.com/skepticsean">@skepticsean</a>
+ * "Announcing your app with Bonjour" with <a href="http://twitter.com/markbennett">@markbennett</a>
+
+We're also hoping to have a few other surprises but you'll just have to come out to see what we're planning.
+
+You can still <a href="https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dFUwcS1MN185YmVCVm00NjNwYkFabFE6MA">sign up to attend or to talk</a>.
