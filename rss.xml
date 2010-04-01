@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
+  <channel> 
+    <title>{{ site.title | xml_escape }}</title> 
+    <link>{{ site.homepage_url }}</link> 
+    <description>{{ site.subtitle | xml_escape }}</description>
+    <!-- 
+    <image> 
+      <url>http://www.blogsmithmedia.com/www.engadget.com/media/feedlogo.gif</url> 
+      <title>Engadget</title> 
+      <link>http://www.engadget.com</link> 
+    </image>
+    -->
+    <language>en-ca</language> 
+    <copyright>The content of this site is distributed under a attribution share-alike license.</copyright> 
+
+{% for post in site.posts %}
+    <item>
+      <title><![CDATA[{{ post.title | xml_escape }}]]></title>
+      <link>{{ site.homepage_url }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.homepage_url }}{{ post.url }}</guid>
+      <!--
+      <comments>http://www.engadget.com/2010/03/31/acer-aspire-ethos-8943g-and-timelinex-3820t-4820t-5820t-get-ha/#comments</comments>
+      -->
+      <description><![CDATA[{{ post.content }}]]></description>
+      <dc:creator><![CDATA[{{ site.author_name | xml_escape }}]]></dc:creator>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+    </item>
+{% endfor %}
+  </channel>
+</rss>
