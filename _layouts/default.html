@@ -8,8 +8,7 @@
     <link rel="stylesheet" href="/stylesheets/text.css" type="text/css" media="screen" title="no title" charset="utf-8" />
     <link rel="stylesheet" href="/stylesheets/960.css" type="text/css" media="screen" title="no title" charset="utf-8" />
     <link rel="stylesheet" href="/stylesheets/yegrb.css" type="text/css" media="screen" title="no title" charset="utf-8" />
-    <link href="{{ site.atom_url }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
-    <link href="{{ site.rss_url }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed" />
+    <link href="{{ site.rss_url }}" type="application/rss+xml" rel="alternate" title="YEGRB RSS Feed" />
   </head>
   <body>
     <div class="container_12">
@@ -18,11 +17,12 @@
         <h1><a href="/">#yegrb</a></h1>
         <p>{{ site.subtitle | xml_escape }}</p>
       </div>
-      <div class="grid_8 alpha">
+      <div class="grid_8 alpha" id="main_content">
         {{ content }}
       </div>
       <div id="sidebar" class="grid_4 omega">
         <div class="block">
+          <h2>Twitter</h2>
           <!-- YEGRB Twitter Profile -->
           <script src="http://widgets.twimg.com/j/2/widget.js"></script>
           <script>
@@ -102,10 +102,9 @@
             <li>
               <a href="{{ site.rss_url }}">RSS</a>
             </li>
-            <li>
-              <a href="{{ site.atom_url }}">Atom</a>
-            </li>
           </ul>
+        </div>
+        <div class="block">
         </div>
       </div> <!-- end sidebar -->
     </div>
@@ -125,9 +124,10 @@
   <script src="http://platform.twitter.com/anywhere.js?id=8BXpnPDdcha67jEyAUeOfg&v=1">
   </script>
   <script type="text/javascript">
-     twttr.anywhere(function(twitter) {
-              twitter.hovercards();
-     });
+    twttr.anywhere(function(twitter) {
+      // Add Twitter hover cards
+      twitter("#main_content a.tweep").hovercards();
+    });
   </script>
   </body>
 </html>
