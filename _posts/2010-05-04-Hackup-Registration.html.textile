@@ -1,0 +1,8 @@
+---
+layout: default
+title: Hackup Registration
+---
+
+Registration for the our first hackup is now open!  For the uninitiated a hackup is similair to one of our meetups, but we replace the talking with hacking!  YEGRB supplies a venue, power, and internet so all you need to do is come out.  Each participant gets one minute to introduce themselves and pitch an idea or project they'd like to hack on.  After the pitches are done we break and start hacking on whatever project sounded most interesting to you.  Even better we'll be providing free pizza for lunch!
+
+The hackup is happening this Saturday from 10am-5pm at ENTS (<a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=10575+114th+Street+Edmonton,+AB+T5H+3J6+(ENTS)&sll=53.627208,-113.518526&sspn=0.006057,0.01929&ie=UTF8&hq=&hnear=10575+114+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5H+3J7,+Canada&z=15">map</a>).  Unlike the meetup, spaces at the hackup are limited so <a href="http://bit.ly/baiwqR">register now</a> to avoid dissapointment.  If you're looking for project ideas check out our <a href="/hacklist/">hacklist</a>!
