@@ -9,6 +9,6 @@ Most recently, Aman has been hacking on performance improvements to MRI, and too
 
 We've setup a <a href="http://www.google.com/moderator/#16/e=c9f4">Google Moderator channel to collect questions for Aman</a> in advance of his talk.  Submit your questions early and vote on the ones you're most interested in so that we make maximum use of his time.  You can also record a YouTube video of yourself asking your question.
 
-The meetup will be taking place on June 15th @ 18:30 MST. 
+The meetup will be taking place on June 15th @ 18:30 MST.  Please <a href="https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dHhCUmZxSzlmbFJCeGZ0MWtLcXNib2c6MA#gid=0">RSVP in advance</a>.
 
 Thanks to Daniel (<a href="http://twitter.com/darkhelmetlive">@darkhelmetlive</a>) for setting this talk up! 
