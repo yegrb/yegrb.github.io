@@ -1,0 +1,18 @@
+---
+layout: default
+title: YEGRB 0.6 - 21-Sept-2010 6:30pm at Axis Cafe
+---
+With the arrival of September the Ruby Meetup are back and ready to rumble!  RailsRumble that is!
+
+This month's meetup is about preparing YEGRB members to participate in the RailsRumble in October.  The rumble is a yearly competition that pits developers from around the world together in a contest to develop and deploy an application in 48-hours.  The competition can be fierce but the experience can be just what you need to get an edge in your Rails development.
+
+This month's speakers include:
+
+* @mdeering - Advanced Capistrano deployments
+* @benzittlau - Using CSS frameworks
+* @cbrulak - Adding OpenID to your app
+* @markbennett - RailsRumble checklist
+
+"Register for this month's meeetup now":https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dEdFdG5zOFk1ZERaN1RtYVVNaERYeXc6MA#gid=0
+
+We've also got a list of "Rumble teams in Edmonton looking for teammates":/rumble.

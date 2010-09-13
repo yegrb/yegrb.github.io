@@ -3,3 +3,4 @@
   #header h1 { text-shadow: #999999 0.1em 0.1em 0.1em; }
 #sidebar .block { margin: 0 0 1.5em 0; }
 .post .post-date { float: right; }
+#main_content { min-height: 300px; }

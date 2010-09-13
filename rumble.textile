@@ -1,0 +1,9 @@
+---
+layout: default
+title: RailsRumble teams
+---
+h1. 2010 RailsRumble Teams
+
+* Team "@cbrulak":http://twitter.com/cbrulak
+
+Want to be on this list?  "Register your rumble team":http://railsrumble.com/ and let us know how you want people to contact you!
