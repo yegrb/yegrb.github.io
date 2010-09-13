@@ -17,7 +17,7 @@ title: Support local Ruby developers in the Apps4Edmonton contest
   </li>
   <li><a href="http://contest.apps4edmonton.ca/apps/24">TXT.2.ETS</a> - SMS us a bus stop number and we will send back the next few buses that will arrive and when.
   </li>
-  <li><a href="http://contest.apps4edmonton.ca/apps/20">YEGTRASH.com</a> - Is it time to take out the trash?  Find out, no registration required!
+  <li><a href="http://contest.apps4edmonton.ca/apps/20">YEGTRASH.com</a> - Is it time to take out the trash?  Find out, no registration required! (<a href="http://github.com/MarkBennett/yegtrash">source</a>)
   </li>
 </ul>
 </p>
