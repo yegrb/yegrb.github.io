@@ -4,6 +4,7 @@ title: RailsRumble teams
 ---
 h1. 2010 RailsRumble Teams
 
-* Team "@cbrulak":http://twitter.com/cbrulak
+* Team "@cbrulak":http://twitter.com/cbrulak (3/4 spots full)
+* Team "Proc, Block, Lambda":http://twitter.com/darkhelmetlive (3/4 spots full)
 
 Want to be on this list?  "Register your rumble team":http://railsrumble.com/ and let us know how you want people to contact you!
