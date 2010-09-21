@@ -7,7 +7,7 @@ h1. House Keeping
 h2. Apps4Edmonton
 * The first Apps4Edmonton contest was a great success with 36 apps entered
 * 5 applications identified as build using Ruby
-* Congratulations to Alertzy! and TXT.2.ETS for their winning entries
+* Congratulations to all the apps, especially Alertzy! (Ben Zittlau, Ryan Jones, and Greg Bain) and TXT.2.ETS (Sean Healy and Joel Jackson) for their winning entries
 
 h2. News
 * Rails 3 has been officially released
@@ -25,10 +25,9 @@ h2. Google Group
 * Visit the group at http://groups.google.com/group/yegrb
 
 h2. RailsRumble
-* Two teams have registered from the meetup
+* Three teams have registered from the meetup
 * Both teams still looking for one more member
-* All RailsRumble spots now full
-** There is a waiting list
+* Thanks to the designers who came out!
 
 h2. Next Meetup
 * All about javascript
@@ -36,3 +35,8 @@ h2. Next Meetup
 * Submit your talks soon as this is going to be a popular meetup!
 
 h1. Speakers
+* "@mdeering":http://twitter.com/mdeering - Advanced Capistrano deployments
+* "@benzittlau":http://twitter.com/benzittlau - Using CSS frameworks
+* "@cbrulak":http://twitter.com/cbrulak - Adding OpenID to your app
+* "@markbennett":http://twitter.com/markbennett - RailsRumble checklist
+* "@darkhelmetlive":http://twitter.com/darkhelmetlive - RVM: Ruby goes to 11!
