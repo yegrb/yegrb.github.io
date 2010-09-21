@@ -1,0 +1,38 @@
+---
+layout: default
+title: YEGRB 0.6 Notes
+---
+h1. House Keeping
+
+h2. Apps4Edmonton
+* The first Apps4Edmonton contest was a great success with 36 apps entered
+* 5 applications identified as build using Ruby
+* Congratulations to Alertzy! and TXT.2.ETS for their winning entries
+
+h2. News
+* Rails 3 has been officially released
+** We'll have a full introduction at a meetup soon
+** Lot's of good documention:http://weblog.rubyonrails.org/2010/8/29/rails-3-0-it-s-done
+* RVM goes 1.0!
+* Ruby 1.9.2 released
+* Beta of Passenger 3
+* Devise 1.1.x
+
+h2. Google Group
+* Our mandate is to connect ruby users in Edmonton
+* We've created a google group to do this between meetups
+* Membership is moderated but posts aren't
+* Visit the group at http://groups.google.com/group/yegrb
+
+h2. RailsRumble
+* Two teams have registered from the meetup
+* Both teams still looking for one more member
+* All RailsRumble spots now full
+** There is a waiting list
+
+h2. Next Meetup
+* All about javascript
+* Show off your nodejs, canvas, and HTML5 skills
+* Submit your talks soon as this is going to be a popular meetup!
+
+h1. Speakers
