@@ -1,0 +1,15 @@
+---
+layout: default
+title: YEGJS - 19-Oct-2010 at Axis Cafe
+---
+
+This month we're taking a break from Ruby to talk about... JavaScript!
+
+Javascript is a topic of interest to many Rubyists, and we decided that there's enough going on to warrant it's own meetup.
+
+We've already got speakers talking about Node.js and TDD in Javascript, but there are lots of other things to cover. If you'd like to do a talk then contact @yegrb on Twitter or email mark@yegrb.com.
+
+We're also still looking for a sponsor for this months meetup. Sponsoring a meetup is as cheap as $100 and ensures we can keep these meetups going at the current venue. Contact mark@yegrb.com if you're interested.
+
+[RSVP to attend or do a lightning talk](https://spreadsheets.google.com/viewform?formkey=dEpKWl9jVDFsUHNHa1lJaWRqLXlBVmc6MA). See you there!
+
