@@ -2,10 +2,33 @@
 layout: default
 title: RailsRumble teams
 ---
-h1. 2010 RailsRumble Teams
+h1. RailsRumble 2010
+
+The RailsRumble is 48 mad hours of web application building mayhem.  Teams from around the world compete for prizes, prestige, and hopefully profit!
+
+This years Rumble runs Oct 16-18th beginning at midnight GMT (6PM MST).
+
+h2. 2010 RailsRumble Teams
 
 * Team "@cbrulak":http://twitter.com/cbrulak (FULL!)
 * Team "Proc, block, and two smoking lambda":http://twitter.com/darkhelmetlive (FULL!)
-* Team "@scottbrooksca":http://twitter.com/scottbrooksca (1/4 spots full)
+* Team "@mdeering":http://twitter.com/meedring (FULL!)
+* Team "@RedmanTech":http://twitter.com/RedmanTech (FULL!)
 
-Want to be on this list?  "Register your rumble team":http://railsrumble.com/ and reply to "@yegrb":http://twitter.com/yegrb to let us know!
+Are you not on this list?  "Register your rumble team":http://railsrumble.com/ and reply to "@yegrb":http://twitter.com/yegrb to let us know!
+
+h2. RailsRumble Venues
+
+A number of local venues have kindly offered their buildings to YEGRB members participating in this years RailsRumble.  If you're team is looking for a place you can code together please email <a href="mark@yegrb.com">mark@yegrb.com</a> and we'll hook your team up.  A big thanks to Yardstick Software, Lift Interactive, ENTS, and the Univeristy of Alberta for already agreeing to provide space for some of our teams.
+
+h2. Staying in touch
+
+It's up to each team how they stay in touch, however the "#YEGRB irc channel on irc.freenode.org":http://webchat.freenode.net/?channels=yegrb and the "YEGRB mailing lists":http://groups.google.com/group/yegrb are great places to start.  We'll also be tweeting with the "#yegrumble":http://twitter.com/#search?q=yegrumble hash tag on twitter.
+
+h2. Resources
+
+* "RailsRumble website":http://railsrumble.com
+* "RailsRumble FAQ":http://blog.railsrumble.com/rules
+* "RailsRumble 2010 rules":http://blog.railsrumble.com/rules
+* "Are you ready to rumble?":http://markbennett.ca/post/1156319604/rumble-checklist ("slides":http://railsrumble-preplist.heroku.com/)
+* "@RailsRumble on Twitter":http://twitter.com/railsrumble
