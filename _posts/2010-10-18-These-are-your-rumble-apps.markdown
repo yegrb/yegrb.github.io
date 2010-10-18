@@ -15,6 +15,7 @@ Foosleague features global and league ladder ranking at both the individual and 
 
 [Team page](http://railsrumble.com/teams/foos-league)
 [The App](http://foosleague.r10.railsrumble.com/)
+[Screencast](http://assets.bigleaguestudios.com/foosleague_tour.mov)
 
 <h2 style="clear:both">Codebucks</h2>
 
