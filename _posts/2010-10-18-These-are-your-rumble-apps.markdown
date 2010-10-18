@@ -29,6 +29,16 @@ Typically these communities revolve around a mailing list. We want to open up th
 [Team page](http://railsrumble.com/teams/codebucks)
 [The App](http://letitfreeme.r10.railsrumble.com/)
 
+The Weebeteurs
+--------------
+
+<img alt="Weebet Screenshot" src="/images/posts/2010/10/weebet_screenshot.png" style="float: left; margin: 0 2em 2em 0"/>
+
+A social-oriented game of sporting event predicitions and wagers. Compete against your friends or the entire userbase. Rise to the top by winning points for your predictions and wagering those points to further raise your score.
+
+[Team Page](http://railsrumble.com/teams/the-weebeteurs)
+[The App](http://wee-bet.com/)
+
 Proc, Block and Two Smoking Lambdas
 -----------------------------------
 
@@ -40,15 +50,6 @@ GemRage scans your installed gems and Gemfiles and links it to information from 
 [The App](http://gemrage.r10.railsrumble.com/)
 [Info / Screencast](http://gemrage.com/)
 
-The Weebeteurs
---------------
-
-<img alt="Weebet Screenshot" src="/images/posts/2010/10/weebet_screenshot.png" style="float: left; margin: 0 2em 2em 0"/>
-
-A social-oriented game of sporting event predicitions and wagers. Compete against your friends or the entire userbase. Rise to the top by winning points for your predictions and wagering those points to further raise your score.
-
-[Team Page](http://railsrumble.com/teams/the-weebeteurs)
-[The App](http://wee-bet.com/)
 
 <hr style="clear:both" />
 Come congratulate the teams in person and join us for drinks at tomorrow's YEGRB meetup.  We'll be talking about javascript before heading out for beers.  Meet us at 18:30 at Axis Cafe on the south side of Jasper Ave between 104th street and 103rd.  [RSVP here](https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dEpKWl9jVDFsUHNHa1lJaWRqLXlBVmc6MA#gid=0).
