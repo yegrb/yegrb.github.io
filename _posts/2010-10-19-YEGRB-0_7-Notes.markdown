@@ -48,7 +48,7 @@ Please contact jobs@yegrb.com if you'd like to get your job listed at our next m
 Talks
 =====
 * NodeJS by [@SkepticSean](http://twitter.com/SkepticSean)
-* CoffeeScript by [@darkhelmetlive](http://twitter.com/darkhelmetlive)
+* [CoffeeScript](http://get-jittery-with-coffeescript.heroku.com/) by [@darkhelmetlive](http://twitter.com/darkhelmetlive)
 * [Javascript](http://github.com/MarkBennett/IntroToJsTdd) TDD by [@MarkBennett](http://twitter.com/MarkBennett)
 
 
