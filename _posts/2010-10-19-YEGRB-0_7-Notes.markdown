@@ -1,0 +1,48 @@
+---
+layout: default
+title: YEGRB 0.7 Notes
+---
+
+House Keeping
+=============
+
+Looking for a new venue
+-----------------------
+
+- cheap is great, free is better
+- needs wifi, projector
+- food and drink
+
+
+News
+====
+
+- [RSpec 2.0(.1)](http://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
+- [Passenger 3](http://blog.phusion.nl/2010/10/18/phusion-passenger-3-0-0-final-released/) - Smaller, faster, better and now with more RVM
+- [OmniAuth](http://github.com/intridea/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware
+
+RailsRumble
+===========
+
+Congratulations to all the teams that participated in the RailsRumble!  There were four teams competing and they all completing some great looking and funtional apps.  We've posted [profiles of each app](http://yegrb.com/2010/10/18/These-are-your-rumble-apps/) on the blog.
+
+Public voting starts next week, but you can [register your RailsRumble account now](http://railsrumble.com/login) to participate in the judging.
+
+*rumble teams now have a few minutes to demo their apps*
+
+And now for today's surprise, Cam Linke has agreed to give each app a few minutes to demo at the next DemoCamp.  If you're interested in doing so please let me know.
+
+
+Talks
+=====
+* NodeJS by [@SkepticSean](http://twitter.com/SkepticSean)
+* CoffeeScript by [@darkhelmetlive](http://twitter.com/darkhelmetlive)
+* [Javascript](http://github.com/MarkBennett/IntroToJsTdd) TDD by [@MarkBennett](http://twitter.com/MarkBennett)
+
+
+Next Meetup
+===========
+
+Our next meetup is going to be on Tuesday Nov 16th.
+
+**We'll be switching venues so please watch Twitter and yegrb.com for details!**
