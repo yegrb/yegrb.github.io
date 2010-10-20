@@ -33,6 +33,18 @@ Public voting starts next week, but you can [register your RailsRumble account n
 And now for today's surprise, Cam Linke has agreed to give each app a few minutes to demo at the next DemoCamp.  If you're interested in doing so please let me know.
 
 
+Jobs, Jobs, Jobs
+=================
+
+There are lots of ruby and javascript jobs this month!
+
+- [Clio](http://www.goclio.com/) seeks [Software Developer, Ruby on Rails](http://jobs.37signals.com/jobs/7583)
+- [Appboy](http://appboy.com/) seeks [Lead Developer](http://www.startuphire.com/search/details.php?job=106718)
+- [Seek Your Own Proof](http://www.seekyourownproof.com/) seeks [jQuery/JavaScript guru](http://www.seekyourownproof.com/public/contact-us.aspx)
+- [Burmis Studio](http://burmis.ca) seeks [Ruby Developer](http://www.burmis.ca/#contact)
+
+Please contact jobs@yegrb.com if you'd like to get your job listed at our next meetup!
+
 Talks
 =====
 * NodeJS by [@SkepticSean](http://twitter.com/SkepticSean)
@@ -43,6 +55,6 @@ Talks
 Next Meetup
 ===========
 
-Our next meetup is going to be on Tuesday Nov 16th.
+Our next meetup is going to be on **Tuesday Nov 16th**.
 
 **We'll be switching venues so please watch Twitter and yegrb.com for details!**
