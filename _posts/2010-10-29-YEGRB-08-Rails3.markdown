@@ -18,7 +18,7 @@ We're looking for speakers to discuss anything and everything related to Rails 3
 * Upgrading a Rails 2.3 app to Rails 3
 * Integrating your existing gems with Rails 3
 * Rails 3 routing
-* ARAL and the new ActiveRecord
+* AREL and the new ActiveRecord
 * Testing Rails 3 apps with rspec
 * Integrating Rails 3 with other rack applications
 
