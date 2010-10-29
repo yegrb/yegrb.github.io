@@ -1,0 +1,42 @@
+---
+title: YEGRB 0.8 Rails 3 - 16-Nov at 18:30
+layout: default
+---
+
+
+THE DETAILS:
+===============
+
+**WHEN**: 16-Nov-2010 at 18:30  
+**WHERE**: [Room 607, Stanley Milner Library, 7 Sir Winston Churchill Square](http://goo.gl/XOrd)
+
+This month, we're getting back to our roots to talk about the recent release of Rails 3.
+
+We're looking for speakers to discuss anything and everything related to Rails 3.  Ideas for talks include:
+
+* Installing Rails 3 and creating your first app
+* Upgrading a Rails 2.3 app to Rails 3
+* Integrating your existing gems with Rails 3
+* Rails 3 routing
+* ARAL and the new ActiveRecord
+* Testing Rails 3 apps with rspec
+* Integrating Rails 3 with other rack applications
+
+If you haven't done a lightning talk at YEGRB before, now is your change to give it a try!  They're only 10-minutes and it's a great experience.  Sign up to talk using the RSVP form below.
+
+Daniel (@darkhelmetlive) has also kindly volunteered to MC this month's meetup.  Please don't give him too much of a hard time as this is his first time running the show.  I won't be there in person, but I will deliver a screen cast on Rails 3 remotely.
+
+IMPORTANT:
+============
+
+Please note that we're having this meetup at the [Stanley Milner Public Library](http://goo.gl/XOrd).  There's parking in the library parkade, and you can access the library building from Churchill LRT station, or from the bus terminal at the front entrance.  The meetup is on level 6, room #7.  We'll post signs at the door on the night of the event.   It's a new venue for us, and we'd appreciate any feedback you may have.
+
+RSVP:
+===========
+
+[Use this form to RSVP](http://goo.gl/t6yj)
+
+Contact [mark@yegrb.com](mailto:mark@yegrb.com) if you have any questions.  See you there!
+
+-Mark Bennett  
+YEGRB member
