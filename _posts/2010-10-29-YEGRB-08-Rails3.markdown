@@ -1,13 +1,14 @@
 ---
-title: YEGRB 0.8 Rails 3 - 16-Nov at 18:30
+title: UPDATED! YEGRB 0.8 Rails 3 - 16-Nov at 19:00
 layout: default
 ---
 
+**UPDATE: Please note this is now at 19:00.  We're also still looking for speakers!**
 
 THE DETAILS:
 ===============
 
-**WHEN**: 16-Nov-2010 at 18:30  
+**WHEN**: 16-Nov-2010 at 19:00
 **WHERE**: [Room 607, Stanley Milner Library, 7 Sir Winston Churchill Square](http://goo.gl/XOrd)
 
 This month, we're getting back to our roots to talk about the recent release of Rails 3.
