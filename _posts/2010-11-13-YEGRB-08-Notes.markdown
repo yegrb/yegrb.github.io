@@ -1,0 +1,48 @@
+---
+layout: default
+title: YEGRB 0.8 Notes
+---
+
+House Keeping
+=============
+
+RailsRumble Survey
+--------------------
+
+Over the last month we ran a survey to see how useful YEGRB's support was during the RailsRumble.  The results are out, and the executive summary is that teams found YEGRB provided good useful about the rumble, and publicity for their apps.  Teams didn't find YEGRB very useful for matchmaking or venue finding which is something we'll try to improve on next year.  The teams were also very happy with their performance, and YEGRB as a whole.  [Full results are online for your own analysis](https://spreadsheets.google.com/ccc?key=0AixYdwrjR-5idENvODZQcmpmaWtVX1FKTHNPZnNtVVE&hl=en).
+
+Thanks to everyone who took the time to share their thoughts and comments!
+
+News
+====
+
+- [RubyConf 2010](http://www.rubyconf.org) happened this weekend.  Yukihiro Matsumoto (Matz), Dave Thomas, and David Heinemeir Hansson.  They've got a [Google group](http://groups.google.com/group/rubyconf-2010) but videos aren't up yet.
+- Other stuff?
+
+Jobs, Jobs, Jobs
+=================
+
+There are lots of ruby and javascript jobs this month!
+
+- [Clio](http://www.goclio.com/) seeks [Software Developer, Ruby on Rails](http://jobs.37signals.com/jobs/7583)
+- [Appboy](http://appboy.com/) seeks [Lead Developer](http://www.startuphire.com/search/details.php?job=106718)
+- [Seek Your Own Proof](http://www.seekyourownproof.com/) seeks [jQuery/JavaScript guru](http://www.seekyourownproof.com/public/contact-us.aspx)
+- [Burmis Studio](http://burmis.ca) seeks [Ruby Developer](http://www.burmis.ca/#contact)
+
+Please contact jobs@yegrb.com if you'd like to get your job listed at our next meetup!
+
+Talks
+=====
+* [Rails 3 in 10 minutes](#) by [@MarkBennett](http://twitter.com/MarkBennett)
+
+Next Meetup
+===========
+
+Our next meetup is going to be on **Tuesday Dec 21st**.
+
+Stay In Touch
+==============
+
+- YEGRB [Google Group](http://groups.google.com/group/yegrb)
+- YEGRB on IRC at [#yegrb on irc.freenode.net](http://webchat.freenode.net/?randomnick=1&channels=yegrb&uio=d4)
+- YEGRB on [Twitter](http://twitter.com/yegrb)
