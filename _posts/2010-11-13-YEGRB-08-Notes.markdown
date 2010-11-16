@@ -13,11 +13,15 @@ Over the last month we ran a survey to see how useful YEGRB's support was during
 
 Thanks to everyone who took the time to share their thoughts and comments!
 
+
+
 News
 ====
 
 - [RubyConf 2010](http://www.rubyconf.org) happened this weekend.  Yukihiro Matsumoto (Matz), Dave Thomas, and David Heinemeir Hansson.  They've got a [Google group](http://groups.google.com/group/rubyconf-2010) but videos aren't up yet.
 - Other stuff?
+
+
 
 Jobs, Jobs, Jobs
 =================
@@ -31,14 +35,21 @@ There are lots of ruby and javascript jobs this month!
 
 Please contact jobs@yegrb.com if you'd like to get your job listed at our next meetup!
 
+
+
 Talks
 =====
+
 * [Rails 3 in 10 minutes](#) by [@MarkBennett](http://twitter.com/MarkBennett)
+
+
 
 Next Meetup
 ===========
 
 Our next meetup is going to be on **Tuesday Dec 21st**.
+
+
 
 Stay In Touch
 ==============
