@@ -40,7 +40,7 @@ Please contact jobs@yegrb.com if you'd like to get your job listed at our next m
 Talks
 =====
 
-* [Rails 3 in 10 minutes](#) by [@MarkBennett](http://twitter.com/MarkBennett)
+* [Rails 3 in 10 minutes](http://vimeo.com/groups/69998/videos/16885241) by [@MarkBennett](http://twitter.com/MarkBennett)
 
 
 
