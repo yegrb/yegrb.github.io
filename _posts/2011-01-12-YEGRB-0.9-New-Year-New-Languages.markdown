@@ -1,0 +1,20 @@
+---
+layout: default
+title: YEGRB 0.9 - New Year, New Languages
+---
+
+**WHAT:** YEGRB 0.9 - New Year, New Languages  
+**WHEN:** Tuesday Jan 18th @ 18:30  
+**WHERE:** Original Joe's Varsity (map)  
+
+Our first meetup of 2011 is happening this coming Tuesday at Original Joe's Varsity.  As announced at the last meetup we're talking new languages for the new year.  There will be a short set of lightning talks, then lots of time for beers afterwards.  Even better there's a bar tab!
+
+The languages we'll be presenting include:
+
+ * Erlang
+ * Python
+ * JavaScript
+
+If you'd like to talk reply to @yegrb on Twitter or send us an email to mark@yegrb.com.
+
+We're also looking for a projector.  If you've got one we can use please email mark@yegrb.com.
