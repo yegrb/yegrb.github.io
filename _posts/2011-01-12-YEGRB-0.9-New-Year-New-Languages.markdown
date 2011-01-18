@@ -13,6 +13,7 @@ The languages we'll be presenting include:
 
  * Erlang (@scottbrooksca)
  * Python (@darkhelmetlive)
+ * Groovy (@fnichol)
  * JavaScript (@MarkBennett)
 
 If you'd like to talk reply to @yegrb on Twitter or send us an email to mark@yegrb.com.
