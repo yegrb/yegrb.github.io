@@ -1,0 +1,49 @@
+---
+layout: default
+title: YEGRB 0.9 Notes
+---
+
+Last night was YEGRB's first meetup of the new year, and also our first meetup at Original Joe's Varsity.  Being able to order food and beer during the night was a plus, and we had a great set of talks.
+
+
+h3. News
+
+* "jRuby 1.6.0 RC1":http://www.jruby.org/download, introduces Ruby 1.9.2 syntax
+* "Rubinius 1.2 released":http://www.engineyard.com/blog/2010/rubinius-1-2-now-available/, groundwork for Windows and Ruby 1.9.2 plus bug fixes
+* "RailsInstaller":http://www.rubyinside.com/rails-installer-ruby-and-rails-on-windows-in-a-single-install-4201.html, finally an updated Ruby and Rails installer for Windows
+* "RedDirtRubyConf":http://reddirtrubyconf.com/, is looking for speakers
+* "MountainWest RubyConf 2011":http://mtnwestrubyconf.org/2011/, is happening March 17-18th @darkhelmetlive is organising a roadtrip
+
+
+h3. Jobs
+
+"Smibs.tv":http://tv.smibs.com/ is looking for a Ruby developer to perform various work on their site.  Contact "Peter Urban":mailto:peter@smibs.com for details and let him know you heard about the job at YEGrb.
+
+
+h3. Speakers
+
+The theme for this month's meetup was "New Year, New Languages" and our speakers took that to heart.
+
+First up was @MarkBennett talking about creating objects and inheriting properties with JavaScript's prototypicial inheritence.
+
+<iframe src="https://docs.google.com/present/embed?id=dd46ntfw_443k3mb8gk&amp;interval=30&amp;size=m" frameborder="0" width="555" height="451"></iframe>
+
+Next was @fnichol who came through with an interesting look at "Groovy":http://groovy.codehaus.org/, or as he called "A Java Head's Gateway Drug to Ruby":http://yegrb-groovy-talk.heroku.com/.
+
+<iframe src="http://yegrb-groovy-talk.heroku.com/" frameborder="0" width="555" height="451"></iframe>
+
+@darkhelmetlive followed up with a great dive into the language every Rubyist loves to hate, Python. After reading "his notes on GitHub":https://gist.github.com/783894 you might not be so quick to knock Python at the next meetup.
+
+@scottbrooksca finished off the evening by blowing everyone's minds with a discussion of Erlang.  With it's message passing and fail first philosphy it was a stretch, but he had everyone on his side by the time he was done!
+
+<iframe src="https://docs.google.com/present/view?id=0AdRNBjEirQHuZGNrNWo4bWJfNmd3bXRqMmZ3&hl=en&authkey=CPfk01Q" frameborder="0" width="555" height="451"></iframe>
+
+
+h3. Next meetup
+
+The next meetup is going to be happening on Feb 15th.  We're talking about development workflows.  What's your editor of choice? Console or db tools? Do you autotest or use rake to run tests?  We want to know all your favourite productivity tricks!
+
+To prepare we're asking all members to post a picture or video of your development setup and send a link to us @yegrb on Twitter.  We'll share these at the meetup and have a guided discussion over drinks.
+
+
+Thanks for everyone for a great meetup last night!
