@@ -3,9 +3,9 @@ layout: default
 title: YEGRB 0.10 Work Smarter
 ---
 
-**WHAT:** YEGRB 0.10 Work Smarter
-**WHEN:** Tuesday February 15th @ 18:30
-**WHERE:** Original Joes Varsity, 8404 109 Street (map)
+**WHAT:** YEGRB 0.10 Work Smarter  
+**WHEN:** Tuesday February 15th @ 18:30  
+**WHERE:** Original Joes Varsity, 8404 109 Street ([map](http://goo.gl/maps/YJNv))  
 
 The only code that counts is the code you ship.
 
