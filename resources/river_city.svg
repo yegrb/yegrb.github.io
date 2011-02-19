@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="640px"
-   height="480px"
+   width="512"
+   height="512"
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.0 r9654"
@@ -21,6 +21,36 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs2987">
+    <linearGradient
+       id="linearGradient4169">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4171" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4173" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4117">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.33725491;"
+         offset="0"
+         id="stop4119" />
+      <stop
+         id="stop4127"
+         offset="0.62"
+         style="stop-color:#ffffff;stop-opacity:0.29411766;" />
+      <stop
+         id="stop4125"
+         offset="0.63"
+         style="stop-color:#000000;stop-opacity:0.15686275;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4121" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3803">
       <stop
@@ -40,21 +70,66 @@
        y1="391.69284"
        x2="194.65558"
        y2="310.03244"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5830889,0,0,1.6850278,-88.689165,-180.01322)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4117"
+       id="radialGradient4223"
+       cx="286"
+       cy="338"
+       fx="286"
+       fy="338"
+       r="256"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.2377679,-2.0800508e-7,9.8103166e-8,-1.0554171,896.00161,329.6353)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4169"
+       id="linearGradient4233"
+       x1="512.59302"
+       y1="-32"
+       x2="512.59302"
+       y2="72.0168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98084288,0,0,0.98084291,4.904203,4.2911754)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient4241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5830889,0,0,1.6850278,-88.689165,-180.01322)"
+       x1="194.65558"
+       y1="391.69284"
+       x2="194.65558"
+       y2="310.03244" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4245">
+      <rect
+         style="fill:#800000;fill-opacity:1;stroke:none"
+         id="rect4247"
+         width="512"
+         height="512"
+         x="705.88074"
+         y="-32.000008"
+         rx="40"
+         ry="40" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#000000"
+     pagecolor="#aaaaaa"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.81568627"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0531422"
-     inkscape:cx="134.4127"
-     inkscape:cy="164.37748"
+     inkscape:zoom="0.63041815"
+     inkscape:cx="856.93806"
+     inkscape:cy="216.03072"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1280"
      inkscape:window-height="899"
      inkscape:window-x="0"
@@ -64,20 +139,31 @@
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="1,0"
-       position="56.022826,164.27032"
-       id="guide3025" />
+       position="0,0"
+       id="guide4187" />
     <sodipodi:guide
        orientation="0,1"
-       position="159.52262,392.15978"
-       id="guide3027" />
+       position="0,512"
+       id="guide4189" />
     <sodipodi:guide
        orientation="0,1"
-       position="159.52262,88.307166"
-       id="guide3029" />
+       position="0,0"
+       id="guide4191" />
     <sodipodi:guide
        orientation="1,0"
-       position="379.81577,228.839"
-       id="guide3031" />
+       position="512.593,0"
+       id="guide4193" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4197"
+       empspacing="5"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="256,0"
+       id="guide4225" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -94,32 +180,61 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,32)">
+    <g
+       id="g4235"
+       transform="translate(705.8807,0)">
+      <rect
+         y="-32"
+         x="-3.6290415e-15"
+         height="512"
+         width="512.59302"
+         id="rect3033"
+         style="fill:url(#linearGradient4241);fill-opacity:1;stroke:none;filter:url(#filter3303)" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3012"
+         d="m 0,-32 512.593,0 0,345.87659 -68.69802,0 -49.82494,71.18711 -43.78557,-71.18711 -350.28447,0 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3303)" />
+      <text
+         transform="scale(0.86681508,1.1536486)"
+         sodipodi:linespacing="125%"
+         id="text3019"
+         y="254.54445"
+         x="16.661705"
+         style="font-size:95.43544006px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;filter:url(#filter3303);font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           style="font-size:171.7837677px;font-weight:bold;fill:#800000;-inkscape-font-specification:Ubuntu Bold"
+           y="254.54445"
+           x="16.661705"
+           id="tspan3021"
+           sodipodi:role="line">YEG.rb</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4235"
+       id="use4243"
+       transform="translate(-705.8807,0)"
+       width="512"
+       height="512"
+       clip-path="url(#clipPath4245)"
+       inkscape:export-filename="/home/mark/Desktop/yegrb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:url(#linearGradient3809);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect3033"
-       width="323.79294"
-       height="303.8526"
-       x="56.022827"
-       y="87.840218" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.00638293999999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4"
-       d="m 56.022826,87.84022 323.792944,0 0,211.82833 -43.39491,0 -31.47325,43.59777 -27.65831,-43.59777 -221.266474,0 z"
-       id="rect3012"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <text
-       xml:space="preserve"
-       style="font-size:55.67376328000000285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="68.982536"
-       y="269.22281"
-       id="text3019"
-       sodipodi:linespacing="125%"
-       transform="scale(0.94811172,1.054728)"><tspan
-         sodipodi:role="line"
-         id="tspan3021"
-         x="68.982536"
-         y="269.22281"
-         style="font-size:100.21276855000000694px;font-weight:bold;-inkscape-font-specification:Ubuntu Bold;fill:#800000">YEG.rb</tspan></text>
+       style="fill:url(#radialGradient4223);fill-opacity:1;stroke:url(#linearGradient4233);stroke-width:9.80842971999999946;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4195-0"
+       width="502.19156"
+       height="502.19156"
+       x="4.9042149"
+       y="-27.095774"
+       rx="39.233715"
+       ry="39.233715"
+       inkscape:export-filename="/home/mark/Desktop/yegrb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
