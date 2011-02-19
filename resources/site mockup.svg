@@ -18,7 +18,10 @@
    inkscape:version="0.48.0 r9654"
    version="1.0"
    sodipodi:docname="site mockup.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/mark/versioned/yegrb.github.com/resources/site mockup.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata2425">
     <rdf:RDF>
@@ -118,8 +121,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="514.73716"
-     inkscape:cy="118.1824"
+     inkscape:cx="510.73716"
+     inkscape:cy="638.1824"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -328,7 +331,7 @@
        id="tspan4953"
        x="200"
        y="177"
-       style="font-size:20px;font-style:italic;font-weight:normal;fill:#e6e6e6;-inkscape-font-specification:Ubuntu Italic">&quot;Discover Edmonton's hidden gems&quot;</tspan></text>
+       style="font-size:20px;font-style:italic;font-weight:normal;fill:#e6e6e6;-inkscape-font-specification:Ubuntu Italic">Edmonton's Ruby Meetup</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -816,33 +819,6 @@ m/eqoKvAd8BBjmtIknSDHVDO0NUcwx8yrQCMK1LqUN474JvqcFVAkqTzCmCnOp72Il7lvFj2AvCm
      ry="7.4158506"
      rx="4.1095891" />
   <rect
-     style="fill:#f2f2f2;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect5578"
-     width="300"
-     height="132"
-     x="680"
-     y="285"
-     rx="8.4931507"
-     ry="13.049314" />
-  <rect
-     style="fill:#f2f2f2;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect5578-0"
-     width="300"
-     height="132"
-     x="680"
-     y="438"
-     rx="8.4931507"
-     ry="13.049314" />
-  <rect
-     style="fill:#f2f2f2;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect5578-6"
-     width="300"
-     height="132"
-     x="680"
-     y="592"
-     rx="8.4931507"
-     ry="13.049314" />
-  <rect
      style="fill:#f2f2f2;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.55205166000000006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect5109-6-1"
      width="300"
@@ -884,14 +860,14 @@ m/eqoKvAd8BBjmtIknSDHVDO0NUcwx8yrQCMK1LqUN474JvqcFVAkqTzCmCnOp72Il7lvFj2AvCm
   <text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-     x="930.64624"
-     y="747.79999"
+     x="932.64624"
+     y="961.79999"
      id="text5639-9"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5641-3"
-       x="930.64624"
-       y="747.79999"
+       x="932.64624"
+       y="961.79999"
        style="font-size:20px;fill:#0000ff">More</tspan></text>
   <rect
      style="fill:url(#linearGradient5672);fill-opacity:1;stroke:none"
@@ -901,36 +877,13 @@ m/eqoKvAd8BBjmtIknSDHVDO0NUcwx8yrQCMK1LqUN474JvqcFVAkqTzCmCnOp72Il7lvFj2AvCm
      x="0"
      y="1020" />
   <rect
-     style="fill:none;fill-opacity:1;stroke:none"
+     style="fill:none;stroke:none"
      id="rect5706"
      width="620"
-     height="106.06602"
+     height="194.06602"
      x="40"
      y="1037.2111" />
-  <flowRoot
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-     id="flowRoot5708"
-     transform="translate(0,4)"><flowRegion
-       id="flowRegion5710"><use
-         x="0"
-         y="0"
-         xlink:href="#rect5706"
-         id="use5712"
-         width="1020"
-         height="1255" /></flowRegion><flowPara
-       id="flowPara5714"
-       style="font-weight:bold;fill:#e6e6e6">YEGRB's mission is to grow the Ruby community in Edmonton.</flowPara><flowPara
-       id="flowPara5716"
-       style="fill:#e6e6e6" /><flowPara
-       id="flowPara5718"
-       style="fill:#e6e6e6">We achieve this by <flowSpan
-   style="font-weight:bold"
-   id="flowSpan5720">inspiring</flowSpan> the community with the wonders of ruby, <flowSpan
-   style="font-weight:bold"
-   id="flowSpan5722">sharing</flowSpan> the ruby community's stories and successes, and by <flowSpan
-   style="font-weight:bold"
-   id="flowSpan5724">connecting</flowSpan> the ruby community with each other and the community at large.</flowPara></flowRoot>  <rect
+  <rect
      style="fill:#0000ff;fill-opacity:1;stroke:none"
      id="rect7184"
      width="48"
@@ -1087,4 +1040,65 @@ m/eqoKvAd8BBjmtIknSDHVDO0NUcwx8yrQCMK1LqUN474JvqcFVAkqTzCmCnOp72Il7lvFj2AvCm
        y="1119.608"
        style="font-weight:bold;fill:#e6e6e6;-inkscape-font-specification:Ubuntu Bold"
        id="tspan7302">* ???</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     id="flowRoot7312"><flowRegion
+       id="flowRegion7314"><use
+         x="0"
+         y="0"
+         xlink:href="#rect5706"
+         id="use7316"
+         width="1020"
+         height="1255" /></flowRegion><flowPara
+       id="flowPara7318"
+       style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold">YEGRB's mission is to grow the Ruby community in Edmonton.</flowPara><flowPara
+       id="flowPara7320" /><flowPara
+       id="flowPara7322">We achieve this by  <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
+   id="flowSpan7328">inspiring</flowSpan> the community with the wonders of ruby,  <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
+   id="flowSpan7330">sharing</flowSpan> the ruby community's stories and successes, and by  <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
+   id="flowSpan7332">connecting</flowSpan> the ruby community with each other and the community at large.</flowPara><flowPara
+       id="flowPara7324" /><flowPara
+       id="flowPara7326">Come out to our next meetup, or try coding at one of our regular hackups!</flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="680"
+     y="609.56"
+     id="text4955-9-7"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4957-4-0"
+       x="680"
+       y="609.56"
+       style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold">News</tspan></text>
+  <rect
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.55205166;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect5109-6-1-2"
+     width="300"
+     height="148.31703"
+     x="680"
+     y="623.84149"
+     ry="7.4158506"
+     rx="4.1095891" />
+  <rect
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.55205166;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect5109-6-1-2-0"
+     width="300"
+     height="148.31703"
+     x="680"
+     y="787.84149"
+     ry="7.4158506"
+     rx="4.1095891" />
+  <rect
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.72747189;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect5109-6-1-2-3"
+     width="300"
+     height="257.55148"
+     x="680"
+     y="285.84149"
+     ry="12.877572"
+     rx="4.1095891" />
 </svg>
