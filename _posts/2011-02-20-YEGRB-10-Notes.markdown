@@ -1,0 +1,46 @@
+---
+layout: default
+title: NOTES - YEGRB 10 Work Smarter
+---
+
+This last meetup was different from normal, as we led a series of small group discussions about the tools and tricks people used to make developing with Ruby more enjoyable.
+
+Editors
+--------
+
+Most of the groups spent a lot of time discussing their favourite editors with [vim](http://www.vim.org/) and [TextMate](http://macromates.com/) taking the lead. Other popular editors included [gedit](http://projects.gnome.org/gedit/) on Ubuntu Linux and [Notepad++](http://notepad-plus-plus.org/) for Windows. [MacVim](http://code.google.com/p/macvim/) and [emacs](http://www.gnu.org/software/emacs/) where also mentioned.
+
+Vim was singled out as a popular editor amongst our members. Most people were using a combination of different vim plugins including [vim-rails](https://github.com/tpope/vim-rails), [pathogen](https://github.com/tpope/vim-pathogen), [NERDTree](https://github.com/scrooloose/nerdtree), [vim-surround](https://github.com/tpope/vim-surround), [jslint](https://github.com/hallettj/jslint.vim) and [ctags.vim](http://www.vim.org/scripts/script.php?script_id=610). Some of the members also publish the contents of their ~/.vim folders on GitHub for you to fork and make your own ([Fletcher](https://github.com/fnichol/dotvim) and [Mark](https://github.com/MarkBennett/MarkBennett-vim)). Peepcode also offers a pair ([part i](http://peepcode.com/products/smash-into-vim-i) and [part ii](http://peepcode.com/products/smash-into-vim-ii)) of excellent screencasts which are well worth the $12 if you're looking to learn vim quickly. The screencasts also come with an excellent sample ~/.vim folder which is used throughout.
+
+In TextMate many people also mentioned the Command-T keyboard shortcut for searching files and code. [Peepopen](http://peepcode.com/products/peepopen) was also recommended as a navigation plugin for TextMate that also works well with MacVim and other Mac editors.
+
+Deployment
+-----------
+
+The topic of deployment was also raised with [Capistrano](https://github.com/capistrano/capistrano) remaining the hands-down favourite. [Vlad the deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) and [git-deploy](https://github.com/mislav/git-deploy) also got honourable mentions.
+
+Documentation
+--------------
+
+For daily reference members recommended [rdoc.info](http://rdoc.info/) and [railsapi.com](http://railsapi.com/). The official [Rails Guides](http://guides.rubyonrails.org/) were available for more detailed Rails tutorials. For screencasts members turned to [Railscasts](http://railscasts.com/), [Peepcode](http://peepcode.com/screencasts/), [PragProg](http://www.pragprog.com/screencasts) and [The Ruby of Rails Tutorial by Michael Hartl](http://ruby.railstutorial.org/). [Rails for Zombies](http://railsforzombies.org/) was also mentioned as fun way to learn Ruby on Rails.
+
+Testing
+-------
+
+Most members use either [rspec](http://rspec.info/) or [minitest](http://rdoc.info/stdlib/minitest/1.9.2/frames) for their tests, along with various complementary tools like [factory-girl](https://github.com/thoughtbot/factory_girl), [machinist](https://github.com/notahat/machinist), and [mochra](https://github.com/floehopper/mocha). The [autotest gem](http://rubygems.org/gems/autotest) from [ZenTest](http://www.zenspider.com/ZSS/Products/ZenTest/) was also mentioned as an important tool for automatically running tests. [Watchr](https://github.com/mynyml/watchr) is another tool which can be used to run your tests automatically, though no one at the meetup is using it.
+
+Other tips
+-----------
+
+Some members use a terminal emulation client called [screen](http://www.gnu.org/software/screen/) to maintain a persistent console on their servers. You can detach from screen terminal sessions, leaving them running while you disconnect from the server. This is great for managing long running server processes. Screen sessions also persist if your accidently disconnected, making them an essential tool for managing flaky internet connections. Scott is an avid screen user and has shared his [.screenrc](https://gist.github.com/830499).
+
+Mark was the sole [tmux](http://tmux.sourceforge.net/) user, preferring it to screen as it allows multiple users to share a session. It also lets you split a window vertically and horizontally which can't be done in screen. He uses tmux for remote pair programming, and for running autotest in a split below his editor.
+
+Fletcher is a fanatic about versioning and sharing his configuration, Mac users should look at his [post with details of all this GitHub repositories](https://groups.google.com/d/msg/yegrb/-kX_0LJxI4o/TnDdhJqnEooJ) on the mailing list.
+
+Speaking of the [mailing list](https://groups.google.com/forum/#!forum/yegrb), if you don't already you should [sign up](https://groups.google.com/forum/#!forum/yegrb) to stay in touch with the meetup between events. It's also a great way to get help when you're stuck on a tough problem. Just be sure to include a link to your code if you're look for help on something specific!
+
+Next Meetup
+------------
+
+Our next meetup is on March 15th, the third tuesday in March. We're not ready to announce details yet, but trust us when we say we're planning something special.
