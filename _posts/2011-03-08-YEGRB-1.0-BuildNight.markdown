@@ -1,0 +1,20 @@
+---
+layout: default
+title: YEGRB 1.0 BuildNight
+---
+
+**WHAT:** YEGRB 1.0 BuildNight  
+**WHEN:** Tuesday March 15th @ 18:30  
+**WHERE:** University of Alberta, Computer Science Building ([map](http://www.campusmap.ualberta.ca/index.cfm?campus=1&sector=2&feature=25)) 
+
+We're excited to announce that in partnership with [Startup Edmonton](http://www.startupedmonton.com/), YEGRB is hosting the first every [BuildNight](http://buildnightedmonton.eventbrite.com/) at the University of Alberta Computer Science Building on Tuesday March 15th. Over the course of two hours you'll eat pizza and watch as we use [Ruby on Rails](http://rubyonrails.org/) to build a web application from scratch! Afterwards we'll make the source code available through our [GitHub account](https://github.com/yegrb).
+
+Anyone interesting in coming needs to [get a ticket](http://buildnightedmonton.eventbrite.com/). They're free, but are limited to 25 spots.
+
+You're encouraged to bring your own computer to follow along with us as we go. No past Ruby or Rails experience is neccesary, though some basic programming understanding will help you keep up as we won't be able to take questions during the build. To get setup we encourage you to visit out wiki for detailed [Ruby installation instructions](https://github.com/yegrb/yeg-wiki/wiki/Installing-Ruby), and for a quick [introduction to Ruby and Rails](https://github.com/yegrb/yeg-wiki/wiki/Ruby-resources). There will also be a swarm of experienced local Ruby developers on hand throughout the night to help install Ruby and Rails, and to answer questions. You can also get help anytime from [our mailing list](https://groups.google.com/forum/#!forum/yegrb) and on [Twitter](http://twitter.com/yegrb).
+
+We're looking for a few more experience Rails developers to be on hand during the event. If you'd like to help out please send an email to [mark@yegrb.com](mailto:mark@yegrb.com).
+
+A big thanks goes out to the [University of Alberta Computer Science Department](https://www.cs.ualberta.ca/) for supplying the space, and to [Yardstick Software](http://www.yardsticksoftware.com/) for kindly donating the pizza.
+
+[**Get your ticket!**](http://buildnightedmonton.eventbrite.com/)
