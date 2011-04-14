@@ -3,9 +3,9 @@ title: MEETUP - April 19th - DevOps
 layout: default
 ---
 
-WHAT: DevOps and Ruby
-WHEN: Tuesday April 19th @ 6:30 PM
-WHERE: Room B2, Computer Science Centre, University of Alberta
+**WHAT: DevOps and Ruby**  
+**WHEN: Tuesday April 19th @ 6:30 PM**  
+**WHERE: Room B2, Computer Science Centre, University of Alberta**
 
 At our 13th meetup, we're going to be talking about DevOps. According to Wikipedia,
 
