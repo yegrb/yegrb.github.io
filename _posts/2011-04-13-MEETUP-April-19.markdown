@@ -15,4 +15,4 @@ We've got two speakers lined up to talk about their experience using two popular
 
 YEGRB is also starting a new series of talks where we’ll cover a basic Ruby or Rails skill. Called the Ruby Recap we’re taking [suggestions on Convore for the first topic](https://convore.com/yegrb/5-minute-ruby-newbie-questions/).
 
-We’re also excited to announce that for the first time this meetup is taking place at the University of Alberta in the Computer Science Building. There are limited power outlets, so please bring a full charge for your mobile devices. **We'll be providing pizza.**
+We’re also excited to announce that for the first time this meetup is taking place at the University of Alberta in the Computer Science Building. There are limited power outlets, so please bring a full charge for your mobile devices. **We'll be providing some pizza, so get there early if you want a slice.**
