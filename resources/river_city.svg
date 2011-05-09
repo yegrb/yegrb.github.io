@@ -14,7 +14,7 @@
    height="512"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="river_city.svg"
    inkscape:export-filename="/home/mark/Desktop/river_city.png"
    inkscape:export-xdpi="90"
@@ -122,7 +122,7 @@
      pagecolor="#aaaaaa"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63041815"
      inkscape:cx="856.93806"
@@ -131,7 +131,7 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="1280"
-     inkscape:window-height="899"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -221,9 +221,9 @@
        width="512"
        height="512"
        clip-path="url(#clipPath4245)"
-       inkscape:export-filename="/home/mark/Desktop/yegrb.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/mark/versioned/yegrb.github.com/img/yegrb.png"
+       inkscape:export-xdpi="26.367188"
+       inkscape:export-ydpi="26.367188" />
     <rect
        style="fill:url(#radialGradient4223);fill-opacity:1;stroke:url(#linearGradient4233);stroke-width:9.80842971999999946;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4195-0"
@@ -233,8 +233,8 @@
        y="-27.095774"
        rx="39.233715"
        ry="39.233715"
-       inkscape:export-filename="/home/mark/Desktop/yegrb.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/mark/versioned/yegrb.github.com/img/yegrb.png"
+       inkscape:export-xdpi="26.367188"
+       inkscape:export-ydpi="26.367188" />
   </g>
 </svg>
