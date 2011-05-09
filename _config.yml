@@ -6,3 +6,4 @@ webmaster_email: mark@yegrb.com
 homepage_url: http://yegrb.com
 atom_url: /atom.xml
 rss_url: /rss.xml
+paginate: 5
