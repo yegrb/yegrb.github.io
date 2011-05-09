@@ -1,100 +1,113 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="google-site-verification" content="poUWiS44jPBsuzEbmAfafFVRet0hxIkR-6ETyFp89QQ" />
-    <meta name="description" content="YEGrb's mission is to grow the Edmonton Ruby community. We connect the community with regular meetups, hackups and other events." />
-    <meta name="keywords" content="yeg, ruby, edmonton, meetup, meetups, hackups, lightning talks, events, speakers, sinatra, rails, ruby on rails, calendar, twitter, news, community, connection, nurture, develop, connect, resources, notes" />
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/stylesheets/reset.css" type="text/css" media="screen" title="no title" charset="utf-8" />
-    <link rel="stylesheet" href="/stylesheets/text.css" type="text/css" media="screen" title="no title" charset="utf-8" />
-    <link rel="stylesheet" href="/stylesheets/960.css" type="text/css" media="screen" title="no title" charset="utf-8" />
-    <link rel="stylesheet" href="/stylesheets/yegrb.css" type="text/css" media="screen" title="no title" charset="utf-8" />
-    <link href="{{ site.rss_url }}" type="application/rss+xml" rel="alternate" title="YEGRB RSS Feed" />
-  </head>
-  <body>
-    <div class="container_12">
-      {% include header.markdown %}
-      <div class="grid_8 alpha" id="main_content">
-        {{ content }}
-      </div>
-      {% include navigation.html %}
-      <div id="sidebar" class="grid_4 omega">
-        <div class="block">
-          <h2>Twitter</h2>
-          <!-- YEGRB Twitter Profile -->
-          <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-          <script>
-          new TWTR.Widget({
-            version: 2,
-            type: 'profile',
-            rpp: 4,
-            interval: 6000,
-            width: 300,
-            height: 300,
-            theme: {
-              shell: {
-                background: '#333333',
-                color: '#ffffff'
-              },
-              tweets: {
-                background: '#000000',
-                color: '#ffffff',
-                links: '#4aed05'
-              }
-            },
-            features: {
-              scrollbar: false,
-              loop: false,
-              live: true,
-              hashtags: true,
-              timestamp: true,
-              avatars: false,
-              behavior: 'all'
-            }
-          }).render().setUser('yegrb').start();
-          </script>
-        </div>
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-        <div class="block">
-          <iframe src="https://www.google.com/calendar/hosted/yegrb.com/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=yegrb.com_4pmb3hc3jv4jc75jhodv6m2rkc%40group.calendar.google.com&amp;color=%23A32929&amp;ctz=America%2FEdmonton" style=" border-width:0 " width="300" height="320" frameborder="0" scrolling="no"></iframe>
-        </div> <!-- end block -->
-        <div class="block">
-          <h2>Subscribe</h2>
-          <ul>
-            <li>
-              <a href="{{ site.rss_url }}">RSS</a>
-            </li>
-          </ul>
-        </div>
-        <div class="block">
-          <h2>Connections</h2>
-          <ul>
-            <li><a href="http://barcampedmonton.com">DemoCamp Edmonton</a></li>
-          </ul>
-        </div>
-      </div> <!-- end sidebar -->
+  <title>YEGRB - Edmonton's Ruby Meetup</title>
+  <meta name="description" content="YEGRB's mission is to grow the Ruby community in Edmonton, Canada.  Come out to our next meetup, or write some code together at our next hackup!">
+  <meta name="author" content="Mark Bennett, mark@yegrb.com">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <link rel="stylesheet" href="css/style.css?v=2">
+  <script src="js/libs/modernizr-1.7.min.js"></script>
+
+</head>
+
+<body>
+
+  <div id="container">
+		<header>
+			<hgroup>
+				<h1>YEGRB</h1>
+				<h2>Edmonton's Ruby Meetup</h2>
+			</hroup>
+
+			<section>
+			  <h1>Follow Us</h1>
+				<ul>
+					<li><a href="http://twitter.com/yegrb">Twitter</a></li>
+					<li><a href="https://github.com/organizations/yegrb">GitHub</a></li>
+					<li><a href="http://www.facebook.com/pages/Edmonton-Ruby-Meetup-YEGRB/178071158910253">Facebook</a></li>
+					<li><a href="http://www.youtube.com/user/yegrb">YouTube</a></li>
+					<li><a href="https://convore.com/yegrb/">Convore</a></li>
+					<li><a href="http://www.google.com/calendar/embed?src=yegrb.com_4pmb3hc3jv4jc75jhodv6m2rkc%40group.calendar.google.com&ctz=America/Edmonton">Google Calendar</a></li>
+				</ul>
+		  </section>
+
+    </header>
+		<div id="main" role="main">
+			{{ content }}
     </div>
+    <footer>
+			<nav>
+				<section>
+					<h2>Connect</h2>
+					<ul>
+						<li><a href="">meetups</a></li>
+						<li><a href="">hackups</a></li>
+						<li><a href="">oppurtunities</a></li>
+						<li><a href="">contact us</a></li>
+					</ul>
+				</section>
+				<section>
+					<h2>Inspire</h2>
+					<ul>
+						<li><a href="">getting started</a></li>
+						<li><a href="">learn ruby and rails</a></li>
+						<li><a href="">wiki</a></li>
+						<li><a href="">success stories</a></li>
+					</ul>
+				</section>
+				<section>
+					<h2>Share</h2>
+					<ul>
+						<li><a href="">news</a></li>
+						<li><a href="">events</a></li>
+						<li><a href="">our story</a></li>
+					</ul>
+				</section>
+			</nav>
+			<aside>
+				<p><em class="mission">YEGRB's mission is to grow the Ruby community in Edmonton, Canada.</em> Come out to our next meetup, or write some code together at our next hackup!</p>
 
-  <!-- Google Analytics -->
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script>
-  <script type="text/javascript">
-  try {
-    var pageTracker = _gat._getTracker("UA-73138-7");
-    pageTracker._trackPageview();
-  } catch(err) {}</script>
+				<p>All content on this site is copyright 2011 YEGRB and released under a Creative Commons attribution license unless specified otherwise. We respect your privacy.</p>
 
-  <!-- Twitter Anywhere -->
-  <script src="http://platform.twitter.com/anywhere.js?id=8BXpnPDdcha67jEyAUeOfg&v=1">
+				<p>Fork this site on GitHub to submit changes!</p>
+			</aside>
+    </footer>
+  </div> <!-- eo #container -->
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+  <script>window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+
+
+  <!-- scripts concatenated and minified via ant build script-->
+  <script src="js/plugins.js"></script>
+  <script src="js/script.js"></script>
+  <!-- end scripts-->
+
+
+  <!--[if lt IE 7 ]>
+    <script src="js/libs/dd_belatedpng.js"></script>
+    <script>DD_belatedPNG.fix("img, .png_bg");</script>
+  <![endif]-->
+
+
+
+  <script>
+    var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]]; // Change UA-XXXXX-X to be your site's ID 
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+    g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+    s.parentNode.insertBefore(g,s)}(document,"script"));
   </script>
-  <script type="text/javascript">
-    twttr.anywhere(function(twitter) {
-      // Add Twitter hover cards
-      twitter("#main_content").hovercards();
-    });
-  </script>
-  </body>
+
+</body>
 </html>
