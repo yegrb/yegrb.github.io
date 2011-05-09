@@ -1,0 +1,10 @@
+---
+layout: default
+title: YEGRB 1.2 Rails 3
+published: false
+---
+
+# News
+
+ * Rails 3.1 beta
+ * Foreman and Procfile
