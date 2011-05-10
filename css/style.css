@@ -80,10 +80,21 @@ a:hover { color: #036; }
  *
  * Author: 
  */
+body { line-height: 1.5em; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Bevan', serif; font-style: normal; font-weight: 400; text-shadow: none; text-decoration: none; text-transform: none; letter-spacing: 0.098em; word-spacing: 0.126em; line-height: 1.2; margin: 0 0 10px 0; }
+h1 { font-size: 36px; }
+header { margin: 20px 0 50px 0; }
+#yegrb-logo { display: block; height: 150px; background-image: url('../img/yegrb.png'); background-repeat: no-repeat; position: relative; text-decoration: none; color: #444; }
+#yegrb-logo hgroup { display: block; position: absolute; bottom: 20px; left: 160px; }
+#yegrb-logo hgroup h1 { margin: 0 0 2px 0; }
+#follow-us { padding: 0 0 0 0; }
+#follow-us ul { padding: 0; margin: 0; }
+#follow-us ul li { list-style: none; padding: 0; margin: 0 14px 14px 0; display: block; float: left; }
+#follow-us ul li.last { margin: 0; }
+#follow-us ul li a { padding: 0; margin: 0; display: block; width: 64px; height: 64px; overflow: hidden; text-indent: -999em; background-color: red; }
 
-#yegrb-logo { display: block; width: 150px; height: 150px; background-image: url('../img/yegrb.png'); }
-#follow-us { padding: 125px 0 0 0; }
-#follow-us ul li { list-style: none; padding: 0; margin: 0; display: inline-block; width: 25px; height: 25px; overflow: hidden; text-indent: -999em; background-color: red; }
+footer { margin: 30px 0 0 0; padding: 0 0 50px 0; }
+p { margin: 0 0 12px 0; }
 
 
 

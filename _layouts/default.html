@@ -13,7 +13,8 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link  href="http://fonts.googleapis.com/css?family=Bevan:regular" rel="stylesheet" type="text/css" >
 
   <link rel="stylesheet" href="/css/style.css?v=2">
   <script src="/js/libs/modernizr-1.7.min.js"></script>
@@ -23,31 +24,49 @@
 <body>
 
   <div id="container" class="container_12">
-		<header>
-			<hgroup class="grid_9 alpha">
-				<h1><a href="/index.html" id="yegrb-logo" class="ir">YEGRB</a></h1>
-				<h2>Edmonton's Ruby Meetup</h2>
-			</hgroup>
+		<header class="clearfix">
+			<a id="yegrb-logo" class="grid_9 alpha" href="/index.html">
+				<hgroup>
+					<h1>YEGRB</h1>
+					<h2>Edmonton's Ruby Meetup</h2>
+				</hgroup>
+			</a>
+      <aside class="grid_3 omega">
+				<p><em class="mission">YEGRB's mission is to grow the Ruby community in Edmonton, Canada.</em> Come out to our next meetup, or write some code together at our next hackup!</p>
+			</aside>
 
-			<section id="follow-us" class="grid_3 omega">
-			  <h1 class="hidden">Follow Us</h1>
-				<ul>
-					<li><a href="http://twitter.com/yegrb" class="follow-badge twitter">Twitter</a></li>
-					<li><a href="https://github.com/organizations/yegrb" class="follow-badge github">GitHub</a></li>
-					<li><a href="http://www.facebook.com/pages/Edmonton-Ruby-Meetup-YEGRB/178071158910253" class="follow-badge facebook">Facebook</a></li>
-					<li><a href="http://www.youtube.com/user/yegrb" class="follow-badge youtube">YouTube</a></li>
-					<li><a href="https://convore.com/yegrb/" class="follow-badge convore">Convore</a></li>
-					<li><a href="http://www.google.com/calendar/embed?src=yegrb.com_4pmb3hc3jv4jc75jhodv6m2rkc%40group.calendar.google.com&ctz=America/Edmonton" class="follow-badge gcal">Google Calendar</a></li>
-				</ul>
-		  </section>
 
     </header>
-		<div id="main" role="main" class="grid_12 alpha omega">
-			{{ content }}
+		<div id="main" role="main" class="clearfix">
+			<div id="content" class="prefix_2 grid_7 alpha">
+				{{ content }}
+			</div>
+			<aside class="grid_3 omega">
+				<section id="next-meetup">
+					<h2>Next Meetup</h2>
+					<p>Our next meetup is May 17th, 2011</p>
+				</section>
+				<section id="follow-us">
+					<h2 class="">Follow Us</h1>
+					<ul class="clearfix">
+						<li><a href="http://twitter.com/yegrb" class="follow-badge twitter">Twitter</a></li>
+						<li><a href="https://github.com/organizations/yegrb" class="follow-badge github">GitHub</a></li>
+						<li class="last"><a href="http://www.facebook.com/pages/Edmonton-Ruby-Meetup-YEGRB/178071158910253" class="follow-badge facebook">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/yegrb" class="follow-badge youtube">YouTube</a></li>
+						<li><a href="https://convore.com/yegrb/" class="follow-badge convore">Convore</a></li>
+						<li class="last"><a href="http://www.google.com/calendar/embed?src=yegrb.com_4pmb3hc3jv4jc75jhodv6m2rkc%40group.calendar.google.com&ctz=America/Edmonton" class="follow-badge gcal">Google Calendar</a></li>
+					</ul>
+				</section>
+				<section id="email-subscribe">
+				  <h2>Mailing List</h2>
+					<input type="text">
+					<input type="submit" value="Subscribe" >
+				</section>
+			</aside>
     </div>
-    <footer>
+    <footer class="clearfix">
 			<nav>
-				<section class="grid_3 alpha">
+				<section class="grid_2 alpha">
 					<h2>Connect</h2>
 					<ul>
 						<li><a href="">meetups</a></li>
@@ -56,7 +75,7 @@
 						<li><a href="">contact us</a></li>
 					</ul>
 				</section>
-				<section class="grid_3">
+				<section class="grid_2">
 					<h2>Inspire</h2>
 					<ul>
 						<li><a href="">getting started</a></li>
@@ -65,7 +84,7 @@
 						<li><a href="">success stories</a></li>
 					</ul>
 				</section>
-				<section class="grid_3">
+				<section class="grid_2">
 					<h2>Share</h2>
 					<ul>
 						<li><a href="">news</a></li>
@@ -74,8 +93,7 @@
 					</ul>
 				</section>
 			</nav>
-			<aside class="grid_3">
-				<p><em class="mission">YEGRB's mission is to grow the Ruby community in Edmonton, Canada.</em> Come out to our next meetup, or write some code together at our next hackup!</p>
+			<aside class="grid_3 prefix_3 omega">
 
 				<p>All content on this site is copyright 2011 YEGRB and released under a Creative Commons attribution license unless specified otherwise. We respect your privacy.</p>
 

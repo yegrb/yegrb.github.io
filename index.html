@@ -4,13 +4,13 @@ title: '#yegrb'
 ---
 
 {% for post in paginator.posts %}
-  <div class="post">
+  <article class="post">
     <small class="date post-date">{{ post.date | date_to_string}}</small>
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <div class="post-content">
       {{ post.content }}
     </div>
-  </div>
+  </article>
 {% endfor %}
 
 <!-- Pagination links -->
