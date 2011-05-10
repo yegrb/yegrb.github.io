@@ -83,7 +83,8 @@ a:hover { color: #036; }
 body { line-height: 1.5em; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Bevan', serif; font-style: normal; font-weight: 400; text-shadow: none; text-decoration: none; text-transform: none; letter-spacing: 0.098em; word-spacing: 0.126em; line-height: 1.2; margin: 0 0 10px 0; }
 h1 { font-size: 36px; }
-header { margin: 20px 0 50px 0; }
+header { margin: 20px 0 50px 0;  }
+header aside { padding: 40px 0 0 0; }
 #yegrb-logo { display: block; height: 150px; background-image: url('../img/yegrb.png'); background-repeat: no-repeat; position: relative; text-decoration: none; color: #444; }
 #yegrb-logo hgroup { display: block; position: absolute; bottom: 20px; left: 160px; }
 #yegrb-logo hgroup h1 { margin: 0 0 2px 0; }
