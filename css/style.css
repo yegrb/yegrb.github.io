@@ -107,7 +107,15 @@ header h2 { color: #999999; }
 #follow-us ul { padding: 0; margin: 0; }
 #follow-us ul li { list-style: none; padding: 0; margin: 0 14px 14px 0; display: block; float: left; }
 #follow-us ul li.last { margin: 0; }
-#follow-us ul li a { padding: 0; margin: 0; display: block; width: 64px; height: 64px; overflow: hidden; text-indent: -999em; background-color: red; }
+#follow-us ul li a {  }
+
+#follow-us .follow-badge { background-color: #090909; background-image: url('../img/social_icons.png'); padding: 0; margin: 0; display: block; width: 64px; height: 64px; overflow: hidden; text-indent: -999em; background-color: #090909;}
+#follow-us .follow-badge.twitter { background-position: 0px 0px; }
+#follow-us .follow-badge.github { background-position: -78px 0px; }
+#follow-us .follow-badge.facebook { background-position: -156px 0px; }
+#follow-us .follow-badge.youtube { background-position: 0px -78px; }
+#follow-us .follow-badge.convore { background-position: -78px -78px; }
+#follow-us .follow-badge.gcal { background-position: -156px -78px; }
 
 footer { padding: 30px 0 50px 0; background: #500000;
 background: -moz-linear-gradient(top, #500000 0%, #800000 30%, #800000 100%);
