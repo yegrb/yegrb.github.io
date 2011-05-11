@@ -39,7 +39,15 @@
 	</header>
 	<div id="main" role="main" class="clearfix container_12">
 		<div id="content" class="prefix_2 grid_7 alpha">
-			{{ content }}
+			{% unless page.is_home %}
+				<article class="post">
+					<h1>{{ page.title }}</h1>
+					{{ content }}
+				</article>
+			{% else %}
+				{{ content }}
+			{% endunless %}
+
 		</div>
 		<aside class="grid_3 omega">
 			<section id="next-meetup">
