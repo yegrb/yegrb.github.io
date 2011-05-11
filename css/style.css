@@ -80,7 +80,7 @@ a:hover { color: #036; }
  *
  * Author: 
  */
-body { line-height: 1.5em; font-family: 'Open Sans', arial, serif; }
+body { line-height: 1.5em; font-family: 'Open Sans', arial, serif; background-color: #f1f1f1; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Bevan', serif; font-style: normal; font-weight: 400; text-shadow: none; text-decoration: none; text-transform: none; letter-spacing: 0.098em; word-spacing: 0.126em; line-height: 1.2; margin: 0 0 10px 0; }
 h1 { font-size: 36px; }
 article h1 { font-size: 24px; }
