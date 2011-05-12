@@ -1,0 +1,192 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>YEGRB - Edmonton's Ruby Meetup</title>
+  <meta name="description" content="YEGRB's mission is to grow the Ruby community in Edmonton, Canada.  Come out to our next meetup, or write some code together at our next hackup!">
+  <meta name="author" content="Mark Bennett, mark@yegrb.com">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link  href="http://fonts.googleapis.com/css?family=Bevan:regular" rel="stylesheet" type="text/css" >
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:regular,regularitalic,bold,bolditalic' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="/css/style.css?v=2">
+  <script src="/js/libs/modernizr-1.7.min.js"></script>
+
+</head>
+
+<body>
+
+	<header class="clearfix light_text">
+		<div class="container_12">
+				<a id="yegrb-logo" class="grid_9 alpha" href="/index.html">
+					<hgroup>
+						<h1>YEGRB</h1>
+						<h2>Edmonton's Ruby Meetup</h2>
+					</hgroup>
+				</a>
+				<aside class="grid_3 omega">
+					<p><em class="mission">YEGRB's mission is to grow the <a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a> community in <a href="http://en.wikipedia.org/wiki/Edmonton">Edmonton, Canada</a>.</em> Come out to our next meetup, or write some code together at our next hackup!</p>
+				</aside>
+		</div>
+	</header>
+	<div id="main" role="main" class="clearfix container_12">
+		<div id="content" class="prefix_2 grid_7 alpha">
+			
+				
+  <article class="post">
+    <h1><a href="/meetups/2010/04/07/Notes-from-YEGRB-0-2/">Notes from YEGRB 0.2</a></h1>
+    <small class="date post-date">07 Apr 2010</small>
+    <div class="post-content">
+      <p>Thanks again to everyone that came out to <span class="caps">YEGRB</span> 0.2.  We had an even bigger turnout than last time with lots of new faces, as well as people coming back from the last meeting.</p>
+<p>We heard the feedback from last time and kept things moving along at quick pace.  Thanks to our great speakers we were able to achieve this goal and wrapped on schedule with time left to go to Pub 1905 for a few drinks.</p>
+<p>The talks themselves where great and started off with Chris Brulak (<a href="http://twitter.com/cbrulak">cbrulak</a>) presenting on <a href="http://elxn41.ca/home/login_to_beta">Elxn41.ca</a>.  Chris&#8217; application provides a platform for participants to debate and follow the political issues of the day.  This discussion is meant to be interactive, and emphasise a dialog between members.  Chris contrasted the conversation that happens on Elxn41.ca with a service such as Twitter where participants shout into a crowded space.  In developing Elxn41.ca Chris used a number of popular gems including <a href="http://github.com/binarylogic/authlogic">authlogic</a> and <a href="http://github.com/technoweenie/acts_as_versioned">acts_as_versioned</a>.  He tried the Twitter authentication component in authlogic but decided to use the <a href="http://github.com/mbleigh/twitter-auth">twitter-auth gem</a> for authentication in it&#8217;s place.  If you&#8217;d like to try this application just visit <a href="http://elxn41.ca">http://elxn41.ca</a> and login with the beta password &#8216;democracyrocks&#8217;.  Chris is actively looking for developers to help build out the Elxn41.ca feature set.  If you&#8217;d like to help out contact him at <a href="mailto:elxn41@elxn41.ca">elxn41@elxn41.ca</a>.</p>
+<p>The next speaker was Sean Ouimet (<a href="http://twitter.com/skepticsean">@skepticsean</a>) presenting on <a href="http://www.sinatrarb.com">Sinatra</a> and <a href="http://rack.rubyforge.org/">Rack</a>.  Sean walked everyone through the basics of Sinatra, including how to create a web application and declared your routes and the code which handles them.  He then moved into some more advanced Sinatra scenarios.  In particular his demonstrtation of how to embed multiple Sinatra apps in a single Rack application was intriqing as it can be used to deploy Rails and Sinatra in the same application.  We&#8217;ve included Sean&#8217;s slides below if you&#8217;d like to see his code again.</p>
+<p><iframe src="http://docs.google.com/present/embed?id=dgkmpgvz_448kdmvkd8&size=m" frameborder="0" width="555" height="451"></iframe></p>
+<p>Our last lightning talk was by Mark Bennett (<a href="http://twitter.com/markbennett">@MarkBennett</a>).  He presented a new gem he&#8217;d written called <a href="http://wiki.github.com/MarkBennett/adman/">Adman</a> which makes it easy to share your Sinatra or Rails application using Bonjour (aka Zeroconf).  With Adman anyone can find and resolve your applications IP automatically without using a <span class="caps">DNS</span> server or publishing your IP in advance.  This is especially useful at hackups, conferences, or RailsCamps where access to the Internet is limited.  If you&#8217;d like to try Adman for yourself just run, &#8220;gem install adman&#8221;.  Check out <a href="http://github.com/MarkBennett/adman">Adman on GitHub</a> and <a href="http://wiki.github.com/MarkBennett/adman/">read the wiki</a> for more details.  Adman is under active development, and Mark want&#8217;s to make using Bonjour in your app a one liner.</p>
+<p>With the lighting talks wrapped up on time some of the attendees with iPad&#8217;s kindly demonstrated them for the rest of the group.  Reg Cheramy (<a href="http://twitter.com/rcheramy">@rcheramy</a>) from <a href="http://www.edistorm.com/">Edistorm</a> demonstrated some of his favourite features and apps already running on the iPad as well as some development work he&#8217;s done with the iPad.  He wasn&#8217;t the only one with an iPad as Cam Linke and another attendee also brought their iPads out.  Thanks guys, the iPad looks like it&#8217;s going to be another winner for Apple.  Can&#8217;t wait to order mine at the end of the month.</p>
+<p>Thanks again to all the attendees who made it out to this months meetup.  Our primary mission is to connect local Ruby enthusiasts, so seeing how well attended the meetups have been is really encouraging.  I know there are still lots of you out there who haven&#8217;t made it out to an event yet, but we&#8217;re looking forward to seeing you at <span class="caps">YEGRB</span> 0.3.  Also watch for us to explore new ways of connecting the Ruby community in the coming months.</p>
+    </div>
+  </article>
+
+  <article class="post">
+    <h1><a href="/meetups/2010/04/01/April-6th-Meetup-The-Details/">MEETUP - April 6th</a></h1>
+    <small class="date post-date">01 Apr 2010</small>
+    <div class="post-content">
+      <p>As we&#8217;ve already announced the next <span class="caps">YEGRB</span> Meetup is happening on <strong>Tuesday April 6th, 2010 at 6:30 PM</strong>.</p>
+<p>The meetup will be happening in the <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=10320+-+102+Ave,+Edmonton,+AB+(Nexopia+Offices)&sll=53.543006,-113.497776&sspn=0.007497,0.01929&ie=UTF8&hq=&hnear=10320+102+Ave+NW,+Edmonton,+Division+No.+11,+Alberta,+Canada&t=h&z=16"><strong>Nexopia offices at #408, 10320 &#8211; 102 Ave</strong></a>. This is the same location as last time.  You want to enter from the enterance on 102 <span class="caps">AVE</span>.  If the doors have already locked we&#8217;ll leave a note with instructions for getting in.</p>
+<p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=10320+-+102+Ave,+Edmonton,+AB+(Nexopia+Offices)&amp;sll=53.543006,-113.497776&amp;sspn=0.007497,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=10320+102+Ave+NW,+Edmonton,+Division+No.+11,+Alberta,+Canada&amp;t=h&amp;z=16&amp;ll=53.543006,-113.497776&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=10320+-+102+Ave,+Edmonton,+AB+(Nexopia+Offices)&amp;sll=53.543006,-113.497776&amp;sspn=0.007497,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=10320+102+Ave+NW,+Edmonton,+Division+No.+11,+Alberta,+Canada&amp;t=h&amp;z=16&amp;ll=53.543006,-113.497776" style="color:#0000FF;text-align:left">View Larger Map</a></small></p>
+<p>We&#8217;ve got an exciting list of topics lined up for Tuesday, including:</p>
+<ul>
+	<li>&#8220;Building www.elxn41.ca&#8221; with <a href="http://twitter.com/cbrulak">@cbrulak</a></li>
+	<li>&#8220;Sinatra or CouchDB&#8221; with <a href="http://twitter.com/skepticsean">@skepticsean</a></li>
+	<li>&#8220;Announcing your app with Bonjour&#8221; with <a href="http://twitter.com/markbennett">@markbennett</a></li>
+</ul>
+<p>We&#8217;re also hoping to have a few other surprises but you&#8217;ll just have to come out to see what we&#8217;re planning.</p>
+<p>You can still <a href="https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dFUwcS1MN185YmVCVm00NjNwYkFabFE6MA">sign up to attend or to talk</a>.</p>
+    </div>
+  </article>
+
+  <article class="post">
+    <h1><a href="/meetups/2010/03/22/Next-Meetup-April-6th/">Next Meetup April 6th</a></h1>
+    <small class="date post-date">22 Mar 2010</small>
+    <div class="post-content">
+      <p>The next Edmonton Ruby Meetup is happening on Tuesday April 6th, 2010.</p>
+<p>Sign up to attend or to talk.  We&#8217;ll post a list of the speakers next week.</p>
+<p><iframe src="http://spreadsheets.google.com/embeddedform?formkey=dFUwcS1MN185YmVCVm00NjNwYkFabFE6MA" width="600" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe></p>
+    </div>
+  </article>
+
+
+<!-- Pagination links -->
+<div class="pagination">
+  
+    <a href="/page6" class="previous">Previous</a>
+  
+  <span class="page_number ">Page: 7 of 7</span>
+  
+    <span class="next ">Next</span>
+  
+</div>
+
+			
+
+		</div>
+		<aside class="grid_3 omega">
+			<section id="next-meetup">
+				<h2>Next Meetup</h2>
+				<p>Our next meetup is May 17th, 2011</p>
+			</section>
+			<section id="follow-us">
+				<h2 class="">Follow Us</h1>
+				<ul class="clearfix">
+					<li><a href="http://twitter.com/yegrb" class="follow-badge twitter">Twitter</a></li>
+					<li><a href="https://github.com/yegrb" class="follow-badge github">GitHub</a></li>
+					<li class="last"><a href="http://www.facebook.com/pages/Edmonton-Ruby-Meetup-YEGRB/178071158910253" class="follow-badge facebook">Facebook</a></li>
+					<li><a href="http://www.youtube.com/user/yegrb" class="follow-badge youtube">YouTube</a></li>
+					<li><a href="https://convore.com/yegrb/" class="follow-badge convore">Convore</a></li>
+					<li class="last"><a href="http://www.google.com/calendar/embed?src=yegrb.com_4pmb3hc3jv4jc75jhodv6m2rkc%40group.calendar.google.com&ctz=America/Edmonton" class="follow-badge gcal">Google Calendar</a></li>
+				</ul>
+			</section>
+			<section id="email-subscribe">
+				<h2>Mailing List</h2>
+				<form action="http://groups.google.com/group/yegrb/boxsubscribe">
+					<input type=hidden name="hl" value="en-GB">
+					<input type=text name=email placeholder="email address">
+					<input type=submit name="sub" value="Subscribe">
+				</form>
+			</section>
+		</aside>
+	</div>
+	<footer class="clearfix light_text">
+		<div class="container_12">
+			<nav>
+				<section class="grid_2 alpha">
+					<h2>Connect</h2>
+					<ul>
+						<li><a href="/categories/meetups/">meetups</a></li>
+						<li><a href="/categories/hackups/">hackups</a></li>
+						<li><a href="https://github.com/yegrb/yeg-wiki/wiki/Ruby-jobs-in-edmonton">oppurtunities</a></li>
+						<li><a href="mailto:mark@yegrb.com">contact us</a></li>
+					</ul>
+				</section>
+				<section class="grid_2">
+					<h2>Inspire</h2>
+					<ul>
+						<li><a href="https://github.com/yegrb/yeg-wiki/wiki">getting started</a></li>
+						<li><a href="https://github.com/yegrb/yeg-wiki/wiki/Introduction-to-Rails">learn ruby and rails</a></li>
+						<li><a href="https://github.com/yegrb/yeg-wiki/wiki">wiki</a></li>
+					</ul>
+				</section>
+				<section class="grid_2">
+					<h2>Share</h2>
+					<ul>
+						<li><a href="http://twitter.com/yegrb">news</a></li>
+						<li><a href="http://www.google.com/calendar/embed?src=yegrb.com_4pmb3hc3jv4jc75jhodv6m2rkc%40group.calendar.google.com&ctz=America/Edmonton">events</a></li>
+						<li><a href="http://yegrb.com/about_us.html">our story</a></li>
+					</ul>
+				</section>
+			</nav>
+			<aside class="grid_3 prefix_3 omega">
+
+				<p>All content on this site is copyright 2011 YEGRB and released under a Creative Commons attribution license unless specified otherwise. We respect your privacy.</p>
+
+				<p><a href="https://github.com/yegrb/yegrb.github.com">Fork this site on GitHub</a> to submit changes!</p>
+			</aside>
+		</div>
+	</footer>
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+  <script>window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+
+
+  <!-- scripts concatenated and minified via ant build script-->
+  <script src="js/plugins.js"></script>
+	<script src="js/script.js"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script>
+  <!-- end scripts-->
+
+
+  <!--[if lt IE 7 ]>
+    <script src="js/libs/dd_belatedpng.js"></script>
+    <script>DD_belatedPNG.fix("img, .png_bg");</script>
+  <![endif]-->
+
+  <script>
+    var _gaq=[["_setAccount","UA-73138-7"],["_trackPageview"]];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+    g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+    s.parentNode.insertBefore(g,s)}(document,"script"));
+  </script>
+
+</body>
+</html>
