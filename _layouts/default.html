@@ -43,6 +43,20 @@
 				<article class="post">
 					<h1>{{ page.title }}</h1>
 					{{ content }}
+					<footer>
+					  <div class="share-post">
+							<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="yegrb">Tweet</a>
+					<div id="fb-root"></div>
+      <script src="http://connect.facebook.net/en_US/all.js"></script>
+      <script>
+         FB.init({ 
+            appId:'223169201042858', cookie:true, 
+            status:true, xfbml:true 
+         });
+      </script>
+      <fb:like></fb:like>
+						</div>
+					</footer>
 				</article>
 			{% else %}
 				{{ content }}
@@ -120,7 +134,8 @@
 
   <!-- scripts concatenated and minified via ant build script-->
   <script src="js/plugins.js"></script>
-  <script src="js/script.js"></script>
+	<script src="js/script.js"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
   <!-- end scripts-->
 
 

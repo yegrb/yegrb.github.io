@@ -88,10 +88,13 @@ a:hover { color: #036; }
 body { line-height: 1.5em; font-family: 'Open Sans', arial, serif; background-color: #f1f1f1; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Bevan', serif; font-style: normal; font-weight: 400; text-shadow: none; text-decoration: none; text-transform: none; letter-spacing: 0.098em; word-spacing: 0.126em; line-height: 1.2; margin: 0 0 10px 0; }
 h1 { font-size: 36px; }
+
 article h1 { font-size: 24px; }
 article h1 a { text-decoration: none; color: #444; }
 article { margin: 0 0 50px 0; }
 article ul, article ol { margin-bottom: 1em; }
+article footer { padding: 0; background: none; }
+
 header { padding: 30px 0 30px 0; background-color: #323232; background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.12, rgb(50,50,50)), color-stop(0.80, rgb(30,30,30)));
 background-image: -moz-linear-gradient(center bottom, rgb(50,50,50) 12%, rgb(30,30,30) 80%); }
 header aside { padding: 40px 0 0 0; }
