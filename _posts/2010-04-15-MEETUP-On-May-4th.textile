@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MEETUP - May 18th, 2010 at 18:30
+category: meetups
 ---
 
 <strong>This meetup has been moved from it's original date to May 18th to avoid a conflict with the next DemoCamp!</strong>

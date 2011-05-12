@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YEGJS - 19-Oct-2010 at Axis Cafe
+category: meetups
 ---
 
 This month we're taking a break from Ruby to talk about... JavaScript!

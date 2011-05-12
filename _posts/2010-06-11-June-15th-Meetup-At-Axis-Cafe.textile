@@ -1,6 +1,7 @@
 ---
 layout: default
 title: June 15th Meetup to be held at Axis Cafe
+category: meetups
 ---
 
 Our next meetup is coming up fast and is only a few days away.  <a href="https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dHhCUmZxSzlmbFJCeGZ0MWtLcXNib2c6MA#gid=0">RSVP now if you haven't already</a>!  You can also <a href="http://www.google.com/moderator/#16/e=c9f4">submit questions for Aman online</a>.

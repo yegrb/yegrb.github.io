@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YEGRB 0.10 Work Smarter
+category: meetups
 ---
 
 **WHAT:** YEGRB 0.10 Work Smarter  

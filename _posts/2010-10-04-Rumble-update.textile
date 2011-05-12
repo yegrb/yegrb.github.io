@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Two weeks to the rumble
+category: news
 ---
 
 It's a little less than two weeks until the RailsRumble and we're pleased to announce that there are already four Edmonton teams that have started preparing.  YEGRB is also pleased to announce that a number of local organisations have stepped up to provide venues for the teams competing.

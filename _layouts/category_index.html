@@ -1,0 +1,12 @@
+---
+layout: default
+body: blog archive
+---
+<div id="blog-posts">
+	{% for post in site.categories[page.category] %}
+	<article class="post{% if forloop.first %} first{% endif %}">
+		<h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		{{ post.content | textilize }}
+	</article><!-- end: .post -->
+	{% endfor %}
+</div>

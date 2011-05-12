@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NOTES - YEGRB 10 Work Smarter
+category: meetups
 ---
 
 This last meetup was different from normal, as we led a series of small group discussions about the tools and tricks people used to make developing with Ruby more enjoyable.

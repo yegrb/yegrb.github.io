@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HACKUP - May 8th, 2010
+category: hackups
 ---
 
 YEGRB is excited to host Edmonton's first Ruby Hackup on May 8th from 10am-5pm.  

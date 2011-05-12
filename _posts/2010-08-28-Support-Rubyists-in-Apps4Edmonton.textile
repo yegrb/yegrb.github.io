@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Support local Ruby developers in the Apps4Edmonton contest
+category: news
 ---
 
 <p><em>UPDATE:</em> We just added My Edmonton to this list of Ruby apps!</p>

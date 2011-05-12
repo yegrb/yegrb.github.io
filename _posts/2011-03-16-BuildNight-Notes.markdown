@@ -1,6 +1,7 @@
 ---
 title: BuildNight Notes
 layout: default
+category: meetups
 ---
 Thank-you for taking the time to come out to Edmonton's very first BuildNight. There was a great turnout and hopefully you enjoyed yourselves!
 

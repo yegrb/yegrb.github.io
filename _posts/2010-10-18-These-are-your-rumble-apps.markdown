@@ -1,6 +1,7 @@
 ---
 title: These are your rumble apps
 layout: default
+category: news
 ---
 
 This past weekend was the RailsRumble, a non-stop 48-hour marathon of coding, design, and pizza (judging by some of the posts on Twitter.)  There were four teams from Edmonton competing, and they all managed to build some great looking and functional apps.

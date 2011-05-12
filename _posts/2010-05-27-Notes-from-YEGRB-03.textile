@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Notes from YEGRB 0.3
+category: meetups
 ---
 
 Thanks to everyone who came out to our meetup last week.  It wasn't our biggest meetup, but it was a good one!

@@ -1,6 +1,7 @@
 ---
 title: MEETUP - April 19th - DevOps
 layout: default
+category: meetups
 ---
 
 **WHAT: DevOps and Ruby**  

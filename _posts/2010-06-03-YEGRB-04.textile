@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YEGRB July 15th Meetup - EventMachine and Ruby Tuning with Aman Gupta
+category: meetups
 ---
 
 <img src="/images/posts/2010/06/aman_gupta.png" style="float: left; margin: 0 1em 1em 0;" alt="Aman Gupta" />It's hard to believe we're already on to our fourth YEGRB meetup, and this is going to be the best one yet!  Aman Gupta (<a href="http://github.com/tmm1">github</a>, <a href="http://twitter.com/tmm1">twitter</a>) will be joining us via the web to present "Debugging Ruby: understanding and troubleshooting the VM and your application".  Aman is a serial entrepreneur, ruby hacker and a recent winner of a Ruby Heroes award. He currently maintains the EventMachine project and various other gems that help build high-performance distributed and asynchronous systems in ruby, including em-mysql, em-spec, jsSocket and amqp.

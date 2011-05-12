@@ -1,6 +1,7 @@
 ---
 title: UPDATED! YEGRB 0.8 Rails 3 - 16-Nov at 19:00
 layout: default
+category: meetups
 ---
 
 **UPDATE: Please note this is now at 19:00.  We're also still looking for speakers!**

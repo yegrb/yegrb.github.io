@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Notes from YEGRB 0.2
+category: meetups
 ---
 
 Thanks again to everyone that came out to YEGRB 0.2.  We had an even bigger turnout than last time with lots of new faces, as well as people coming back from the last meeting.

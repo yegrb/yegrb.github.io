@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YEGRB website survey
+category: news
 ---
 
 We hope everyone is enjoying their holidays, and has started to get their New Years plans together!  Here at YEGrb we've been thinking about our new years resolutions and right at the top of the list is redesigning of our website to match [our new mission](https://github.com/yegrb/yeg-wiki/wiki/Mission).

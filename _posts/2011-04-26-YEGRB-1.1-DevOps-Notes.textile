@@ -1,6 +1,7 @@
 ---
 title: NOTES - YEGRB 1.1 DevOps
 layout: default
+category: meetups
 ---
 
 h2. News

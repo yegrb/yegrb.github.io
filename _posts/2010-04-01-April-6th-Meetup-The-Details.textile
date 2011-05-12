@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MEETUP - April 6th
+category: meetups
 ---
 
 As we've already announced the next YEGRB Meetup is happening on <strong>Tuesday April 6th, 2010 at 6:30 PM</strong>.
