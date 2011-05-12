@@ -8,6 +8,6 @@ category: meetups
 **WHEN**: May 17th, 2011  
 **WHERE**: Room B-10, Computer Science Centre, University of Alberta  
 
-This month @MarkBennett will be talking about the upcoming changes in Rail 3.1, and how to migrate your applications while @fnichol is going to tell all of how to "Guarding Against Tedium" with the Guard gem.
+This month @MarkBennett will be talking about the upcoming changes in Rail 3.1, and how to migrate your applications while @fnichol is going to tell us how to "Guarding Against Tedium" with the Guard gem.
 
 We'll try to keep it short so that there will be time to go for beers after the talks are over.
