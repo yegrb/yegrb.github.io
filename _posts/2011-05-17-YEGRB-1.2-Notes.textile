@@ -5,7 +5,30 @@ published: false
 category: meetups
 ---
 
-# News
+h2. News
 
- * Rails 3.1 beta
- * Foreman and Procfile
+ * RailsConf 2011 started today ("live stream":http://en.oreilly.com/rails2011/public/content/video?_live=true)
+ * "YEGRB calendaraboutnothing":http://calendaraboutnothing.com/group/MarkBennett,fnichol,RyanOnRails,benzittlau,theDoug
+
+h3. Gem releases
+
+ * "Rails 3.1 beta 1":http://weblog.rubyonrails.org/2011/5/5/rails-3-1-beta-1-released
+ * "Foreman and Procfile":http://adam.heroku.com/past/2011/5/9/applying_the_unix_process_model_to_web_apps/
+ * "jQuery 1.6.1":http://blog.jquery.com/2011/05/12/jquery-1-6-1-released/
+
+h3. Jobs
+
+There are some new jobs up on "the job listings":https://github.com/yegrb/yeg-wiki/wiki/Ruby-jobs-in-edmonton.
+
+ * xFire seeks Ruby on Rails developer
+ * Lift Interactive seeks Ruby on Rails developer
+
+h3. Next Meetup
+
+We've got two meetups happening next month. On *Wed June 1st, Amir Barylko is doing a one hour deep-dive in to Capybara*. We'll then return with *our last meetup before the summer break on Tuesday July 15th*. We'll return to regulalrly scheduled meetups in September.
+
+h2. Speakers
+
+ * Ruby Recap: "@benzittlau":http://twiiter.com/benzittlau is covering the fundamentals of RVM and Bundler
+ * "@fnichol":http://twitter.com/fnichol is "Guarding Against Tedium" with the "Guard gem":https://github.com/guard/guard
+ * "@MarkBennett":http://twitter.com/MarkBennett is going over the changes in Rails 3.1
