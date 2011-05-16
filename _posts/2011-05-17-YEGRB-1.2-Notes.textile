@@ -10,7 +10,7 @@ h2. News
  * RailsConf 2011 started today ("live stream":http://en.oreilly.com/rails2011/public/content/video?_live=true)
  * "YEGRB calendaraboutnothing":http://calendaraboutnothing.com/group/MarkBennett,fnichol,RyanOnRails,benzittlau,theDoug
 
-h3. Gem releases
+h3. Releases
 
  * "Rails 3.1 beta 1":http://weblog.rubyonrails.org/2011/5/5/rails-3-1-beta-1-released
  * "Foreman and Procfile":http://adam.heroku.com/past/2011/5/9/applying_the_unix_process_model_to_web_apps/
