@@ -5,9 +5,9 @@ category: meetups
 ---
 
 **WHAT**: YEGBR 1.2 Rails 3.1 and Guard  
-**WHEN**: May 17th, 2011  
+**WHEN**: May 17th, 2011 at 18:30
 **WHERE**: Room B-10, Computer Science Centre, University of Alberta  
 
-This month @MarkBennett will be talking about the upcoming changes in Rail 3.1, and how to migrate your applications while @fnichol is going to tell us how to "Guarding Against Tedium" with the Guard gem.
+This month @MarkBennett will be talking about the upcoming changes in Rail 3.1, and how to migrate your applications while @fnichol is going to tell us how to "Guarding Against Tedium" with the Guard gem. @benzittlau is also doing a recap of RVM and Bunder.
 
 We'll try to keep it short so that there will be time to go for beers after the talks are over.
