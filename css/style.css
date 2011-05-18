@@ -129,6 +129,7 @@ background: -ms-linear-gradient(top, #500000 0%,#800000 30%,#800000 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#500000', endColorstr='#800000',GradientType=0 );
 background: linear-gradient(top, #500000 0%,#800000 30%,#800000 100%); }
 p { margin: 0 0 12px 0; }
+.embedded { width: 540px; height: 350px; }
 
 
 
