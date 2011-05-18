@@ -17,10 +17,11 @@ h3. Releases
  * "Foreman and Procfile":http://adam.heroku.com/past/2011/5/9/applying_the_unix_process_model_to_web_apps/
  * "jQuery 1.6.1":http://blog.jquery.com/2011/05/12/jquery-1-6-1-released/
 
-h3. Jobs                                                                                                                     
+h3. Jobs
+
 There are some new jobs up on "the job listings":https://github.com/yegrb/yeg-wiki/wiki/Ruby-jobs-in-edmonton.
 
- * xFire seeks Ruby on Rails developer (details on the mailing list)
+  * xFire seeks Ruby on Rails developer (details on the mailing list)
 
 h3. Next Meetup
 
