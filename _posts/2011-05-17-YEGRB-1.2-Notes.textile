@@ -33,8 +33,6 @@ h3. "Ruby Recap: RVM" by "@benzittlau":http://twiiter.com/benzittlau
 
  * "YEG.rb Ruby Refresh - RVM":http://prezi.com/qfl5wwkqnmnh/yegrb-ruby-refresh-rvm/ on "Prezi":http://prezi.com
 
-</div>
-
 h3. "Guarding Against Tedium" by "@fnichol":http://twitter.com/fnichol
 
  * the "Guard gem":https://github.com/guard/guard
@@ -44,4 +42,5 @@ h3. "Changes in Rails 3.1":http://yegrb-rails31.heroku.com/ by  "@MarkBennett":h
 
 <iframe src="http://yegrb-rails31.heroku.com/" class="embedded">
 </iframe>
+
  * used the "Shining gem":http://shining.heroku.com/ for my slides
