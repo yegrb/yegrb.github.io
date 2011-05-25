@@ -14,3 +14,4 @@ Amir Barylko ([@abarylko](http://twitter.com/abarylko)) is joining us to guide a
 > 
 > It provides different drivers that can be configured and even chose per feature or scenario basis to indicate how we want to run that case. It has built-in support rack-test, Culerity, Celerity and Selenium.
 
+**Please note that this meeting is taking place on Wednesday June 1st. Our regular meetups will return June 21st.**
