@@ -6,3 +6,4 @@ gem "RedCloth"
 
 # Used for deploying
 gem "rake"
+gem "git"

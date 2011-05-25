@@ -1,4 +1,5 @@
 pages_dir = "_github_pages"
+site_dir = "_site"
 
 jekyll_render_opts = "--pygments"
 jekyll_server_opts = "--server --auto"
@@ -17,11 +18,27 @@ namespace :github_pages do
 
   desc "Clear away old files from the site. Fresh copies are regenerated to replace them."
   task :purge => :setup do
-    # TODO
+  end
+
+  desc "Copy rendered files ready to publishing"
+  task :copy_rendered => [:"jekyll:render", :purge] do
+    sh "cp -r #{site_dir}/* #{pages_dir}"
+  end
+
+  desc "Commit changes to GitHub pages"
+  task :commit_changes => :copy_rendered do
+    Dir.chdir(pages_dir) do
+      sh "git add ."
+      sh 'git commit -m "Automatically published"'
+    end
   end
 
   desc "Publish this site to GitHub pages"
-  task :publish => [:setup, :"jekyll:render"]
+  task :publish => :commit_changes do
+    Dir.chdir(pages_dir) do
+      sh 'git push origin master'
+    end
+  end
 
 end
 
