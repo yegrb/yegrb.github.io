@@ -46,9 +46,11 @@
 	<div id="main" role="main" class="clearfix container_12">
 		<div id="content" class="prefix_2 grid_7 alpha">
 			{% unless page.is_home %}
-				<article class="post">
-					<h1>{{ page.title }}</h1>
-					{{ content }}
+				<article class="post" itemscope itemtype="http://schema.org/Article">
+				  <h1 itemprop="name">{{ page.title }}</h1>
+          <div itemprop="description">
+						{{ content }}
+					</div>
 					<footer>
 					  <div class="share-post">
 							<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="yegrb">Tweet</a>
