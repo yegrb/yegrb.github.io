@@ -1,0 +1,21 @@
+---
+title: MEETUP - September 20th, 2011
+layout: default
+---
+
+**What**: Monthly meetup  
+**Where**: CS-249, Computing Science Centre (CSC), University of Alberta ([map](http://www.campusmap.ualberta.ca/))  
+**When**: Tuesday Sept 20st, 2011 at 19:00
+
+I hope you had a great summer, and are excited for another year of Ruby meetups!
+
+Based on feedback from the [last planning meeting](https://github.com/yegrb/yeg-wiki/wiki/Planning-meeting-2), event planning is becoming more collaborative. Check out our [meetup planning page on the YEGrb wiki](https://github.com/yegrb/yeg-wiki/wiki/Sept-20th%2C-2011-Meetup) where you can:
+
+* sign up to talk
+* suggest questions to be answered during the Ruby Recap
+* add the latest Ruby news
+* share your contact details with other attendees
+
+After the meetup is over, we'll head out to [RATT in SUB](http://www.urbanspoon.com/r/131/1437395/restaurant/Room-at-the-Top-Ratt-Edmonton) for some food and beverages. You're welcome to meet us there whether you've been able to attend the talks or not.
+
+I'm going to be out of town for this first meetup, but Sean Ouimet has kindly stepped up to run the show. I'll see everyone again in October.
