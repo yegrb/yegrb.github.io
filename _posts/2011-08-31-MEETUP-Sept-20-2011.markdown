@@ -1,6 +1,7 @@
 ---
 title: MEETUP - September 20th, 2011
 layout: default
+category: meetups
 ---
 
 **What**: Monthly meetup  
