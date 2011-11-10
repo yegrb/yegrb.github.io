@@ -3,3 +3,4 @@ _site
 .bundle
 .rvmrc
 _github_pages*
+bin
