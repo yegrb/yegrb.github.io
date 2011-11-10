@@ -12,7 +12,9 @@ We're excited to announce that [Derick Bailey](https://plus.google.com/u/2/b/116
 
 Backbone.js is an exciting new JavaScript MVC library. It's small (less than 5 kb), simple, and works well with other lbiraries like jQuery. In the year since it was launched it's gained a passionate following.
 
-Derick Bailey is an independent consultant, software developer, writer, blogger, speaker and technology leader in central Texas (north of Austin). He has been a professional software developer since the late 90's, and has been writing code since the late 80's. Derick has also written extensively about Backbone.js and is the author of the [backbone-memento](https://github.com/derickbailey/backbone.memento) and [backbone.modelbinding](https://github.com/derickbailey/backbone.modelbinding) libraries, as well as contributing back to the backbone project. He's also a very nice guy.
+Derick Bailey is an independent consultant, developer, trainer, speaker and author, living in Waco, TX. He's been slinging code since the late 80’s and doing it professionally since the mid 90's. After nearly 10 years of working in .NET, Derick spends his time primarily writing ruby and javascript, while still dabbling in other bits, blogging with LosTechies.com, screencasting at WatchMeCode.net, and much more. 
+
+Derick’s most recent technical love affair is with BackboneJS and JavaScript in general. He’s been heads-down coding with them, helping out on the Backbone Google group, StackOverflow, and writing the [backbone-memento](https://github.com/derickbailey/backbone.memento) and [backbone.modelbinding](https://github.com/derickbailey/backbone.modelbinding) libraries, as well as contributing back to the backbone project. He's also a very nice guy.
 
 We're [taking questions for Derick in advance](https://www.google.com/moderator/?authuser=2#15/e=c9f4&t=c9f4.41). You can submit your own questions and vote for your favourite questions that have already been asked.
 
