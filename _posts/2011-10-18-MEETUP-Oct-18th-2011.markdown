@@ -1,0 +1,22 @@
+---
+layout: default
+title: MEETUP - October 18th, 2011
+category: meetup
+---
+
+**WHAT**: Monthly Meetup  
+**WHERE**: Room 2-49, Computing Science Centre (CSC), University of Alberta  
+**WHEN**: Tuseday October 18th at 18:30  
+
+This month's meetup is a nice mix of beginner and more advanced topis. We'll have four lightning talks covering:
+
+ * How to build a gem
+ * Sending SMS messages from Ruby with Twilio
+ * A recap of RubyConf 2011
+ * An intro to Foreman and managing your apps processes with Procfiles
+
+As always there will be coverage of the latest Ruby and developer news. We'll also have a special announcement of interest to all you JavaScript developers out there.
+
+If you can't make it out for the meetup, join us afterwards for drinks at Original Joe's Varsity on the corner of 109th Street and 84th Ave.
+
+Get more details, and contribute news and other notes [on our wiki](https://github.com/yegrb/yeg-wiki/wiki/Oct-18th%2C-2011-Meetup).
