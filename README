@@ -1,1 +1,35 @@
 This repository contains the home page for YEGRB, the Edmonton Ruby User Group.
+
+Development setup
+===================
+
+To setup an environment to develop and change the website just clone this repo and then:
+
+    bundle install --binstubs
+
+To build the static files which will deployed to the site we use a gem called Jekyll (https://github.com/mojombo/jekyll). You can get Jekyll to rebuild the site using:
+
+    bin/jekyll
+
+You'll need to re-run this every time you change a layout or edit a post. Since this gets tedious very quickly you can arrange for Jekyll to watch and re-build the pages automatically using the --auto flag:
+
+    bin/jekyll --auto
+
+The static files are build into the _site folder, but if you want to serve them to the web browser jekyll can be run as a server:
+
+    bin/jekyll --server --auto
+
+This will serve the pages on port 4000, and automatically rebuild the site when files in _posts or _layouts change.
+
+
+Deploying to yegrb.com
+=======================
+
+If you have permission to write to the YEGrb site repo then you can deploy your changes to http://yegrb.com using rake:
+
+    bin/rake github_pages:publish
+
+Questions?
+===========
+
+Reply @MarkBennett or @yegrb on Twitter or create an issue.
