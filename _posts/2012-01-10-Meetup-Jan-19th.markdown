@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MEETUP - Tuesday January 17th, 2011 at 18:30
+title: MEETUP - Tuesday January 17th, 2012 at 18:30
 ---
 
 **WHEN:** Tuesday January 17th @ 18:30  
