@@ -179,7 +179,7 @@
     window.onerror = function(errorMsg, url, lineNumber) {
       // Log error in Google Analytics
       var label = "" + url + ":" + lineNumber + " " + msg;
-      _gaq.push(['_trackEvent', 'Window', 'Errors', label);
+      _gaq.push(['_trackEvent', 'Window', 'Errors', label]);
 
       // Just let default handler run.
      return false;
