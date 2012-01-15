@@ -175,6 +175,15 @@
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+    window.onerror = function(errorMsg, url, lineNumber) {
+      // Log error in Google Analytics
+      var label = "" + url + ":" + lineNumber + " " + msg;
+      _gaq.push(['_trackEvent', 'Window', 'Errors', label);
+
+      // Just let default handler run.
+     return false;
+    };
   })();
 
 </script>
