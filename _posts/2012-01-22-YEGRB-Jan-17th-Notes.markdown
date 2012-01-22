@@ -10,7 +10,7 @@ All our meetups follow a common format. They're based around 10 minute lightning
 
 ## Introductions
 
-Based on feedback from our members, we've revived the tradition of short introductions at the start of each meetup. Everyone has 30-seconds to share their name and to answer a short question about themselves. It doesn't take more than 10 minutes to get through everybody, and is a great way to break the ice.
+Based on feedback from our members, we've revived the tradition of short introductions at the start of each meetup. We had lots of new members out tonight, many of whom had come to hear or discuss a specific talk. Great to see so many people come out!
 
 ## 5-minute Ruby News
 
@@ -42,7 +42,7 @@ There's nothing better than landing a sweet Ruby job. Every month we share the l
 
 ## Lightning talks
 
-The main part of each meetup is the lighting talks. We aim to have 2-3 of these. Each talk lasts 10-minutes with 5-minutes for questions afterwards. We divide the talks into advanced and basic slots; aiming to keep more experienced Rubyists engaged with the advanced talks, without scarying away new comers.
+After a short break for pizza, courtesy or Yardstick Software (thanks Don!), we moved on to the main part of each meetup,  the lighting talks. We aim to have 2-3 of these. Each talk lasts 10-minutes with 5-minutes for questions afterwards. We divide the talks into advanced and basic slots; aiming to keep more experienced Rubyists engaged with the advanced talks, without scarying away new comers.
 
  * _[Nathan Bertram](http://about.me/nathanbertram)_ - [Rails 3.1 asset pipeline](http://www.scribd.com/doc/78500858/Asset-Pipeline-in-Rails-3-1)
  * _[Mark Bennett](http://twitter.com/MarkBennett)_ - [JavaScript debugging in the trenches](https://gist.github.com/1629116)
@@ -64,8 +64,4 @@ _What talks would you like to see at our next meetup?_
 
 ## Drinks
 
-The best part of the night for many of our members is after the talks are done, when we head to RATT ([map](http://maps.google.ca/maps/place?q=room+at+the+top&cid=9814268264566469572)) for food and drinks. We're usually there be 8:30PM and anyone is welcome to join us there once the talks are done.
-
-This is your chance to catch up with other members, ask the questions you couldn't during the talks, or maybe just relax after a tough demo.
-
-_If you'd like to know more about upcoming meetups you can see a list of them on our homepage. Hope to see you at YEGrb soon!_
+The best part of the night for many of our members is after the talks are done, when we head to RATT ([map](http://maps.google.ca/maps/place?q=room+at+the+top&cid=9814268264566469572)) for food and drinks. This month was no exception and Inkdit kindly supplied a round for the table. Thanks!
