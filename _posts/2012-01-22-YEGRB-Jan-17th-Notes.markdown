@@ -6,11 +6,7 @@ title: Notes from Jan 17th, 2012 meetup
 **WHEN:** Tuesday January 19th @ 18:30  
 **WHERE:** CSC-249 Computing Science Centre, University of Alberta ([map](http://maps.google.ca/maps/place?q=computing+science,+edmonton&hl=en&ftid=0x53a0218a9ccbcfa5:0xaae88fa1314cc64e))
 
-All our meetups follow a common format. They're based around 10 minute lightning talks. This may seem short, but we offer time after each talk for questions. We also encourage you to approach the speakers and other members at drinks after the talks are done if you've got more questions you'd like answered.
-
-## Introductions
-
-Based on feedback from our members, we've revived the tradition of short introductions at the start of each meetup. We had lots of new members out tonight, many of whom had come to hear or discuss a specific talk. Great to see so many people come out!
+We had lots of new members out tonight, many of whom had come to hear or discuss a specific talk. Great to see so many people come out!
 
 ## 5-minute Ruby News
 
@@ -42,7 +38,7 @@ There's nothing better than landing a sweet Ruby job. Every month we share the l
 
 ## Lightning talks
 
-After a short break for pizza, courtesy or Yardstick Software (thanks Don!), we moved on to the main part of each meetup,  the lighting talks. We aim to have 2-3 of these. Each talk lasts 10-minutes with 5-minutes for questions afterwards. We divide the talks into advanced and basic slots; aiming to keep more experienced Rubyists engaged with the advanced talks, without scarying away new comers.
+After a short break for pizza, courtesy or Yardstick Software (thanks Don!), we moved on to the main part of each meetup,  the lighting talks. We aim to have 2-3 of these. Each talk lasts 10-minutes with 5-minutes for questions afterwards. 
 
  * _[Nathan Bertram](http://about.me/nathanbertram)_ - [Rails 3.1 asset pipeline](http://www.scribd.com/doc/78500858/Asset-Pipeline-in-Rails-3-1)
  * _[Mark Bennett](http://twitter.com/MarkBennett)_ - [JavaScript debugging in the trenches](https://gist.github.com/1629116)
@@ -53,10 +49,6 @@ After a short break for pizza, courtesy or Yardstick Software (thanks Don!), we 
 Each month we challenge a local developer or company working with Ruby to demonstrate their project. The goal of this segment to to share the real applications being developed with Ruby in Edmonton. The project can be open or closed source, and companies are encouraged to demonstrate their products.
 
  * [Brendan Taylor](http://github.com/bct) - [API client](http://github.com/Inkdit/inkdit.rb) for [Inkdit](https://inkdit.com/)
-
-## Wrap-up
-
-Each meetup wraps up with a five minute planning session during which we plan the talks for the next month. We encourage members to propose talk topics for other members, but don't be surprised if you end up giving a talk or two yourself.
 
 ### Talk ideas
 
