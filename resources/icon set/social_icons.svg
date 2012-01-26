@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="social_icons.svg"
-   style="display:inline">
+   style="display:inline"
+   inkscape:export-filename="/Users/mark/versioned/yegrb-jekyll.github.com/img/social_icons.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -62,7 +65,7 @@
      inkscape:window-height="776"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
        position="0,0"
@@ -324,7 +327,7 @@
          sodipodi:cy="283.74612"
          sodipodi:rx="6.3839288"
          sodipodi:ry="6.3839288"
-         d="m 362.41072,283.74612 a 6.3839288,6.3839288 0 1 1 -12.76785,0 6.3839288,6.3839288 0 1 1 12.76785,0 z" />
+         d="m 362.41072,283.74612 c 0,3.52575 -2.85818,6.38393 -6.38393,6.38393 -3.52574,0 -6.38392,-2.85818 -6.38392,-6.38393 0,-3.52574 2.85818,-6.38392 6.38392,-6.38392 3.52575,0 6.38393,2.85818 6.38393,6.38392 z" />
     </g>
     <g
        id="g5580"
