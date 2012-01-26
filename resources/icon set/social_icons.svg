@@ -15,7 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="social_icons.svg">
+   sodipodi:docname="social_icons.svg"
+   style="display:inline">
   <defs
      id="defs4">
     <linearGradient
@@ -49,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5970104"
-     inkscape:cx="95.71912"
+     inkscape:cx="49.127085"
      inkscape:cy="91.426195"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -57,10 +58,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="1000"
+     inkscape:window-width="1440"
+     inkscape:window-height="776"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -135,7 +136,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-832.36218)">
+     transform="translate(0,-832.36218)"
+     style="display:inline">
     <rect
        style="fill:#090909;fill-opacity:1;stroke:none"
        id="rect3034"
@@ -322,7 +324,7 @@
          sodipodi:cy="283.74612"
          sodipodi:rx="6.3839288"
          sodipodi:ry="6.3839288"
-         d="m 362.41072,283.74612 c 0,3.52575 -2.85818,6.38393 -6.38393,6.38393 -3.52574,0 -6.38392,-2.85818 -6.38392,-6.38393 0,-3.52574 2.85818,-6.38392 6.38392,-6.38392 3.52575,0 6.38393,2.85818 6.38393,6.38392 z" />
+         d="m 362.41072,283.74612 a 6.3839288,6.3839288 0 1 1 -12.76785,0 6.3839288,6.3839288 0 1 1 12.76785,0 z" />
     </g>
     <g
        id="g5580"
@@ -355,6 +357,17 @@
          style="fill:none;stroke:#f2f2f2;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="8"
+       y="1036.3622"
+       id="text3163"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3165"
+         x="8"
+         y="1036.3622">irc</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -362,9 +375,9 @@
      inkscape:label="Slices"
      style="display:none">
     <rect
-       inkscape:export-ydpi="35.16"
-       inkscape:export-xdpi="35.16"
-       inkscape:export-filename="/home/mark/Desktop/test/test.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/mark/versioned/yegrb-jekyll.github.com/resources/icon set/irc.png"
        rx="0"
        ry="0"
        y="156"

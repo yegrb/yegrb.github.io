@@ -115,6 +115,7 @@ header h2 { color: #999999; }
 #follow-us .follow-badge.twitter { background-position: 0px 0px; }
 #follow-us .follow-badge.github { background-position: -78px 0px; }
 #follow-us .follow-badge.facebook { background-position: -156px 0px; }
+#follow-us .follow-badge.irc { background-position: 0px -156px; }
 #follow-us .follow-badge.youtube { background-position: 0px -78px; }
 #follow-us .follow-badge.convore { background-position: -78px -78px; }
 #follow-us .follow-badge.gcal { background-position: -156px -78px; }
