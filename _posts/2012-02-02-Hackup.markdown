@@ -1,0 +1,12 @@
+---
+title: HACKUP - 18:30 Monday Feb 6th, 2012 at IdeaLoft
+layout: default
+---
+
+**WHAT**: Monthly Hackup  
+**WHEN**: 18:30 on Monday February 6th  
+**WHERE**: Buzzer #101, 10355 105 St NW, Edmonton ([map](http://g.co/maps/er322))
+
+Join us for our monthly hackup this coming Monday evening at IdeaLoft. We'll be ordering in pizza and writing code. Personal and work projects are welcome, and you don't even have to work in Ruby (though you'll get lots of help if you are!)
+
+Follow us at [@yegrb on Twitter](http://twitter.com/yegrb) and [Google+](https://plus.google.com/b/116923764087972001994/116923764087972001994/about) for the latest updates.
