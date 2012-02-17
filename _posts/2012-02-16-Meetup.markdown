@@ -1,0 +1,10 @@
+---
+layout: default
+title: Meetup on Tuesday Feb 21st, 2012
+---
+
+**WHAT**: Monthly Meetup  
+**WHEN**: 18:30 on Tuesday February 21st  
+**WHERE:** CSC-249 Computing Science Centre, University of Alberta ([map](http://maps.google.ca/maps/place?q=computing+science,+edmonton&hl=en&ftid=0x53a0218a9ccbcfa5:0xaae88fa1314cc64e))
+
+This months meetup we'll be getting back to the basics and talking about Procs, blocks, and lambdas. We're still looking for other speakers so if you have other talks you'd like to do reply to us on Twitter [@yegrb](http://twitter.com/yegrb) or add yourself to the list of speakers on [the wiki](https://github.com/yegrb/yeg-wiki/wiki/Feb-21st%2C-2012-meetup).
