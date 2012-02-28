@@ -3,6 +3,8 @@ layout: default
 title: Meetup Notes
 ---
 
+This months meetup had a good turnout, and a lot of discussion about the basics of Ruby. We were also glad to see so many people out to talk about how their using Ruby in their work.
+
 ## 5-minute Ruby News
 
  * [Ruby 1.9.3-p125 released](http://preview.ruby-lang.org/en/news/2012/02/16/ruby-1-9-3-p125-is-released/) - new recommended version, includes OpenSSL fix
@@ -40,7 +42,9 @@ There's nothing better than landing a sweet Ruby job. Every month we share the l
 
 Thanks to everyone that completed the t-shirt survey last week. We've got a good idea what people are looking for now, and are excited to announce a new contest to design the shirt!
 
-We're looking for people to submit designs using the new logo. At next months meetup we'll announce the designs and launch a vote to select a winning design. The designer of the winning shirt will get their own shirt paid for my the meetup. Submit your designs via twitter [@yegrb](https://twitter.com/yegrb), or via our [Google+ page](https://plus.google.com/b/116923764087972001994/).
+We're looking for people to submit designs using the new logo. At next months meetup we'll announce the designs and launch a vote to select a winning design. _The designer of the winning shirt will get their own shirt paid for by the meetup._
+
+Interested designers can [download a design package](/images/yegrb-logo.zip) which includes the official YEGrb colours, logo and style guides. Submit your designs as a PNG image to [tshirts@yegrb.com](mailto:tshirts@yegrb.com), via twitter [@yegrb](https://twitter.com/yegrb), or via our [Google+ page](https://plus.google.com/b/116923764087972001994/) before our next meetup on March 20th.
 
 ## Ruby Recap
 
