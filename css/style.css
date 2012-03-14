@@ -131,7 +131,7 @@ background: linear-gradient(top, #500000 0%,#800000 30%,#800000 100%); }
 p { margin: 0 0 12px 0; }
 .embedded { width: 540px; height: 350px; }
 
-
+q { border-color: #ccc; border-style: solid; border-left-width: 5px; display: block; font-style: italic; margin: 0 20px 12px 20px; padding: 0 0 0 10px;  }
 
 
 
