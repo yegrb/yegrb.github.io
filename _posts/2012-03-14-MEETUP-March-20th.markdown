@@ -4,7 +4,7 @@ title: Meetup on March 20th, 2012
 ---
 
 **WHAT**: Monthly Meetup  
-**WHEN**: 18:30 on Tuesday February 21st  
+**WHEN**: 18:30 on Tuesday March 20th  
 **WHERE:** CSC-249 Computing Science Centre, University of Alberta ([map](http://maps.google.ca/maps/place?q=computing+science,+edmonton&hl=en&ftid=0x53a0218a9ccbcfa5:0xaae88fa1314cc64e))
 
 This months meetup is all about user experience.
