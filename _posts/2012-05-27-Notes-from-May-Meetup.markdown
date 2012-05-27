@@ -31,7 +31,7 @@ learn more about Exchange.js on their
 ## Lightning talks
 
 * Fat Clients: Has JavaScript Won? [Nathan Youngman](http://twitter.com/nathany) ([slides](https://speakerdeck.com/u/nathany/p/fat-clients))
-* JavaScript: The Bad Parts, [Daniel Huckstep](http://twitter.com/darkhelmetlive) ([slides](https://speakerdeck.com/u/nathany/p/fat-clients))
+* JavaScript: The Bad Parts, [Daniel Huckstep](http://twitter.com/darkhelmetlive) ([slides](http://darkhelmet.github.com/javascript-the-bad-parts/))
 
 ## Demo
 
