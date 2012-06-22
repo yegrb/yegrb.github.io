@@ -133,6 +133,7 @@ p { margin: 0 0 12px 0; }
 
 q { border-color: #ccc; border-style: solid; border-left-width: 5px; display: block; font-style: italic; margin: 0 20px 12px 20px; padding: 0 0 0 10px;  }
 
+img.fill { width: 100%; }
 
 
 
