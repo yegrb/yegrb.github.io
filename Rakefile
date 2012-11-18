@@ -10,7 +10,7 @@ file "#{pages_dir}/.git/config" => pages_dir do
   sh "git clone git@github.com:yegrb/yegrb.github.com.git #{pages_dir}"
 end
 
-namespace :github_pages do
+namespace :gh do
 
   desc "Clone the YEGRB GitHub Pages repo so we can commit the pre-rendered site into it"
   task :setup => "#{pages_dir}/.git/config" do
