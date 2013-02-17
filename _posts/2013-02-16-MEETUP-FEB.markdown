@@ -4,7 +4,7 @@ title: MEETUP - Tuesday Feb 18th, 2013
 ---
 
 **WHAT:** Monthly Ruby Meetup  
-**WHEN:** Tuesday Feb 18th at 18:30  
+**WHEN:** Tuesday Feb 19th at 18:30  
 **WHERE:** CSC 2-49, Computing Science Centre, UofA ([map](https://maps.google.com/maps/place?q=Computing+Science+Centre,+Edmonton,+AB,+Canada&hl=en&ftid=0x53a0218a9ccbcfa5:0xaae88fa1314cc64e))  
 
 This month we're talking PDF's, Promises and eating pizza. The feature event is going to be a deep-dive into the stdlib by [@darkhelmetlive](http://twitter.com/darkhelmetlive).
