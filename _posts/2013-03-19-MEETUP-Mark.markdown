@@ -17,3 +17,7 @@ layout: default
 * March 23rd (all day) - [Legacy CodeRetreat](https://coderetreatyeg2013-eorg.eventbrite.com/)
 
 ## Talks
+
+* [Sean Ouimet](http://twitter.com/SkepticSean) - HTML5 Hotness
+* [Daniel Huckstep](http://twitter.com/darkhelmetlive) - The Ruby Stdlib (a repeat performance)
+* [Abram Hindle](http://twitter.com/abramh) - Ruby state pattern
