@@ -15,6 +15,7 @@ layout: default
 ## Events
 
 * March 23rd (all day) - [Legacy CodeRetreat](https://coderetreatyeg2013-eorg.eventbrite.com/)
+* April 9 (18:45) - [DemoCamp 21](http://www.meetup.com/startupedmonton/events/108903302/)
 
 ## Talks
 
