@@ -19,6 +19,5 @@ layout: default
 
 ## Talks
 
-* [Sean Ouimet](http://twitter.com/SkepticSean) - HTML5 Hotness
 * [Daniel Huckstep](http://twitter.com/darkhelmetlive) - The Ruby Stdlib (a repeat performance)
 * [Abram Hindle](http://twitter.com/abramh) - Ruby state pattern ([video](http://www.youtube.com/watch?v=ONBrBbzaliA))
