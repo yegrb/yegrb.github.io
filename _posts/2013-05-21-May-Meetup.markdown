@@ -16,7 +16,7 @@ you get paid quickly and easily on your next project.
 
 * [May 28th - UX Edmonton Meetup](http://www.meetup.com/startupedmonton/events/119517822/)
 * [June 2nd - CodeRetreat](http://coderetreatyeg2013.eventbrite.com/) - Come practice the craft or programming and meet other passionate developers.
-* [June 4th - YegDroid](http://www.meetup.com/startupedmonton/events/113480742/) - Get your Android on!
+* [June 4th - YegDroid / GDG](http://www.meetup.com/startupedmonton/events/113480742/) - Get your Android on!
 * [June 6th - Exchange.js](http://www.meetup.com/startupedmonton/events/117538442/) - Talk JavaScript
 * [June 10th - Edmonton Python User Group](http://www.meetup.com/startupedmonton/events/qxrlwfyrjbnb/) - Yes, there are people using Python
 * [June 12th - Monthly Hack Night](http://www.meetup.com/startupedmonton/events/qhzpxfyrjbqb/) - Come build a project with other developers
