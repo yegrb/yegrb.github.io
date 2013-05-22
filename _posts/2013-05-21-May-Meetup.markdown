@@ -6,7 +6,8 @@ title: May 2013 Meetup
 At this month's meetup we're talking e-commerce and payments. We want to help
 you get paid quickly and easily on your next project.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/h41LmB9aPwk"></iframe>
+[View the video from our meetup on YouTube](http://www.youtube.com/watch?feature=player_embedded&v=h41LmB9aPwk). Sorry for the audio issues, we'll
+have a proper microphone next year.
 
 # News
 
