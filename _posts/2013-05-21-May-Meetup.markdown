@@ -6,6 +6,8 @@ title: May 2013 Meetup
 At this month's meetup we're talking e-commerce and payments. We want to help
 you get paid quickly and easily on your next project.
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/h41LmB9aPwk" frameborder="0" allowfullscreen></iframe>
+
 # News
 
 * Next month we're having our year-end BBQ with food and prizes. Start brushing up on your Ruby now.
