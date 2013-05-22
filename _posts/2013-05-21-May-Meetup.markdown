@@ -11,6 +11,7 @@ you get paid quickly and easily on your next project.
 * Next month we're having our year-end BBQ with food and prizes. Start brushing up on your Ruby now.
 * We had our first multi-meetup hackup with ExchangeJS, EdmontonPy, and YEGdroid. It went great! They'll be on the second wednesday each month going forward.
 * Google I/O announced their Compute Engine is available to all
+* [animate.css](http://daneden.me/animate/) is CSS animations for developers
 
 # Events
 
