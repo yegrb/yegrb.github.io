@@ -26,4 +26,7 @@ you get paid quickly and easily on your next project.
 # Presentations
 
 * [@RyanOnRails](https://twitter.com/RyanOnRails) demonstrates taking payments simply with Stripe
+  - https://spreedly.com
+  - https://stripe.com/blog/jquery-payment
+  - https://github.com/lockitron/selfstarter
 * [@MarkBennett](http://markbennett.ca) is leading a discussion on shopping carts and implementing e-commerce
