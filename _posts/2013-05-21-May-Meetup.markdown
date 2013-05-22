@@ -25,7 +25,7 @@ you get paid quickly and easily on your next project.
 
 # Presentations
 
-* [@RyanOnRails](https://twitter.com/RyanOnRails) demonstrates taking payments simply with Stripe
+* [@RyanOnRails](https://twitter.com/RyanOnRails) demonstrates taking payments simply with Stripe ([slides](http://ryanonrails.github.io/stripe-presentation/slides.html))
   - https://spreedly.com
   - https://stripe.com/blog/jquery-payment
   - https://github.com/lockitron/selfstarter
