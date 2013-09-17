@@ -3,18 +3,27 @@ layout: default
 title: September 2013 Meetup
 ---
 
-''WHAT'': September 2013 Meetup  
-''WHEN'': Tuesday September 17th at 19:00  
-''WHERE'': StartupEdmonton  
+**WHAT**: September 2013 Meetup  
+**WHEN**: Tuesday September 17th at 19:00  
+**WHERE**: StartupEdmonton  
 
 Summer's over and it's the start of another exciting year of YEGrb meetups!
 
 We're kicking off the year with a meetup all about the RailsRumble. Come prepared to share tips, project ideas, and to find teammates!
 
-@MarkBennett will also be presenting the first of a three part series on GIS. In the first talk he'll be covering the basics of GIS and what you need to know before you start coding.
-
-We're still looking for more speakers, so let us know if you're interested!
-
 We're also excited to announce that we're moving the venue to StartupEdmonton. The UofA has been a great host, and we hope we can continue having events there in the future.
 
 [RSVP via the StartupEdmonton Meetup page](http://www.meetup.com/startupedmonton/events/138173042/).
+
+## News
+
+ * [MRI Ruby 2.1 will include new garbage collector](http://www.infoq.com/news/2013/09/ruby-2-1-gc-revamp)
+
+## Events
+
+ * Wed Sept 19th - [DemoCamp Edmonton 22](http://www.meetup.com/startupedmonton/events/137164032/)
+
+## Talks
+
+* [@MarkBennett](http://twitter.com/markbennett) An Introduction to GIS and Rails, Part 1 of 3
+* [@fnichol](http://twitter.com/fnichol) An Introduction to Docker and Linux Containers
