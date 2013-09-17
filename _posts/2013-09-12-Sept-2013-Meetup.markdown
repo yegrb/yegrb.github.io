@@ -29,3 +29,7 @@ We're also excited to announce that we're moving the venue to StartupEdmonton. T
 
 * [@MarkBennett](http://twitter.com/markbennett) An Introduction to GIS and Rails, Part 1 of 3
 * [@fnichol](http://twitter.com/fnichol) An Introduction to Docker and Linux Containers
+
+## Jobs
+
+* [Granify](http://granify.com/) is looking for a [backend developer](http://granify.com/careers/backend-developer/) (Ruby and eventually Go!), as well as a [DevOps and Scalability Engineer](http://granify.com/careers/devops-engineer/). Big data, big fun.
