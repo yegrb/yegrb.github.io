@@ -7,6 +7,8 @@ title: September 2013 Meetup
 **WHEN**: Tuesday September 17th at 18:00  
 **WHERE**: StartupEdmonton  
 
+**UPDATE: Meet us starting at 18:00 on the second floor at [Mitre Media](http://mitremedia.com/) for pizza before the meetup.**
+
 Summer's over and it's the start of another exciting year of YEGrb meetups!
 
 We're kicking off the year with a meetup all about the RailsRumble. Come prepared to share tips, project ideas, and to find teammates!
