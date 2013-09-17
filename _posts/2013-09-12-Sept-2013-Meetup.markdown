@@ -25,6 +25,10 @@ We're also excited to announce that we're moving the venue to StartupEdmonton. T
 
  * Wed Sept 19th - [DemoCamp Edmonton 22](http://www.meetup.com/startupedmonton/events/137164032/)
 
+## Jobs
+
+ * [AMA seeks Web Developer](http://careers.stackoverflow.com/jobs/39399/web-developer-iii-alberta-motor-association?a=M3anUN4k&searchTerm=AMA) - talk to [@RyanOnRails](https://twitter.com/ryanonrails) for details
+
 ## Talks
 
 * [@MarkBennett](http://twitter.com/markbennett) An Introduction to GIS and Rails, Part 1 of 3
