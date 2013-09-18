@@ -24,9 +24,12 @@ We're also excited to announce that we're moving the venue to StartupEdmonton. T
 ## Events
 
  * Wed Sept 19th - [DemoCamp Edmonton 22](http://www.meetup.com/startupedmonton/events/137164032/)
+ * Oct. 7—13 - RailsRumble Registration
+ * Oct. 19-20 - It's time to Rumble
 
 ## Jobs
 
+ * [Mitre Media](http://mitremedia.com) seeks Developers and Designers. Boo-ya!
  * [AMA seeks Web Developer](http://careers.stackoverflow.com/jobs/39399/web-developer-iii-alberta-motor-association?a=M3anUN4k&searchTerm=AMA) - talk to [@RyanOnRails](https://twitter.com/ryanonrails) for details
  * [AgileStyle](http://www.agilestyle.com/) is looking to hire both a [front-end web developer](http://www.agilestyle.com/careers) and a [Ruby on Rails developer](http://www.agilestyle.com/careers).
  * [Granify](http://granify.com/) is looking for a [backend developer](http://granify.com/careers/backend-developer/) (Ruby and eventually Go!), as well as a [DevOps and Scalability Engineer](http://granify.com/careers/devops-engineer/). Big data, big fun.
@@ -36,3 +39,7 @@ We're also excited to announce that we're moving the venue to StartupEdmonton. T
 
 * [@MarkBennett](http://twitter.com/markbennett) An Introduction to GIS and Rails, Part 1 of 3
 * [@fnichol](http://twitter.com/fnichol) An Introduction to Docker and Linux Containers
+
+## RailsRumble
+
+What is it? When is it? Who's interested?
