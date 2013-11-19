@@ -4,10 +4,15 @@ title: November 2013 Meetup
 ---
 
 **WHAT**: November 2013 Meetup  
-**WHEN**: Tuesday Novmeber 19th at 19:00
+**WHEN**: Tuesday Novmeber 19th at 19:00  
 **WHERE**: Startup Edmonton Suite 301 10359-104 Street
 
 [RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/149164662/).
+
+## Talks
+
+* [@MarkBennett](http://twitter.com/markbennett) An Introduction to GIS and Rails, Part 2 of 3
+* [@nathany](https://twitter.com/nathany) Ruby Template Languages
 
 ## News
 
@@ -35,6 +40,4 @@ title: November 2013 Meetup
 
 * [Jobber](http://getjobber.com/) is hiring a [Rails developer](http://getjobber.com/jobs/rails_developer) and a [Front-end developer](http://getjobber.com/jobs/frontend_developer)
 
-## Talks
 
-* [@MarkBennett](http://twitter.com/markbennett) An Introduction to GIS and Rails, Part 2 of 3
