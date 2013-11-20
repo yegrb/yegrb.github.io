@@ -25,10 +25,10 @@ title: November 2013 Meetup
 ## Events
 
 * Nov 21 [Motion Meetup](https://plus.google.com/u/0/events/c6brvb3jcmla68lpd1cajt7sodc) with Dennis Ushakov (RubyMine)
-* ~~Nov 21 [Launch Party](https://www.facebook.com/events/668655433158203/) (sold out)~~
+* Nov 21 [Launch Party](https://www.facebook.com/events/668655433158203/) (sold out)
 * Nov 22-24 [Hacking Health](http://www.hackinghealth.ca/events/edmonton/hhedmonton2013/)
-* ~~Nov 23 [Ladies Learning Code](https://www.facebook.com/events/434151483357199/) (sold out)~~
-* ~~Nov 26 [Panex](https://www.facebook.com/groups/59071219138/) (sold out)~~
+* Nov 23 [Ladies Learning Code](https://www.facebook.com/events/434151483357199/) (sold out)
+* Nov 26 [Panex](https://www.facebook.com/groups/59071219138/) (sold out)
 * Dec 3 [Google Deveoper Group](http://www.meetup.com/startupedmonton/events/149795192/)
 * Dec 5 [Exchange.js](http://www.exchangejs.com/)
 * Dec 9 [Python User Group](http://edmontonpy.com/)
