@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NOTES - Oct 18th Meetup
-category: meetup, notes
+categories: meetups notes
 ---
 
 **WHEN:** Tuesday, Oct 18 @ 18:30  

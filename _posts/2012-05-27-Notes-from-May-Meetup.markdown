@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Notes from May meetup
+categories: meetups notes
 ---
 
 This month we had some fun and did an all JavaScript meetup to celebrate the

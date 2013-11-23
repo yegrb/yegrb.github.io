@@ -1,6 +1,7 @@
 ---
 title: HACKUP - 18:30 Monday Feb 6th, 2012 at IdeaLoft
 layout: default
+category: hackups
 ---
 
 **WHAT**: Monthly Hackup  

@@ -1,10 +1,32 @@
-permalink: :pretty
+permalink: pretty
 title: YEGRB
-subtitle: "Edmonton's Rubyists Rejoice"
+subtitle: "Edmonton's Ruby Meetup"
 author_name: YEGRB
 webmaster_email: mark@yegrb.com
 homepage_url: http://yegrb.com
 atom_url: /atom.xml
 rss_url: /rss.xml
 paginate: 5
-exclude: [ 'README', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'build', 'bin', 'resources', '.gitignore' ]
+exclude: ['README', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'build', 'bin', 'resources', '.gitignore' ]
+
+safe: true
+lsi: false
+pygments: true
+
+timezone: America/Edmonton
+encoding: UTF-8
+
+markdown: redcarpet
+
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - tables
+    - fenced_code_blocks
+    - disable_indented_code_blocks
+    - autolink
+    - strikethrough
+    - lax_spacing
+    - superscript
+    - with_toc_data
+    - smart

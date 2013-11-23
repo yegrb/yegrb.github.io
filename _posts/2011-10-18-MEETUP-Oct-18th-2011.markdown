@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MEETUP - October 18th, 2011
-category: meetup
+category: meetups
 ---
 
 **WHAT**: Monthly Meetup  

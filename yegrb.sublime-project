@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+      "folder_exclude_patterns":
+      [
+        ".sass-cache",
+        "_site",
+        "bin",
+        ".bundle"
+      ],
+		}
+	],
+  "trim_trailing_white_space_on_save": false
+}

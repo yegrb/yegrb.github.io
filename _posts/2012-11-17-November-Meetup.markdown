@@ -1,6 +1,7 @@
 ---
 layout: default
 title: November Meetup
+category: meetups
 ---
 
 **WHAT**: Monthly Meetup  

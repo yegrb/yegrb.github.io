@@ -1,6 +1,7 @@
 ---
 title: YEGrb January Meetup
 layout: default
+category: meetups
 ---
 
 # News

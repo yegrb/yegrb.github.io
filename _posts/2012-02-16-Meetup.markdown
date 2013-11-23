@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Meetup on Tuesday Feb 21st, 2012
+category: meetups
 ---
 
 **WHAT**: Monthly Meetup  

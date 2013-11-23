@@ -1,6 +1,7 @@
 ---
 title: MEETUP - Tuesday Sept 18th 18:30
 layout: default
+category: meetups
 ---
 
 ***WHAT***: Monthly Meetup  

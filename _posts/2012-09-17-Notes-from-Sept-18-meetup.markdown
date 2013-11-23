@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Notes from Sept 18th, 2012 meetup
+categories: meetups notes
 ---
 
 ## News

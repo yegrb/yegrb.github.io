@@ -1,6 +1,7 @@
 ---
 layout: default
 title: May 2013 Meetup
+category: meetups
 ---
 
 At this month's meetup we're talking e-commerce and payments. We want to help

@@ -7,27 +7,26 @@ To setup an environment to develop and change the website just clone this repo a
 
     bundle install --binstubs
 
-To build the static files which will deployed to the site we use a gem called Jekyll (https://github.com/mojombo/jekyll). You can get Jekyll to rebuild the site using:
-
-    bin/jekyll
-
-You'll need to re-run this every time you change a layout or edit a post. Since this gets tedious very quickly you can arrange for Jekyll to watch and re-build the pages automatically using the --auto flag:
-
-    bin/jekyll --auto
-
 The static files are build into the _site folder, but if you want to serve them to the web browser jekyll can be run as a server:
 
-    bin/jekyll --server --auto
+    bin/jekyll server -w
 
 This will serve the pages on port 4000, and automatically rebuild the site when files in _posts or _layouts change.
+
+You can also enable rendering of files in the _drafts folder with:
+
+    bin/jekyll server -w --drafts
 
 
 Deploying to yegrb.com
 =======================
 
-If you have permission to write to the YEGrb site repo then you can deploy your changes to http://yegrb.com using rake:
+If you have permission to write to the YEGrb site repo then you can deploy your changes to http://yegrb.com with git:
 
-    bin/rake github_pages:publish
+    git push origin master
+
+Otherwise create a fork on GitHub and send us a pull request.
+
 
 Questions?
 ===========

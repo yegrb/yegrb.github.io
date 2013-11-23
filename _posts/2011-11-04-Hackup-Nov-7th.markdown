@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HACKUP - Nov. 7th 18:30 at Idealoft
-category: hackup
+category: hackups
 ---
 
 **WHAT**: Monthly Hackup  

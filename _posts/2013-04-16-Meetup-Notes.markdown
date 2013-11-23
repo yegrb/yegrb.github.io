@@ -1,6 +1,7 @@
 ---
 layout: default
 title: April 2013 Meetup
+category: meetups
 ---
 
 ## News

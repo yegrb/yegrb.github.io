@@ -1,6 +1,7 @@
 ---
 title: March 2013 Meetup
 layout: default
+category: meetups
 ---
 
 ## News & Notes
