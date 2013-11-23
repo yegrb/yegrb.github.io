@@ -12,7 +12,7 @@ title: November 2013 Meetup
 ## Talks
 
 * [@MarkBennett](http://twitter.com/markbennett) An Introduction to GIS and Rails, Part 2 of 3
-* [@nathany](https://twitter.com/nathany) Ruby Template Languages
+* [@nathany](https://twitter.com/nathany) Ruby Template Languages ([source code](https://github.com/yegrb/2013-nov-meetup-notes))
 
 ## News
 
