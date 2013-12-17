@@ -1,6 +1,7 @@
 ---
 layout: default
 title: September 2013 Meetup
+category: meetups
 ---
 
 **WHAT**: September 2013 Meetup  

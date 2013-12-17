@@ -1,6 +1,7 @@
 ---
 title: November Meetup Notes
 layout: default
+category: meetups
 ---
 
 <iframe width="540" height="304" src="http://www.youtube.com/embed/Uu3wkRfuL_g" frameborder="0" allowfullscreen="yes"> </iframe>

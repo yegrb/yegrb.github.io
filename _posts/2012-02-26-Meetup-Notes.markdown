@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Meetup Notes
+category: meetups notes
 ---
 
 This months meetup had a good turnout, and a lot of discussion about the basics of Ruby. We were also glad to see so many people out to talk about how their using Ruby in their work.

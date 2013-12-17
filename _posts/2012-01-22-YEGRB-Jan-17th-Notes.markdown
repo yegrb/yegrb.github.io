@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Notes from Jan 17th, 2012 meetup
+category: meetups notes
 ---
 
 **WHEN:** Tuesday January 19th @ 18:30  

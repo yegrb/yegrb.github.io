@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MEETUP - Tuesday Feb 19th, 2013
+category: meetups
 ---
 
 **WHAT:** Monthly Ruby Meetup  

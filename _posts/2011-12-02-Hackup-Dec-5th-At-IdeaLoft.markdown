@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HACKUP - Dec 5th 18:30 at IdeaLoft
+category: hackups
 ---
 
 **WHAT**: Monthly Hackup  

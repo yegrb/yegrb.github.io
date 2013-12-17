@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MEETUP - Tuesday January 17th, 2012 at 18:30
+category: meetups
 ---
 
 **WHEN:** Tuesday January 17th @ 18:30  

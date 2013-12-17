@@ -1,7 +1,7 @@
 ---
 title: YEGRB 2011-12 Planning Meeting
 layout: default
-category: meetups, planning
+categories: meetups planning
 ---
 
 **WHEN**: Thursday August 11th @ 7:00PM  

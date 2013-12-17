@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Meetup - MOVED! Tuesday May 22nd @ 18:30
+category: meetups
 ---
 
 **WHAT**: Monthly Meetup  

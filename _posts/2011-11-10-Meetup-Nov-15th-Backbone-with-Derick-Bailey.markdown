@@ -1,7 +1,7 @@
 ---
 title: Meetup - November 15th - Backbone.js with Derick Bailey
 layout: default
-category: posts
+category: meetups
 ---
 
 **WHAT:** Meetup, Backbone.js with Derick Bailey  
