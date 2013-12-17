@@ -21,7 +21,7 @@ category: meetups
 * [Rails 4.0.1](http://weblog.rubyonrails.org/2013/11/1/Rails-4-0-1-has-been-released/)
 * [Ruby Under a Microscope](http://nostarch.com/rum) (book)
 * [Rubinius](http://rubini.us/) 2.2 (2.0 was in October)
-* [RubyConf](http://rubyconf.org/) ([Confreaks](http://confreaks.com/events))
+* [RubyConf](http://rubyconf.org/) ([Confreaks](http://confreaks.com/events/rubyconf2013))
 
 ## Events
 
@@ -30,7 +30,7 @@ category: meetups
 * Nov 22-24 [Hacking Health](http://www.hackinghealth.ca/events/edmonton/hhedmonton2013/)
 * Nov 23 [Ladies Learning Code](https://www.facebook.com/events/434151483357199/) (sold out)
 * Nov 26 [Panex](https://www.facebook.com/groups/59071219138/) (sold out)
-* Dec 3 [Google Deveoper Group](http://www.meetup.com/startupedmonton/events/149795192/)
+* Dec 3 [Google Developer Group](http://www.meetup.com/startupedmonton/events/149795192/)
 * Dec 5 [Exchange.js](http://www.exchangejs.com/)
 * Dec 9 [Python User Group](http://edmontonpy.com/)
 * Dec 11 [Nerds Night Out](https://www.facebook.com/groups/182278816121/) | [GameCamp](http://www.meetup.com/startupedmonton/events/149795102/)
