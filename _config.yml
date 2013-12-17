@@ -1,4 +1,4 @@
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 title: YEGRB
 subtitle: "Edmonton's Ruby Meetup"
 author_name: YEGRB
