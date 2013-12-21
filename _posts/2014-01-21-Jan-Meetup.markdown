@@ -10,3 +10,4 @@ category: meetups
 
 [RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/qtzfrgyscbcc/).
 
+[Propose a talk](https://github.com/yegrb/yegrb.github.io/issues/8).
