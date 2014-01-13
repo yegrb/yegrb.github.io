@@ -22,7 +22,7 @@ category: meetups
 
 ## News
 
-* [RailsConf 2014](http://lanyrd.com/2014/railsconf/) April 22-25 in Chicago
+* [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
 * [Ruby 2.1](http://www.ruby-lang.org/en/news/2013/12/25/ruby-2-1-0-is-released/) ([Aman Gupta on Ruby 2.1](http://tmm1.net/))
 * [Rails 4.1 beta](http://weblog.rubyonrails.org/2013/12/18/Rails-4-1-beta1/) ([What's New](http://coherence.io/blog/2013/12/17/whats-new-in-rails-4-1.html))
 * [Bundler 1.5](http://bundler.io/) ([What's New](http://bundler.io/v1.5/whats_new.html))
