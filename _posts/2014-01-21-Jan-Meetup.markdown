@@ -10,9 +10,15 @@ category: meetups
 
 [RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/qtzfrgyscbcc/).
 
-## Pizza
+## Thank-you
 
 * Pizza provided by [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [StartupEdmonton](http://www.startupedmonton.com/)
+
+## Jobs
+
+* Yardstick is hiring an intermediate developer, talk to [@darkhelmetlive](https://twitter.com/darkhelmetlive) or [the job posting](http://yardsticksoftware.mytribehr.com/careers/view/8)
+* pinshape is launching a 3D printing marketplace for 3D printable models in Feb. They're looking for javascript & ruby developers at any level, & an experienced growth hacker,  email lucas@pinshape.com.
 
 ## Talks
 
