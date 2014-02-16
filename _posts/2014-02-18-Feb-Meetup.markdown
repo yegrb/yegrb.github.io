@@ -28,6 +28,8 @@ category: meetups
 
 ## Upcoming Events
 
+* [Open Data Day Hackathon](http://www.epl.ca/odd2014) February 22
+* [Dart Flight School](http://www.meetup.com/startupedmonton/events/160441582/) February 23
 * [MountainWest RubyConf](http://mtnwestrubyconf.org/) March 20-21 in Salt Lake City 
 * [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
 * [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
