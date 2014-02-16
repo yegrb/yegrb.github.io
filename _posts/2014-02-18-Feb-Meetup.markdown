@@ -23,6 +23,7 @@ category: meetups
 
 ## News &amp; Jobs
 
+* [Hello Ruby](https://www.kickstarter.com/projects/lindaliukas/hello-ruby)
 * [Ruby Weekly](http://rubyweekly.com/issues)
 
 ## Upcoming Events
