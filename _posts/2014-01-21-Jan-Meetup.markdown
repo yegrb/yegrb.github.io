@@ -10,10 +10,10 @@ category: meetups
 
 [RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/qtzfrgyscbcc/).
 
-## Thank-you
+## Thank You
 
 * Pizza provided by [Mitre Media](http://mitremedia.com/).
-* Meetup space provided by [StartupEdmonton](http://www.startupedmonton.com/)
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
 
 ## Jobs
 
