@@ -23,6 +23,7 @@ category: meetups
 
 ## News &amp; Jobs
 
+* [Rails 3.2.17, 4.0.3 and 4.1.0.beta2 released with DoS, injection, and XSS fixes](http://weblog.rubyonrails.org/2014/2/18/Rails_3_2_17_4_0_3_and_4_1_0_beta2_have_been_released/)
 * [Hello Ruby](https://www.kickstarter.com/projects/lindaliukas/hello-ruby)
 * [Ruby Weekly](http://rubyweekly.com/issues)
 
