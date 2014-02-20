@@ -1,0 +1,34 @@
+---
+layout: default
+title: March 2014 Meetup
+category: meetups
+---
+
+**WHAT**: March 2014 Meetup   
+**WHEN**: Tuesday, March 18 at 6:30 pm  
+**WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+[RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/qtzfrgysfbxb/).
+
+## Thank You
+
+* Pizza provided by [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Talks
+
+TBD
+
+* [Propose a talk](https://github.com/yegrb/yegrb.github.io/issues/13)
+
+## News &amp; Jobs
+
+* [Ruby Weekly](http://rubyweekly.com/issues)
+* [Job opening?](https://github.com/yegrb/yegrb.github.io/issues/13)
+
+## Upcoming Events
+
+* [MountainWest RubyConf](http://mtnwestrubyconf.org/) March 20-21 in Salt Lake City 
+* [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
+* [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
+* [Meetups](http://www.meetup.com/startupedmonton/) at Startup Edmonton 
