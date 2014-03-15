@@ -17,18 +17,20 @@ category: meetups
 
 ## Talks
 
-TBD
-
-* [Propose a talk](https://github.com/yegrb/yegrb.github.io/issues/13)
+* [@RyanOnRails](https://twitter.com/ryanonrails) Clean up your Rails Controllers with Decent Exposure
+* [@TheHydroImpulse](https://twitter.com/TheHydroImpulse) Ruby Under A Microscope: Let's Talk Garbage
 
 ## News &amp; Jobs
 
+* [Ruby 2.1.1](https://www.ruby-lang.org/en/news/2014/02/24/ruby-2-1-1-is-released/) [Hash#reject regression](https://www.ruby-lang.org/en/news/2014/03/10/regression-of-hash-reject-in-ruby-2-1-1)
+* [Rails 4.0.4](http://weblog.rubyonrails.org/2014/3/14/Rails-4-0-4-has-been-released/)
+* [Ruby Gotchas](http://blog.elpassion.com/ruby-gotchas/)
+* [Rumours of Ruby's Demise](http://devblog.avdi.org/2014/02/23/rumors-of-rubys-demise/)
+* [In Memory of Jim Weirich](http://confreaks.com/events/imjw2014)
 * [Ruby Weekly](http://rubyweekly.com/issues)
-* [Job opening?](https://github.com/yegrb/yegrb.github.io/issues/13)
 
 ## Upcoming Events
 
-* [MountainWest RubyConf](http://mtnwestrubyconf.org/) March 20-21 in Salt Lake City 
 * [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
 * [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
 * [Meetups](http://www.meetup.com/startupedmonton/) at Startup Edmonton 
