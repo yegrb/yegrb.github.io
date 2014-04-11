@@ -17,14 +17,30 @@ category: meetups
 
 ## Talks
 
-* TBD ([Propose a Talk](https://github.com/yegrb/yegrb.github.io/issues/14))
+* Puma in Production [@nathany](https://twitter.com/nathany)
+* Ruby the Weird Parts, Finding Them The Hard Way [@stormbrew](https://twitter.com/stormbrew)
+* ([Propose a Talk](https://github.com/yegrb/yegrb.github.io/issues/14))
+ 
+## News
 
-## News &amp; Jobs
-
-* [Prawn 1.0](http://elmcitycraftworks.org/post/79929183748/prawn-1-0-is-finally-here) (PDF Toolkit)
+* [Rails 4.1](http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/)
+* [Sidekiq 3.0](http://www.mikeperham.com/2014/03/28/sidekiq-3-0/) (on [JRuby](http://blog.mogotest.com/2014/03/20/improving-sidekiq-performance-with-jruby/))
+* [Prawn 1.0](http://elmcitycraftworks.org/post/79929183748/prawn-1-0-is-finally-here) ([vs. other PDF gems](http://www.sitepoint.com/pdf-generation-rails/))
+* [Hound](http://robots.thoughtbot.com/introducing-hound) (Ruby style guide violations)
+* [Ruby 2.1 Garbage Collection: ready for production](http://samsaffron.com/archive/2014/04/08/ruby-2-1-garbage-collection-ready-for-production) (Sam Saffron)
+* [Use Bower for managing front-end assets in Rails](http://growingdevs.com/stop-using-rubygems-and-start-using-bower.html) (also see [Rails Assets](https://rails-assets.org/))
 * [The New Rubygems Index Format](https://blog.engineyard.com/2014/new-rubygems-index-format)
+* [Rails Hosting Survey](http://rails-hosting.com/)
+* More at [Ruby Weekly](http://rubyweekly.com/issues)
+
+## Books
+
+* [iOS on Rails](https://learn.thoughtbot.com/products/25-ios-on-rails-beta)
+* [Build a Ruby Gem](http://brandonhilkert.com/books/build-a-ruby-gem/)
 
 ## Upcoming Events
 
+* [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
 * [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
 * [Meetups](http://www.meetup.com/startupedmonton/) at Startup Edmonton 
+
