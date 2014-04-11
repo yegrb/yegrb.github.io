@@ -17,9 +17,9 @@ category: meetups
 
 ## Talks
 
-* Puma in Production [@nathany](https://twitter.com/nathany)
 * Ruby the Weird Parts, Finding Them The Hard Way [@stormbrew](https://twitter.com/stormbrew)
-* ([Propose a Talk](https://github.com/yegrb/yegrb.github.io/issues/14))
+* Black or white. There is no grey in my repo! [@mdeering](https://twitter.com/mdeering)
+* Puma in Production [@nathany](https://twitter.com/nathany)
  
 ## News
 
