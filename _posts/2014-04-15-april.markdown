@@ -38,12 +38,13 @@ category: meetups
 * [iOS on Rails](https://learn.thoughtbot.com/products/25-ios-on-rails-beta)
 * [Build a Ruby Gem](http://brandonhilkert.com/books/build-a-ruby-gem/)
 
-## Edmonton Ruby Jobs
+## Ruby Jobs
 
 * [AgileStyle](http://www.agilestyle.com/careers#rails)
 * [Jobber](http://getjobber.com/jobs/rails_developer)
 * [MitreMedia](http://mitremedia.com/#careers)
 * [Yardstick](http://yardsticksoftware.mytribehr.com/careers/view/8)
+* [PetroFeed](https://www.petrofeed.com/company/careers) (Calgary)
 * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
 
 ## Upcoming Events
