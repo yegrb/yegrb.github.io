@@ -17,7 +17,6 @@ category: meetups
 
 ## Talks
 
-* Ruby the Weird Parts, Finding Them The Hard Way [@stormbrew](https://twitter.com/stormbrew)
 * Black or white. There is no grey in my repo! [@mdeering](https://twitter.com/mdeering)
 * Puma in Production [@nathany](https://twitter.com/nathany)
  
@@ -39,13 +38,17 @@ category: meetups
 * [iOS on Rails](https://learn.thoughtbot.com/products/25-ios-on-rails-beta)
 * [Build a Ruby Gem](http://brandonhilkert.com/books/build-a-ruby-gem/)
 
+## Edmonton Ruby Jobs
+
+* [AgileStyle](http://www.agilestyle.com/careers#rails)
+* [Jobber](http://getjobber.com/jobs/rails_developer)
+* [MitreMedia](http://mitremedia.com/#careers)
+* [Yardstick](http://yardsticksoftware.mytribehr.com/careers/view/8)
+* Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
+
 ## Upcoming Events
 
 * [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
 * [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
 * [Meetups](http://www.meetup.com/startupedmonton/) at Startup Edmonton 
-
-## Edmonton Ruby Jobs
-
-* Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
 
