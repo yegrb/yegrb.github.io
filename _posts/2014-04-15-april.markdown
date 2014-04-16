@@ -51,7 +51,7 @@ category: meetups
 ## Upcoming Events
 
 * [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
-* [PetroFeed Drinkup](https://www.eventbrite.com/e/petrofeed-drinkup-tickets-11228628129) April 30
+* [PetroFeed Drinkup](https://www.eventbrite.com/e/petrofeed-drinkup-tickets-11228628129) April 30 at Mercer Tavern
 * [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
 * [Meetups](http://www.meetup.com/startupedmonton/) at Startup Edmonton 
 
