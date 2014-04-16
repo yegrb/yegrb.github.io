@@ -41,15 +41,17 @@ category: meetups
 ## Ruby Jobs
 
 * [AgileStyle](http://www.agilestyle.com/careers#rails)
+* [Inkdit](https://inkdit.com/)
 * [Jobber](http://getjobber.com/jobs/rails_developer)
 * [MitreMedia](http://mitremedia.com/#careers)
-* [Yardstick](http://yardsticksoftware.mytribehr.com/careers/view/8)
 * [PetroFeed](https://www.petrofeed.com/company/careers) (Calgary)
+* [Yardstick](http://yardsticksoftware.mytribehr.com/careers/view/8)
 * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
 
 ## Upcoming Events
 
 * [RailsConf 2014](http://www.railsconf.com/) April 22-25 in Chicago
+* [PetroFeed Drinkup](https://www.eventbrite.com/e/petrofeed-drinkup-tickets-11228628129)
 * [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
 * [Meetups](http://www.meetup.com/startupedmonton/) at Startup Edmonton 
 
