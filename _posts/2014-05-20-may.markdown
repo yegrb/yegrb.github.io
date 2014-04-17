@@ -1,0 +1,39 @@
+---
+layout: default
+title: May 2014 Meetup
+category: meetups
+---
+
+**WHAT**: May 2014 Meetup   
+**WHEN**: Tuesday, May 20 at 6:30 pm  
+**WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+[RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/177621352/).
+
+## Thank You
+
+* Pizza provided by [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Talks
+
+* [Propose a talk](https://github.com/yegrb/yegrb.github.io/issues/15)
+
+## News
+
+* More at [Ruby Weekly](http://rubyweekly.com/issues)
+
+## Books
+
+* [Confident Ruby](http://pragprog.com/book/agcr/confident-ruby)
+* [Metaprogramming Ruby 2ed](http://pragprog.com/book/ppmetr2/metaprogramming-ruby)
+
+## Ruby Jobs
+
+* Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
+
+## Upcoming Events
+
+* [RubyMotion #inspect 2014](http://www.rubymotion.com/conference/2014/) May 28-29 San Francisco
+* [Meetups](http://www.meetup.com/startupedmonton/) at Startup Edmonton 
+
