@@ -18,7 +18,7 @@ category: meetups
 ## Talks
 
 * Black or white. There is no grey in my repo! [@mdeering](https://twitter.com/mdeering)
-* Puma in Production [@nathany](https://twitter.com/nathany)
+* Puma in Production [@nathany](https://twitter.com/nathany) ([slides](https://speakerdeck.com/nathany/puma-in-production))
  
 ## News
 
