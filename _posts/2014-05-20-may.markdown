@@ -23,6 +23,7 @@ category: meetups
 
 ## News
 
+* [RailsConf videos](http://confreaks.com/events/railsconf)
 * [Guard is looking for new maintainers](https://groups.google.com/forum/#!msg/guard-dev/2Td0QTvTIsE/cegvVofIJ8AJ)
 * More at [Ruby Weekly](http://rubyweekly.com/issues)
 
