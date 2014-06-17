@@ -21,7 +21,21 @@ category: meetups
 
 ## News
 
+* [RubyMotion 3.0 Sneak Peek: Android Support](http://blog.rubymotion.com/post/87048665656/rubymotion-3-0-sneak-peek-android-support)
+* [5 Reasons Why Rubyist Will Love Swift](http://littlelines.com/blog/2014/06/11/why-rubyist-will-love-swift/)
+* [Avoid Rails When Generating JSON responses with PostgreSQL](http://reefpoints.dockyard.com/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql.html)
+* [Ruby Backports](http://rubybackports.com/) 
 * More at [Ruby Weekly](http://rubyweekly.com/issues)
+
+## Libraries
+
+* [RSpec 3.0](http://myronmars.to/n/dev-blog/2014/06/rspec-2-99-0-and-3-0-0-have-been-released)
+* [ActiveJob](https://github.com/rails/activejob) (alpha)
+* [SeedMigrations](http://engineering.harrys.com/2014/06/09/seed-migrations.html)
+
+## Books
+
+* [Rails 4 Test Prescriptions](http://pragprog.com/book/nrtest2/rails-4-test-prescriptions)
 
 ## Ruby Jobs
 
