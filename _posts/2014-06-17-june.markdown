@@ -18,7 +18,6 @@ category: meetups
 ## Talks
 
 * Upgrading Rails [@nathany](https://twitter.com/nathany) ([slides](https://speakerdeck.com/nathany/upgrading-rails))
-* [Propose a talk](https://github.com/yegrb/yegrb.github.io/issues/16)
 
 ## News
 
