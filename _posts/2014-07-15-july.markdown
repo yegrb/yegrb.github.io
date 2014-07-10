@@ -1,0 +1,36 @@
+---
+layout: default
+title: July 2014 Meetup
+category: meetups
+---
+
+ **WHAT**: July 2014 Meetup  
+ **WHEN**: Tuesday, July 15 at 6:30 pm  
+ **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+ [RSVP via the Startup Edmonton Meetup page]().
+
+## Thank You
+
+* Pizza provided by [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup
+  Edmonton](http://www.startupedmonton.com/)
+
+## Talks
+
+## News
+
+ * [EOL for 1.8.7 and 1.9.2](https://www.ruby-lang.org/en/news/2014/07/01/eol-for-1-8-7-and-1-9-2/)
+ * [4.0.8 and 4.1.4 Releasaed](http://weblog.rubyonrails.org/2014/7/2/Rails_4_0_8_and_4_1_4_have_been_released/)
+  * Security fixes related to PostgreSQL range
+ * [Thoughtbot's 'Laptop': Setup Ruby on Mac and Linux](https://github.com/thoughtbot/laptop/blob/master/README.md)
+  * More at [Ruby Weekly](http://rubyweekly.com/issues)
+
+## Libraries
+
+## Books
+
+## Ruby Jobs
+  * [Mitre Media](http://mitremedia.com/#careers)
+  * [Jobber](https://getjobber.com/jobs/rails_developer)
+  * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
