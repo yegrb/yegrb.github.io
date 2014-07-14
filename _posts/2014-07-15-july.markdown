@@ -17,7 +17,10 @@ category: meetups
   Edmonton](http://www.startupedmonton.com/)
 
 ## Talks
-  * TBD
+  * YEGRB Community Project Overview
+    * Starting a new Rails application
+    * Basic RSpec testing environment
+    * Git install and commnad line basics
 
 ## News
 
