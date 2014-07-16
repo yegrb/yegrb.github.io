@@ -21,6 +21,7 @@ category: meetups
     * Starting a new Rails application
     * Basic RSpec testing environment
     * Git install and commnad line basics
+  * See the Project's [Github Repo](https://github.com/yegrb/leduccountrylights.com)
 
 ## News
 
