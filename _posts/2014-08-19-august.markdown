@@ -5,7 +5,7 @@ category: meetups
 ---
 
  **WHAT**: August 2014 Meetup  
- **WHEN**: Tuesday, August 12th at 6:30 pm  
+ **WHEN**: Tuesday, August 19th at 6:30 pm  
  **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
 
  {% comment %}[RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/193490912/).{% endcomment %}
@@ -24,6 +24,9 @@ category: meetups
 ## News
 
  * [Heroku is Sponsoring the Rails Rumble](http://blog.railsrumble.com/2014/07/23/heroku-create-2014-rails-rumble/)
+ * [Rails Survey Results](http://blog.planetargon.com/entries/2014/7/31/the-results-of-the-2014-rails-hosting-survey-are-in)
+ * [Ruby Conf Registration is Open](http://rubyconf.org/registration)
+
 
 ## Ruby Jobs
   * [Mitre Media](http://mitremedia.com/#careers)
