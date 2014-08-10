@@ -1,0 +1,34 @@
+---
+layout: default
+title: August 2014 Meetup
+category: meetups
+---
+
+ **WHAT**: August 2014 Meetup  
+ **WHEN**: Tuesday, August 19th at 6:30 pm  
+ **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+ {% comment %}[RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/193490912/).{% endcomment %}
+
+## Thank You
+
+* Pizza provided by [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Talks
+  * Review of Last Month's Contributions to YEG.rb's pet project Leduc
+  Country Lights
+    * See the Project's [Github Repo](https://github.com/yegrb/leduccountrylights.com)
+  * More Talks TBA
+
+## News
+
+ * [Heroku is Sponsoring the Rails Rumble](http://blog.railsrumble.com/2014/07/23/heroku-create-2014-rails-rumble/)
+ * [Rails Survey Results](http://blog.planetargon.com/entries/2014/7/31/the-results-of-the-2014-rails-hosting-survey-are-in)
+ * [Ruby Conf Registration is Open](http://rubyconf.org/registration)
+
+
+## Ruby Jobs
+  * [Mitre Media](http://mitremedia.com/#careers)
+  * [Jobber](https://getjobber.com/jobs/rails_developer)
+  * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
