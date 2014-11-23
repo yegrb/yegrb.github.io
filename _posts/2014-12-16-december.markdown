@@ -1,0 +1,25 @@
+---
+layout: default
+title: December 2014 Meetup
+category: meetups
+---
+
+ **WHAT**: December 2014 Meetup  
+ **WHEN**: Tuesday, December 16th at 6:30 pm  
+ **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+ {% comment %}[RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/218800869/).{% endcomment %}
+
+## Thank You
+
+* Pizza provided by [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Talks
+  * How to Win a Hackathon - Ben Zittlau
+  * Functional Programming and Elixir - Nathan Feaver
+
+## Ruby Jobs
+  * [Mitre Media](http://mitremedia.com/#careers)
+  * [Jobber](https://getjobber.com/jobs/rails_developer)
+  * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
