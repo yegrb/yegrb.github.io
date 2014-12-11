@@ -19,6 +19,12 @@ category: meetups
   * How to Win a Hackathon - Ben Zittlau
   * Functional Programming and Elixir - Nathan Feaver
 
+## News
+
+* [Ruby 2.20 Release](https://www.ruby-lang.org/en/news/2014/11/28/ruby-2-2-0-preview2-released/)
+* [Rails 4.2.0.rc1/Rails 4.2.0.rc2](http://weblog.rubyonrails.org/)
+
+
 ## Ruby Jobs
   * [Mitre Media](http://mitremedia.com/#careers)
   * [Jobber](https://getjobber.com/jobs/rails_developer)
