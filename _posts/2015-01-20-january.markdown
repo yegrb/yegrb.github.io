@@ -1,0 +1,33 @@
+---
+layout: default
+title: January 2015 Meetup
+category: meetups
+---
+
+ **WHAT**: January 2015 Meetup  
+ **WHEN**: Tuesday, January 20th at 6:30 pm  
+ **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+ {% comment %}[RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/218800951/).{% endcomment %}
+
+## Thank You
+
+* Food Supplied by: [Eat Fresh Meet](http://eatfreshmeet.org/), Paid for by: [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Talks
+  * Pry-celess Tools - Ben Zittlau
+  * New Open Source Gems! - The Agile Style Team
+  * Open Forum on Open Source in Edmonton
+
+## News
+
+* [Ruby 2.20 Release](https://www.ruby-lang.org/en/news/2014/12/25/ruby-2-2-0-released/)
+* [Railsconf Call for
+  Proposals](http://rubycentral-cfp.herokuapp.com/events/railsconf-2015)
+
+
+## Ruby Jobs
+  * [Jobber](https://getjobber.com/jobs/rails_developer)
+  * [Mitre Media](http://mitremedia.com/#careers)
+  * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
