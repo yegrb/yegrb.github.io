@@ -23,6 +23,7 @@ category: meetups
 ## News
 
 * [Ruby 2.20 Release](https://www.ruby-lang.org/en/news/2014/12/25/ruby-2-2-0-released/)
+* [Rails Blog Weekly News!?](http://weblog.rubyonrails.org/)
 * [Railsconf Call for
   Proposals](http://rubycentral-cfp.herokuapp.com/events/railsconf-2015)
 
