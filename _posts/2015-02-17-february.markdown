@@ -4,11 +4,9 @@ title: February 2015 Meetup
 category: meetups
 ---
 
- **WHAT**: February 2015 Meetup
- **WHEN**: Tuesday, February 17th at 6:30 pm
- **WHERE**: Startup Edmonton Suite 301 10359-104 Street
-
- {% comment %}[RSVP via the Startup Edmonton Meetup page](http://www.meetup.com/startupedmonton/events/219469205/).{% endcomment %}
+**WHAT**: February 2015 Meetup
+**WHEN**: Tuesday, February 17th at 5:30 pm
+**WHERE**: Startup Edmonton Suite 301 10359-104 Street
 
 ## Thank You
 
@@ -22,7 +20,8 @@ category: meetups
 
 ## Talks
 
-* TBA
+* Michael Deering - Simple code reuse patterns in Rails
+* Ben  Zittlau - API Development Tricks, Tips & Tools
 
 ## News
 
