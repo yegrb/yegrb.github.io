@@ -20,7 +20,7 @@ category: meetups
 
 ## Talks
 
-* Michael Deering - Simple code reuse patterns in Rails
+* Opal and Volt
 * TBA
 
 ## News
