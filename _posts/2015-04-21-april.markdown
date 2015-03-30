@@ -1,0 +1,34 @@
+---
+layout: default
+title: April 2015 Meetup
+category: meetups
+---
+
+ **WHAT**: April 2015 Meetup  
+ **WHEN**: Tuesday, April 21st at 5:30 pm  
+ **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+## Thank You
+
+* Food Supplied by: [Eat Fresh Meet](http://eatfreshmeet.org/), Paid for by: [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Beginner's Track
+
+* Join us at 5:30 pm to learn beginner Ruby topics with Nathan Feaver
+* This month: Another look at Ruby Warrior (bring a laptop if you've got one, no setup required)
+
+## Talks
+
+* TBA
+* TBA
+
+## News
+
+* [Ruby 1.9.3 Support Has Ended](https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/)
+* [Rails - `rails test` Command](https://github.com/rails/rails/pull/19216)
+
+## Ruby Jobs
+  * [Jobber](https://getjobber.com/jobs/rails_developer)
+  * [Mitre Media](http://mitremedia.com/#careers)
+  * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
