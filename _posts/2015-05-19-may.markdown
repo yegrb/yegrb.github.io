@@ -1,0 +1,37 @@
+---
+layout: default
+title: May 2015 Meetup
+category: meetups
+---
+
+ **WHAT**: May 2015 Meetup  
+ **WHEN**: Tuesday, May 19th at 5:30 pm  
+ **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+## Thank You
+
+* Food Supplied by: [Eat Fresh Meet](http://eatfreshmeet.org/), Paid for by: [Mitre Media](http://mitremedia.com/).
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Beginner's Track
+
+* Join us at 5:30 pm to learn beginner Ruby topics with Nathan Feaver
+* This month: Understanding Ruby Classes
+
+## Talks
+
+Talks starting at 6:30 pm:
+
+* TBA
+* TBA
+
+## News
+
+* [Ruby 2.2.2 Released](https://www.ruby-lang.org/en/news/2015/04/13/ruby-2-2-2-released/)
+* [RailsConf 2015 Videos](http://confreaks.tv/events/railsconf2015)
+
+## Ruby Jobs
+  * [AgileStyle](http://www.agilestyle.com/careers/)
+  * [Jobber](https://getjobber.com/jobs/rails_developer)
+  * [Mitre Media](http://mitremedia.com/#careers)
+  * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
