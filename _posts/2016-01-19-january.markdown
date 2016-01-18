@@ -43,4 +43,5 @@ Talks starting at 6:30 pm:
   * [AgileStyle](http://www.agilestyle.com/careers/)
   * [Jobber](https://getjobber.com/jobs/rails_developer)
   * [Mitre Media](http://mitremedia.com/#careers)
+  * [Compute Canada](https://www.computecanada.ca/wp-content/uploads/2015/12/SoftwareArchitectCANFAR1.pdf)
   * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
