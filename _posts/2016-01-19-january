@@ -1,0 +1,46 @@
+---
+layout: default
+title: January 2016 Meetup
+category: meetups
+---
+
+ **WHAT**: January 2016 Meetup  
+ **WHEN**: Tuesday, January 19th at 5:30 pm  
+ **WHERE**: Startup Edmonton Suite 301 10359-104 Street  
+
+## Thank You
+
+* Food Supplied by: TBA
+* Meetup space provided by [Startup Edmonton](http://www.startupedmonton.com/)
+
+## Beginner's Track
+
+* Join us at 5:30 pm to learn beginner Ruby topics with Nathan Feaver
+* This month: 
+
+[YEGRB Beginner's Track Syllabus](https://docs.google.com/document/d/1YetQ2AeFPhSwCB-OHGwIZrx9O-aKJo6SR2dqwie72n4/edit)
+
+In the YEGRB Beginner’s Track this year, we’ll be working through the exercises on [Exercism.io](http://exercism.io) together. Exercism.io gives you problems to solve using the Ruby programming language (and other languages too!) and the problems come in the form of tests that you can run to see if your program is working or not. This is a great tool because testing your code will give you fast feedback and speed up your learning process.
+
+## January 19th Exercises: 
+hamming, gigasecond, rna-transcription
+
+Please make an effort to work on problems before coming to the beginner’s track. It will help you learn the material much better. However, if you are unable to work on the problems, please feel welcome to attend anyhow.
+
+## Talks
+
+Talks starting at 6:30 pm:
+
+* TBA
+* TBA
+
+## News
+
+* [Ruby 2.3.0 Released](https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released/)
+* [Rails 5.0 Beta 1 Released](http://weblog.rubyonrails.org/2015/12/18/Rails-5-0-beta1/)
+
+## Ruby Jobs
+  * [AgileStyle](http://www.agilestyle.com/careers/)
+  * [Jobber](https://getjobber.com/jobs/rails_developer)
+  * [Mitre Media](http://mitremedia.com/#careers)
+  * Tweet [@yegrb](https://twitter.com/yegrb) a link to your job posting.
