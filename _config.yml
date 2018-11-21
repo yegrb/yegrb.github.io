@@ -6,18 +6,32 @@ webmaster_email: alan@yegrb.com
 homepage_url: http://yegrb.com
 atom_url: /atom.xml
 rss_url: /rss.xml
+
+plugins: [jekyll-paginate]
+# gems:
+#   - jekyll-paginate
 paginate: 5
-exclude: ['README', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'build', 'bin', 'resources', '.gitignore' ]
+
+exclude:
+  [
+    "README",
+    "Rakefile",
+    "Gemfile",
+    "Gemfile.lock",
+    "build",
+    "bin",
+    "resources",
+    ".gitignore",
+  ]
 
 safe: true
 lsi: false
-pygments: true
+highlighter: rouge
 
 timezone: America/Edmonton
 encoding: UTF-8
 
 markdown: redcarpet
-
 redcarpet:
   extensions:
     - no_intra_emphasis

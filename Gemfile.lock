@@ -248,6 +248,8 @@ PLATFORMS
 DEPENDENCIES
   foreman
   github-pages
+  jekyll-feed (~> 0.6)
+  jekyll-paginate
   redcarpet
 
 BUNDLED WITH
