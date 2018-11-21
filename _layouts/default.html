@@ -2,29 +2,33 @@
 <!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	{% if page.title %}
-		<title>{{ page.title }}</title>
+	<title>{{ page.title }}</title>
 	{% else %}
-		<title>YEGRB - Edmonton's Ruby Meetup</title>
+	<title>YEGRB - Edmonton's Ruby Meetup</title>
 	{% endif %}
-  <meta name="description" content="YEGRB's mission is to grow the Ruby community in Edmonton, Canada.  Come out to our next meetup, or write some code together at our next hackup!">
-  <meta name="author" content="Mark Bennett, mark@yegrb.com">
+	<meta name="description" content="YEGRB's mission is to grow the Ruby community in Edmonton, Canada.  Come out to our next meetup, or write some code together at our next hackup!">
+	<meta name="author" content="Mark Bennett, mark@yegrb.com">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" href="/favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-  <link  href="http://fonts.googleapis.com/css?family=Bevan:regular" rel="stylesheet" type="text/css" >
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:regular,regularitalic,bold,bolditalic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/css/style.css?v=2">
-  <script src="/js/libs/modernizr-1.7.min.js"></script>
+	<link href="http://fonts.googleapis.com/css?family=Bevan:regular" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:regular,regularitalic,bold,bolditalic' rel='stylesheet'
+	 type='text/css'>
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/css/style.css?v=2">
+	<script src="/js/libs/modernizr-1.7.min.js"></script>
 
-  <link href="https://plus.google.com/b/116923764087972001994/" rel="publisher" />
+	<link href="https://plus.google.com/b/116923764087972001994/" rel="publisher" />
 
 </head>
 
@@ -32,77 +36,83 @@
 
 	<header class="clearfix light_text">
 		<div class="container_12">
-			  <a id="yegrb-logo" class="grid_9 alpha" href="/index.html">
-          <div>
-						<hgroup>
-								<h1>YEGRB</h1>
-								<h2>Edmonton's Ruby Meetup</h2>
-						</hgroup>
-					</div>
-				</a>
-				<aside class="grid_3 omega">
-					<p><em class="mission">YEGRB's mission is to grow the <a href="http://www.ruby-lang.org/en/">Ruby</a> community in <a href="http://en.wikipedia.org/wiki/Edmonton">Edmonton, Canada</a>.</em> Come out to our next meetup, or write some code together at our next hackup!</p>
-				</aside>
+			<a id="yegrb-logo" class="grid_9 alpha" href="/index.html">
+				<div>
+					<hgroup>
+						<h1>YEGRB</h1>
+						<h2>Edmonton's Ruby Meetup</h2>
+					</hgroup>
+				</div>
+			</a>
+			<aside class="grid_3 omega">
+				<p><em class="mission">YEGRB's mission is to grow the <a href="http://www.ruby-lang.org/en/">Ruby</a> community in
+						<a href="http://en.wikipedia.org/wiki/Edmonton">Edmonton, Canada</a>.</em> Come out to our next meetup, or write
+					some code together at our next hackup!</p>
+			</aside>
 		</div>
 	</header>
 	<div id="main" role="main" class="clearfix container_12">
 		<div id="content" class="prefix_2 grid_7 alpha">
 			{% unless page.is_home %}
-				<article class="post" itemscope itemtype="http://schema.org/Article">
-				  <h1 itemprop="name">{{ page.title }}</h1>
-          <div itemprop="description">
-						{{ content }}
-					</div>
-					<footer>
-					  <div class="share-post">
-							<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="yegrb">Tweet</a>
-					<div id="fb-root"></div>
-      <script src="http://connect.facebook.net/en_US/all.js"></script>
-      <script>
-         FB.init({
-            appId:'223169201042858', cookie:true,
-            status:true, xfbml:true
-         });
-      </script>
-			<fb:like></fb:like>
+			<article class="post" itemscope itemtype="http://schema.org/Article">
+				<h1 itemprop="name">{{ page.title }}</h1>
+				<div itemprop="description">
+					{{ content }}
+				</div>
+				<footer>
+					<div class="share-post">
+						<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="yegrb">Tweet</a>
+						<div id="fb-root"></div>
+						<script src="http://connect.facebook.net/en_US/all.js"></script>
+						<script>
+							FB.init({
+								appId: '223169201042858',
+								cookie: true,
+								status: true,
+								xfbml: true
+							});
+						</script>
+						<fb:like></fb:like>
 						<div class="g-plusone" data-annotation="inline"></div>
-						</div>
-					</footer>
-				</article>
+					</div>
+				</footer>
+			</article>
 			{% else %}
-				{{ content }}
+			{{ content }}
 			{% endunless %}
 
 		</div>
 		<aside class="grid_3 omega">
 
 			<section id="next-meetup">
-  			<h2>Next Event</h2>
-  			<p>YEGRB is on hosted by <a href="http://www.meetup.com/startupedmonton/">Startup Edmonton</a> on third Tuesday of each month at 6:30 pm.</a></p>
+				<h2>Next Event</h2>
+				<p>YEGRB is on hosted by <a href="http://www.meetup.com/startupedmonton/">Startup Edmonton</a> on third Tuesday of
+					each month at 6:30 pm.</a></p>
 			</section>
 
-      <nav class="horizontal">
+			<nav class="horizontal">
 
 				<h2>Follow Us</h2>
-        <ul>
-          <li><a href="http://www.meetup.com/startupedmonton/events/"><i class="fa fa-calendar"></i></a></li>
+				<ul>
+					<li><a href="http://www.meetup.com/startupedmonton/events/"><i class="fa fa-calendar"></i></a></li>
 					<li><a href="https://twitter.com/yegrb"><i class="fa fa-twitter"></i></a></li>
 					<li><a href="https://plus.google.com/+Yegrb/videos" rel="publisher"><i class="fa fa-google-plus"></i></a></li>
-          <li><a href="http://www.youtube.com/user/yegrb"><i class="fa fa-youtube"></i></a></li>
-        </ul>
+					<li><a href="http://www.youtube.com/user/yegrb"><i class="fa fa-youtube"></i></a></li>
+				</ul>
 
-        <h2>Discussion</h2>
-        <ul>
-          <li><a href="http://webchat.freenode.net/?channels=yegrb&amp;uio=d4"><i class="fa fa-bullhorn"></i></a></li>
-          <li><a href="https://groups.google.com/forum/#!forum/yegrb"><i class="fa fa-users"></i></a></li>
-        </ul>
+				<h2>Discussion</h2>
+				<ul>
+					<li><a href="https://devedmonton-invite.herokuapp.com/"><i class="fa fa-comments"></i></a></li>
+					<li><a href="http://webchat.freenode.net/?channels=yegrb&amp;uio=d4"><i class="fa fa-bullhorn"></i></a></li>
+					<li><a href="https://groups.google.com/forum/#!forum/yegrb"><i class="fa fa-users"></i></a></li>
+				</ul>
 
-        <h2>Get Involved</h2>
-        <ul>
-          <li><a href="https://github.com/yegrb"><i class="fa fa-github"></i></a></li>
-        </ul>
+				<h2>Get Involved</h2>
+				<ul>
+					<li><a href="https://github.com/yegrb"><i class="fa fa-github"></i></a></li>
+				</ul>
 
-      </nav>
+			</nav>
 
 		</aside>
 	</div>
@@ -116,7 +126,8 @@
 						<li><a href="/categories/meetups/">meetups</a></li>
 						<li><a href="/categories/hackups/">hackups</a></li>
 						<li><a href="https://github.com/yegrb/yeg-wiki/wiki/Ruby-jobs-in-edmonton">opportunities</a></li>
-						<li><a href="mailto:mark@yegrb.com">contact us</a></li>
+						<li><a href="/slack/">slack</a></li>
+						<li><a href="mailto:alan@yegrb.com">contact us</a></li>
 					</ul>
 				</section>
 				<section class="grid_2">
@@ -138,7 +149,8 @@
 			</nav>
 			<aside class="grid_3 prefix_3 omega">
 
-				<p>All content on this site is copyright 2013 YEGRB and released under a Creative Commons attribution license unless specified otherwise. We respect your privacy.</p>
+				<p>All content on this site is copyright 2013 YEGRB and released under a Creative Commons attribution license
+					unless specified otherwise. We respect your privacy.</p>
 
 				<p><a href="https://github.com/yegrb/yegrb.github.io">Fork this site on GitHub</a> to submit changes!</p>
 			</aside>
@@ -146,52 +158,59 @@
 	</footer>
 
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
-  <script>window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+	<script>
+		window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")
+	</script>
 
 
-  <!-- scripts concatenated and minified via ant build script-->
-  <script src="js/plugins.js"></script>
+	<!-- scripts concatenated and minified via ant build script-->
+	<script src="js/plugins.js"></script>
 	<script src="js/script.js"></script>
 	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 	<script type="text/javascript">
-		(function() {
-			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		(function () {
+			var po = document.createElement('script');
+			po.type = 'text/javascript';
+			po.async = true;
 			po.src = 'https://apis.google.com/js/plusone.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(po, s);
 		})();
 	</script>
-  <!-- end scripts-->
+	<!-- end scripts-->
 
 
-  <!--[if lt IE 7 ]>
+	<!--[if lt IE 7 ]>
     <script src="js/libs/dd_belatedpng.js"></script>
     <script>DD_belatedPNG.fix("img, .png_bg");</script>
   <![endif]-->
 
-<script type="text/javascript">
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-73138-7']);
+		_gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-73138-7']);
-  _gaq.push(['_trackPageview']);
+		(function () {
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript';
+			ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			window.onerror = function (errorMsg, url, lineNumber) {
+				// Log error in Google Analytics
+				var label = "" + url + ":" + lineNumber + " " + errorMsg;
+				_gaq.push(['_trackEvent', 'Window', 'Errors', label]);
 
-    window.onerror = function(errorMsg, url, lineNumber) {
-      // Log error in Google Analytics
-      var label = "" + url + ":" + lineNumber + " " + errorMsg;
-      _gaq.push(['_trackEvent', 'Window', 'Errors', label]);
-
-      // Just let default handler run.
-     return false;
-    };
-  })();
-
-</script>
+				// Just let default handler run.
+				return false;
+			};
+		})();
+	</script>
 
 </body>
+
 </html>
