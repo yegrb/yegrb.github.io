@@ -2,7 +2,7 @@ permalink: /:year/:month/:day/:title/
 title: YEGRB
 subtitle: "Edmonton's Ruby Meetup"
 author_name: YEGRB
-webmaster_email: mark@yegrb.com
+webmaster_email: alan@yegrb.com
 homepage_url: http://yegrb.com
 atom_url: /atom.xml
 rss_url: /rss.xml
