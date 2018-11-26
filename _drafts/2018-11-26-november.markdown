@@ -1,0 +1,30 @@
+---
+layout: default
+title: We are back!
+category: meetups
+---
+
+**WHAT**: January 2019 Meetup
+**WHEN**: Saturday, January 5th at 1pm
+**WHERE**: Startup Edmonton Suite 301 10359-104 Street
+
+## Who We Are
+
+YEGRB is Edmonton’s local Ruby Meetup. Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. This meetup is held monthly for people of all abilities and backgrounds who share one thing: an interest in the language that was designed for humans first.
+
+## Thank You
+
+- Meetup space provided by the invaluable [Startup Edmonton](http://www.startupedmonton.com/)
+- Supported by the awesome folks at [Dev Edmonton Society](https://devedmonton.com/)
+
+## Talks
+
+Talks starting at 1:30 pm:
+
+To be announced!
+
+## Additional Information
+
+- Laptops are good but not required
+- No food is currently provided
+- Newbies are very welcome!
