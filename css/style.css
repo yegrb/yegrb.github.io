@@ -96,6 +96,10 @@ q {
 	quotes: none;
 }
 
+.sponsor {
+	width: 50%;
+}
+
 blockquote:before,
 blockquote:after,
 q:before,

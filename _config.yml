@@ -10,7 +10,7 @@ rss_url: /rss.xml
 plugins: [jekyll-paginate]
 # gems:
 #   - jekyll-paginate
-paginate: 5
+paginate: 3
 
 exclude:
   [
