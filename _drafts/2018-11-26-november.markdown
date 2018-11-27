@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YEGRB is back in 2019!
+title: YEGRB is back!</br>January 2019 Meetup
 category: meetups
 ---
 
@@ -21,7 +21,7 @@ YEGRB is Edmonton’s local Ruby Meetup. Ruby is a dynamic, open source programm
 
 Talks starting at 1:30 pm:
 
-- The State of Ruby, Ben Zittlau
+- The State of the Ruby Nation, Ben Zittlau
 - The Nimble Programmer Bootcamp, Doug Kaweski
 
 ## Additional Information
