@@ -6,7 +6,7 @@ category: meetups
 
 **WHAT**: January 2019 Meetup</br>
 **WHEN**: Saturday, January 5th at 1pm</br>
-**WHERE**: Startup Edmonton Suite 301 10359-104 Street
+**WHERE**: Startup Edmonton Suite 301 10359-104 Street, Cafe/Kitchen area.
 
 ## Who We Are
 
@@ -21,8 +21,8 @@ YEGRB is Edmonton’s local Ruby Meetup. Ruby is a dynamic, open source programm
 
 Talks starting at 1:30 pm:
 
-- The State of the Ruby Nation, Ben Zittlau
-- The Nimble Programmer Bootcamp, Doug Kaweski
+- "There to here: recent evolutions of Ruby", Ben Zittlau
+- "The Nimble Programmer Bootcamp", Doug Kaweski
 
 ## Additional Information
 
