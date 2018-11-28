@@ -98,6 +98,8 @@ q {
 
 .sponsor {
 	width: 50%;
+	margin-top: 5px;
+	margin-bottom: 10px;
 }
 
 blockquote:before,
