@@ -31,16 +31,4 @@ highlighter: rouge
 timezone: America/Edmonton
 encoding: UTF-8
 
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - no_intra_emphasis
-    - tables
-    - fenced_code_blocks
-    - disable_indented_code_blocks
-    - autolink
-    - strikethrough
-    - lax_spacing
-    - superscript
-    - with_toc_data
-    - smart
+markdown: kramdown
