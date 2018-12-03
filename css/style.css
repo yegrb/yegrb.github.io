@@ -441,12 +441,12 @@ header h2 {
 	display: block;
 	height: 95px;
 	width: 540px;
-	background-image: url('../img/simple_yegrb.png');
+	/* background-image: url('../img/simple_yegrb.png');
 	background-repeat: no-repeat;
-	position: relative;
+	position: relative; */
 	text-decoration: none;
 	color: #444;
-	padding: 55px 0 0 160px;
+	padding: 40px 0 0 160px;
 }
 
 #main {
