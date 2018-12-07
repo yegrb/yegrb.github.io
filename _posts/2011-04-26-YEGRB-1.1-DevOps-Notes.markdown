@@ -1,0 +1,63 @@
+------------------------------------------------------------------------
+
+title: NOTES - YEGRB 1.1 DevOps\
+layout: default\
+category: meetups\
+----
+
+News
+----
+
+-   [Rails 3.0.7
+    released](http://weblog.rubyonrails.org/2011/4/18/rails-3-0-7-has-been-released) -
+    performance enhancements to fix regressions introduced in 3.0.6
+-   [Rails 3.1 default
+    changes](https://github.com/rails/rails/commit/9f09aeb8273177fc2d09ebdafcc76ee8eb56fe33) -
+    SASS, jQuery, and CoffeeScript are new defaults in Rails 3.1
+-   [RailsInstaller
+    1.1](http://www.engineyard.com/blog/2011/railsinstaller-1-1-1-release/) -
+    Now with better support for GitHub. Because even Windows needs some
+    lovin'.
+-   [IsItRubinious?](http://isitrubinius.com) - You knew it was coming
+    at some point. Find out if your favourite gems run on Rubinius.
+-   [Pow](http://pow.cx/) - Zero-config Rack server for Mac OS X
+-   [MacRuby](http://www.macruby.org/blog/2011/03/23/macruby010.htm) -
+    Now with more Ruby in the Apple AppStore
+
+Announcements
+-------------
+
+Thanks for our meetup partners [SilverSky
+Solutions](http://silversky.ca/), [Burmis Studio](http://burmis.ca), and
+[The University of Alberta Department of Computer
+Science](https://www.cs.ualberta.ca/).
+
+Our next meetup is taking place on May 17th, 2011 at the Computer
+Science Centre on the University of Alberta campus.
+
+Ruby Refresh with [\@MarkBennett](http://twitter.com/MarkBennett)
+-----------------------------------------------------------------
+
+In this months recap we talked about Rack, and it's role in the Ruby
+ecosystem.
+
+<iframe src="https://docs.google.com/present/embed?id=dd46ntfw_60ggg2cm3d&interval=5&size=m" frameborder="0" width="555" height="451">
+</iframe>
+Iterative Chef by [\@fnichol](http://twitter.com/fnichol)
+---------------------------------------------------------
+
+Fletcher Nichol gave an in-depth talk on bootstrapping a solo box with
+Chef. He started by using standard shell scripts to configure his box,
+and slowly iterated his examples to leverage more Chef best practices.
+He's kindly posted [his complete
+notes](http://fnichol.github.com/iterative_chef/) on GitHub.
+
+Puppet by [\@darkhelmetlive](http://twitter.com/darkhelmetlive)
+---------------------------------------------------------------
+
+Daniel Huckstep finished the night with a discussion of using Puppet for
+automated server management. The repo he used for deployment is private
+so despite the fact that he used it as an example, he can't open it up.
+If you're interested in learning more about Puppet he suggests visiting
+[Puppet Labs](http://www.puppetlabs.com/) and
+[FabFile](http://fabfile.org/). The puppet docs are also pretty solid.
