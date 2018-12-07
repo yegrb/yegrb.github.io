@@ -1,0 +1,23 @@
+------------------------------------------------------------------------
+
+layout: default\
+title: June 15th Meetup to be held at Axis Cafe\
+category: meetups\
+----
+
+Our next meetup is coming up fast and is only a few days away.
+<a href="https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dHhCUmZxSzlmbFJCeGZ0MWtLcXNib2c6MA#gid=0">RSVP
+now if you haven't already</a>! You can also
+<a href="http://www.google.com/moderator/#16/e=c9f4">submit questions
+for Aman online</a>.
+
+Following up on our last post we would like to announce that we're
+moving venues for this special meetup and will meeting at Axis Cafe on
+Jasper Avenue, rather than our normal location. Yardstick Software has
+kindly sponsored us, and will be providing picking up the tab for the
+first few attendees. There will be a \$6 drink special after that!
+
+Axis Cafe is located at
+<a href="http://maps.google.ca/maps/place?client=ubuntu&channel=cs&um=1&ie=UTF-8&q=axis+cafe+edmonton&fb=1&gl=ca&hq=axis+cafe&hnear=Edmonton,+AB&cid=11257325091653991410&ei=uccSTJbqMJGCNPiroekL&sa=X&oi=local_result&ct=result&resnum=1&ved=0CBYQnQIwAA ">10349
+Jasper Avenue</a>. Doors open at 6:00 with the meetup starting promptly
+at 6:30. See you there!

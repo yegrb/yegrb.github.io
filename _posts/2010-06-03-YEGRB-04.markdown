@@ -1,0 +1,40 @@
+------------------------------------------------------------------------
+
+layout: default\
+title: YEGRB July 15th Meetup - EventMachine and Ruby Tuning with Aman
+Gupta\
+category: meetups\
+----
+
+<img src="/images/posts/2010/06/aman_gupta.png" style="float: left; margin: 0 1em 1em 0;" alt="Aman Gupta" />It's
+hard to believe we're already on to our fourth YEGRB meetup, and this is
+going to be the best one yet! Aman Gupta
+(<a href="http://github.com/tmm1">github</a>,
+<a href="http://twitter.com/tmm1">twitter</a>) will be joining us via
+the web to present "Debugging Ruby: understanding and troubleshooting
+the VM and your application". Aman is a serial entrepreneur, ruby hacker
+and a recent winner of a Ruby Heroes award. He currently maintains the
+EventMachine project and various other gems that help build
+high-performance distributed and asynchronous systems in ruby, including
+em-mysql, em-spec, jsSocket and amqp.
+
+Most recently, Aman has been hacking on performance improvements to MRI,
+and tools for the VM such as perftools.rb, a sampling profiler for ruby
+code based on google-perftools, and gdb.rb, a MRI specific version of
+gdb.
+
+We've setup a
+<a href="http://www.google.com/moderator/#16/e=c9f4">Google Moderator
+channel to collect questions for Aman</a> in advance of his talk. Submit
+your questions early and vote on the ones you're most interested in so
+that we make maximum use of his time. You can also record a YouTube
+video of yourself asking your question.
+
+The meetup will be taking place on June 15th @ 18:30 MST. Please
+<a href="https://spreadsheets.google.com/a/yegrb.com/viewform?hl=en&formkey=dHhCUmZxSzlmbFJCeGZ0MWtLcXNib2c6MA#gid=0">RSVP
+in advance</a>. We're making some special arrangements for this months
+venue and will announce the location details later on this week.
+
+Thanks to Daniel
+(<a href="http://twitter.com/darkhelmetlive">\@darkhelmetlive</a>) for
+setting this talk up!
