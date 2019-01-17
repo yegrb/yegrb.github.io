@@ -23,7 +23,7 @@ YEGRB is Edmonton’s local Ruby Meetup. Ruby is a dynamic, open source programm
 Talks starting at 1:30 pm:
 
 - "Deploying a Rails app with Dokku and Digital Ocean" by Alan Vardy
-- Second talk to be announced!
+- "Idiomatic Ruby - Idiomatic Rails" by Donald Fenniak
 
 ## Additional Information
 
