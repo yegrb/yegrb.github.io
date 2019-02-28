@@ -17,7 +17,7 @@ YEGRB is Edmonton’s local Ruby Meetup. Ruby is a dynamic, open source programm
 
 Starting at 1:30 pm:
 
-- "Elixir for Rubyists" by Nathan Youngman
+- "Rails at Scale: Lessons from the Trenches" by a panel of experienced developers
 - Roundtable discussion: Testing in Ruby and Rails
 
 ## Additional Information
